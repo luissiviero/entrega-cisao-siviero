@@ -1,0 +1,308 @@
+{
+ "versao": "v0.1",
+ "gerado_em": "2026-10-28T21:52:25+00:00",
+ "fontes_md5": {
+  "gsheet": "c499486a2622eb81325b2201034adc75",
+  "contas": "668473c991eadc76df54177ada68b5e6",
+  "contas_lotes": "80e181d0e1d2999fce4cffea6df13f71",
+  "sei2018": "dcabdf2209e918d39e1ef81f547c779e",
+  "mestre": "a4c54c1c373e19ce8ae576959309449c"
+ },
+ "meses": 84,
+ "referencia": "teto",
+ "lotes": {
+  "n2018": 761.0,
+  "n2025": 426.0,
+  "reducao": 335.0,
+  "no_periodo": 273.6708456340294,
+  "apos_2024": 31.329154365970634,
+  "antes_2018": 31.0,
+  "indice_2018_2025": 2.03219602207841,
+  "por_classe": {
+   "ACORDO": 60.94025494982062,
+   "SOC": 15.306463775158129,
+   "VENDA": 149.40153646043206,
+   "BEM": 8.985617222034968,
+   "DIVL": 6.869565217391305,
+   "SEM": 6.25,
+   "OBRA": 25.91740800919234
+  }
+ },
+ "ponte": {
+  "piso": {
+   "total": 35113204.68670845,
+   "VENDA": 22013725.446772248,
+   "OBRA": 2543358.6481739427,
+   "ACORDO": 5953727.527917341,
+   "DIVL": 931573.4988981367,
+   "BEM": 1409315.1024852612,
+   "SOC": 1629004.4624615246,
+   "SEM": 632500.0,
+   "contratado": 3509617.9010438356,
+   "manter": 26107384.68799998,
+   "manter_rec": 23074884.392,
+   "manter_ext": 3032500.2959999777,
+   "divida": 5699503.6,
+   "bens_novos": 1670043.76,
+   "conclusao": 450000.0,
+   "usos": 33926932.04799998,
+   "saldo_lotes": -11913206.60122773,
+   "alugueis": 2967454.0,
+   "saldo_com_alugueis": -8945752.60122773,
+   "bens_2018_sem_destino": 1256500.0,
+   "sem_explicacao": -7056752.6012277305,
+   "um_sexto": -1176125.4335379552,
+   "investimento_a_demonstrar": -1003776.0520099518
+  },
+  "central": {
+   "total": 53861334.52100546,
+   "VENDA": 34999653.0453587,
+   "OBRA": 3807194.363113877,
+   "ACORDO": 8521378.386045024,
+   "DIVL": 1295971.7013424076,
+   "BEM": 2089214.2291544033,
+   "SOC": 2200214.355489238,
+   "SEM": 947708.4405018048,
+   "contratado": 5094626.647601935,
+   "manter": 26107384.68799998,
+   "manter_rec": 23074884.392,
+   "manter_ext": 3032500.2959999777,
+   "divida": 5699503.6,
+   "bens_novos": 1670043.76,
+   "conclusao": 450000.0,
+   "usos": 33926932.04799998,
+   "saldo_lotes": 1072720.9973587245,
+   "alugueis": 2967454.0,
+   "saldo_com_alugueis": 4040174.9973587245,
+   "bens_2018_sem_destino": 1256500.0,
+   "sem_explicacao": 6244383.437860529,
+   "um_sexto": 1040730.5729767549,
+   "investimento_a_demonstrar": 15146204.448576342
+  },
+  "teto": {
+   "total": 83066379.33242431,
+   "VENDA": 54093759.139779516,
+   "OBRA": 5749340.145638066,
+   "ACORDO": 13349991.801590608,
+   "DIVL": 2055967.2074530846,
+   "BEM": 2918630.6695881784,
+   "SOC": 3530704.0072039845,
+   "SEM": 1367986.3611708777,
+   "contratado": 8102094.397139438,
+   "manter": 26107384.68799998,
+   "manter_rec": 23074884.392,
+   "manter_ext": 3032500.2959999777,
+   "divida": 5699503.6,
+   "bens_novos": 1670043.76,
+   "conclusao": 450000.0,
+   "usos": 33926932.04799998,
+   "saldo_lotes": 20166827.091779537,
+   "alugueis": 2967454.0,
+   "saldo_com_alugueis": 23134281.091779537,
+   "bens_2018_sem_destino": 1256500.0,
+   "sem_explicacao": 25758767.452950414,
+   "um_sexto": 4293127.908825069,
+   "investimento_a_demonstrar": 39610201.99572792
+  }
+ },
+ "apos_2024": {
+  "n": 31.329154365970634,
+  "piso": 4234935.621248707,
+  "central": 11235692.970357299,
+  "teto": 11235692.970357299
+ },
+ "antes_2018": {
+  "n": 31.0,
+  "piso": 5511336.996085715,
+  "central": 5511336.996085715,
+  "teto": 10799493.183504306
+ },
+ "custos": {
+  "m_mes": 310802.1986666664,
+  "m_rec": 4120515.07,
+  "m_ext": 541517.909999996,
+  "classes": {
+   "INV": 1233601.3599999994,
+   "M": 4662032.979999996,
+   "TRANSF": 186000.0,
+   "LOTE": 1439844.68,
+   "BENS": 1680745.3099999996,
+   "DIV": 525000.0,
+   "DOC": 150000.0
+  },
+  "sei_15m": 9877224.33,
+  "inv_por_situacao": {
+   "sem loteamento identificado": 739560.64,
+   "finalizado/estoque": 370983.83,
+   "não finalizado": 123056.89
+  },
+  "prolabore_socios": 558000.0
+ },
+ "divida": {
+  "jan2019": 7320900,
+  "dez2024": 2121396.4,
+  "flavia": 500000.0,
+  "quitada": 5699503.6
+ },
+ "bens_novos": 1670043.76,
+ "bens_2018_sem_destino": 1256500.0,
+ "alugueis_mes": 35326.833333333336,
+ "concessao": {
+  "documentada": 450000.0,
+  "maxima": 7500000
+ },
+ "teste_receita": {
+  "cofins": 330650.31,
+  "pis": 71640.91,
+  "receita_cofins": 11021677.0,
+  "receita_pis": 11021678.461538462,
+  "comissoes": 407298.98,
+  "vendas_comissao": 6788316.333333333,
+  "modelo": {
+   "piso": 3578413.472429998,
+   "central": 6405575.1164271515,
+   "teto": 7243523.36592768
+  }
+ },
+ "contratos": [
+  {
+   "codigo": "11.2.1",
+   "item": "Áreas contratadas: loteamentos em licenciamento/execução (multas rescisórias)",
+   "siviero": -15754581.0,
+   "rafael": 18389019.0,
+   "comentario_luis": ""
+  },
+  {
+   "codigo": "11.2.2",
+   "item": "Lotes de terceiros passíveis de indenização (Farroupilha)",
+   "siviero": -16240000.0,
+   "rafael": -16240000.0,
+   "comentario_luis": "Não podem ser descontados do patrimônio se apenas passíveis de indenização. Podemos deixar lotes em garantia caso a indenização aconteça de fato."
+  },
+  {
+   "codigo": "11.2.3",
+   "item": "Obras finais a pagar (Colina do Retiro II)",
+   "siviero": -3800000.0,
+   "rafael": -3800000.0,
+   "comentario_luis": ""
+  },
+  {
+   "codigo": "11.2.4",
+   "item": "Demais compromissos (itens 1 a 15 e 19)",
+   "siviero": -13760000.0,
+   "rafael": -16127652.0,
+   "comentario_luis": ""
+  },
+  {
+   "codigo": "11.2.5",
+   "item": "Empréstimos e financiamentos",
+   "siviero": -2367652.03,
+   "rafael": 0.0,
+   "comentario_luis": ""
+  }
+ ],
+ "contratos_total": {
+  "siviero": -51922233.03,
+  "rafael": -17778633.0
+ },
+ "investimentos_2018": {
+  "planilha": 10376000,
+  "em_execucao": 5400000,
+  "contratados": 1250000
+ },
+ "trajetoria": [
+  {
+   "ano": "início 2018",
+   "lotes": 761.0,
+   "valor25": 214647269.87778574
+  },
+  {
+   "ano": "fim 2018",
+   "lotes": 730.8905556267698,
+   "valor25": 204408167.03030896,
+   "saidas": 30.10944437323016
+  },
+  {
+   "ano": "fim 2019",
+   "lotes": 684.3167585330893,
+   "valor25": 189701920.415653,
+   "saidas": 46.57379709368044
+  },
+  {
+   "ano": "fim 2020",
+   "lotes": 635.3121874167616,
+   "valor25": 174483401.1861823,
+   "saidas": 49.004571116327746
+  },
+  {
+   "ano": "fim 2021",
+   "lotes": 571.0999974266573,
+   "valor25": 152824601.08747077,
+   "saidas": 64.21218999010436
+  },
+  {
+   "ano": "fim 2022",
+   "lotes": 531.218161629744,
+   "valor25": 138997425.28542602,
+   "saidas": 39.88183579691329
+  },
+  {
+   "ano": "fim 2023",
+   "lotes": 499.84054748580513,
+   "valor25": 130394015.44031402,
+   "saidas": 31.377614143938878
+  },
+  {
+   "ano": "fim 2024",
+   "lotes": 456.3291543659707,
+   "valor25": 120781397.3618571,
+   "saidas": 43.51139311983446
+  },
+  {
+   "ano": "out/2025",
+   "lotes": 425.00000000000006,
+   "valor25": 109545704.3914998,
+   "saidas": 31.329154365970634
+  }
+ ],
+ "sensibilidade": [
+  {
+   "inicio": 2018,
+   "meses": 84,
+   "concessao": "documentada",
+   "piso": -7056752.6012277305,
+   "central": 6244383.437860529,
+   "teto": 25758767.452950414
+  },
+  {
+   "inicio": 2018,
+   "meses": 84,
+   "concessao": "máxima (v0)",
+   "piso": -14106752.60122773,
+   "central": -805616.5621394706,
+   "teto": 18708767.452950414
+  },
+  {
+   "inicio": 2019,
+   "meses": 72,
+   "concessao": "documentada",
+   "piso": -7328727.334473785,
+   "central": 4828487.197753891,
+   "teto": 18564909.87329436
+  },
+  {
+   "inicio": 2019,
+   "meses": 72,
+   "concessao": "máxima (v0)",
+   "piso": -14378727.334473789,
+   "central": -2221512.802246113,
+   "teto": 11514909.873294357
+  }
+ ],
+ "excedente_lista": {
+  "n": 58.0,
+  "piso": 9825750.915671429,
+  "central": 19158754.109250713,
+  "teto": 28491757.30283
+ }
+}

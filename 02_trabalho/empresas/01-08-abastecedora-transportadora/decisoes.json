@@ -1,0 +1,145 @@
+{
+  "_sobre": "Decisões aprovadas pelo Luís sobre a 01 Abastecedora e a 08 Transportadora. Lido por _scripts/build_mestre_01_08.py, que preenche as colunas Valor adotado, Decisão (P5) e Motivo da planilha-mestre. Não editar à mão sem registrar também em log-decisoes.md.",
+  "fase0": {
+    "aprovada_em": "2026-10-28",
+    "resumo": "pacotes/fase0-resumo.md"
+  },
+  "regras": {
+    "R1": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 1,
+      "valor": "grupo",
+      "decisao": "Adoto o valor do grupo (igual ao de Rafael)",
+      "motivo": "R1: mesmo valor nas três seções do PDF de Rafael e no inventário 2025; bem fica na empresa. A regra adota o valor, não a titularidade (concordância de Rafael condicionada, p. 4–5).",
+      "itens": [
+        "08-2025-01",
+        "08-2025-02",
+        "08-2025-04",
+        "08-2025-05",
+        "08-2025-06",
+        "08-2025-07",
+        "08-2025-08",
+        "08-2025-09",
+        "08-2025-10"
+      ]
+    },
+    "R2": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 1,
+      "valor": null,
+      "decisao": "Só registro de destino; tratamento pela sessão SEI",
+      "motivo": "R2: bem da Oficina Mecânica de 2018 hoje na SEI (itens 03 e 04 do doc 11).",
+      "itens": [
+        "OFI-2018-06",
+        "OFI-2018-07"
+      ]
+    }
+  },
+  "itens": {
+    "01-2025-01": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "valor_adotado": "rafael",
+      "decisao": "Adoto o valor de Rafael (maior)",
+      "motivo": "Pacote 2, item 1. Diretriz do Luís e C0: bem fica na empresa, maior valor. Rafael adota o balanço de 2018 (R$ 12.361.850,00), que inclui o caminhão-tanque ICW 8342; por isso o caminhão não recebe valor próprio. Alternativa intermediária (R$ 12.216.851,89) não adotada. DB-06."
+    },
+    "08-2025-03": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "valor_adotado": "rafael",
+      "decisao": "Adoto o valor de Rafael (maior)",
+      "motivo": "Pacote 2, item 2. Diretriz e C0. Nenhum dos dois valores tem nota ou laudo; o grupo repete o valor de 2018; Rafael segue a declaração de Benta (p. 5–6), aplicada só ao item 03 (p. 13). DB-07."
+    },
+    "08-2025-12": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "valor_adotado": "rafael",
+      "decisao": "Adoto o valor de Rafael (maior)",
+      "motivo": "Pacote 2, item 3. Diretriz e C0. R$ 160.000 fica abaixo da faixa de Rafael para caminhão com prancha (R$ 200.000–310.000, p. 10–11): valor conservador. DB-07."
+    },
+    "08-2025-11": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "valor_adotado": "rafael",
+      "decisao": "Adoto o valor de Rafael (maior)",
+      "motivo": "Pacote 2, item 4. Diretriz e C0. No piso da faixa de Rafael (R$ 50.000–90.000, p. 9–10). DB-07."
+    },
+    "08-2025-13": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "valor_adotado": "rafael",
+      "decisao": "Adoto o valor de Rafael (maior)",
+      "motivo": "Pacote 2, item 5. Diretriz e C0. No piso da faixa de Rafael (R$ 40.000–85.000, p. 12). DB-07."
+    },
+    "01-2018-02": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "valor_adotado": null,
+      "decisao": "Sem valor próprio; destino pendente (P4)",
+      "motivo": "Pacote 2, item 6. O valor de Rafael adotado para o posto já inclui o caminhão-tanque. A-06 retirada (opção b): destino a documentar por consulta da placa no DETRAN, feita pelo Luís."
+    },
+    "08-2018-09": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "valor_adotado": null,
+      "decisao": "Destino declarado em 2018, pendente de prova registral (P4)",
+      "motivo": "Pacote 2, item 7. Certidão da mat. 7.395. Propor inclusão (R$ 220.000, valor do grupo em 2018; caso extremo) só se a certidão mostrar o imóvel na 08 e não houver instrumento de doação ou promessa."
+    },
+    "08-2018-05": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "valor_adotado": null,
+      "decisao": "Pendência P4 (sem destino documentado)",
+      "motivo": "Pacote 2, item 8. Certidão da mat. 18.952 e T-05. Se ainda for da 08, propor inclusão pelo valor do grupo em 2018 (R$ 149.000; caso extremo)."
+    },
+    "08-2018-07": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "valor_adotado": null,
+      "decisao": "Pendência P4 (sem destino documentado)",
+      "motivo": "Pacote 2, item 9. T-06. Se ainda forem da 08 e não estiverem no \"+ instalações\" da sala 7.393, mesmo tratamento dos itens 7 e 8 (R$ 30.000; caso extremo); se estiverem, sem valor próprio."
+    }
+  },
+  "casamentos": {},
+  "planilha_mestre": {
+    "aprovada_em": "2026-10-28",
+    "arquivo": "planilha-mestre-01-08.xlsx",
+    "revisao": "_diario/revisao-planilha-mestre.md"
+  },
+  "rovilio_quotas": {
+    "aprovado_em": "2026-10-28",
+    "arquivo": "rovilio-quotas.md",
+    "revisao": "_diario/revisao-rovilio-quotas.md",
+    "liberado_para": [
+      "SEI",
+      "S4",
+      "S1",
+      "coordenação"
+    ]
+  },
+  "diretriz_01_08": {
+    "aprovada_em": "2026-10-28",
+    "texto_luis": "todas essas questões tratam de patrimônio que não ficará para mim. nesse caso, mantenha a versão deles quando mais cara e mude se mais barata que o recomendado por você",
+    "interpretacao": "Nenhum bem da 01 ou da 08 vem para o Luís (lista de Rafael sem itens dessas empresas). Em cada divergência adota-se o maior valor (C0). Perguntas ao grupo que possam reduzir o valor de um bem dessas empresas ou criar passivo nelas não são enviadas: prevalece a versão do grupo, quando mais alta."
+  },
+  "contingencias": {
+    "aprovadas_em": "2026-10-28",
+    "pacote": 3,
+    "C1": {
+      "decisao": "Nada é descontado do valor da 01 e da 08",
+      "motivo": "P5 (nenhum dos lados deduz) + diretriz do Luís; cada fato fica registrado sem valor (14 itens)."
+    },
+    "C2": {
+      "decisao": "Créditos e receitas sem valor, registrados",
+      "motivo": "P5 (os dois lados dão zero). Joveni: opção (a), sem valor. Aluguel SIM: só registro, não usar como argumento."
+    },
+    "C3": {
+      "decisao": "Nota de R$ 1.135.000 sem efeito no valor",
+      "motivo": "Nota contábil não explicada."
+    },
+    "perguntas": {
+      "T-09": "retirada (Joveni sem valor)",
+      "T-01": "retirada"
+    }
+  }
+}

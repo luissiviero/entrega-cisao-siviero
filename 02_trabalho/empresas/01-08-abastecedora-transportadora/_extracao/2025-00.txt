@@ -1,0 +1,53 @@
+SÓCIOS  DAS EMPRESAS SIVIERO
+PLANILHA  DO  VALOR  DO  CAPITAL DE CADA EMPRESA
+T1.R1: ADÉLIA FRIZON SIVIERO, brasileira, natural de Veranópolis – RS, casada com JOSÉ VALÉRIO SIVIERO (in memoriam), viúva, do lar, residente e domiciliada na Avenida Osvaldo Aranha, nº 790, apartamento nº 901, Bairro Centro, na cidade de Veranópolis – RS, inscrita no CPF/MF sob nº 647.482.600-25 e portadora da Carteira de Identidade nº 7050203897 – SSP/RS. Participação do percentual de 16,66% (Dezesseis vírgula sessenta e seis por cento) das cotas de capital e do (PL) patrimônio líquido de cada empresa, conforme Inventário de Bens e Balanço Contábil e Patrimonial.
+T1.R2: ÉLCIO SIVIERO, brasileiro, natural de Veranópolis – RS, casado pelo Regime de Comunhão Universal de Bens, com ISABEL CRISTINA DE SOUZA SIVIERO, empresário, residente e domiciliado na Rua São Francisco de Assis, nº 190, apartamento nº 703, Bairro Centro, na cidade de Veranópolis – RS, inscrito no CPF/MF nº 114.987.900-97 e portador da Carteira de Identidade nº 1018920023 – SSP/RS. Participação do percentual de 16,66% (Dezesseis vírgula sessenta e seis por cento) das cotas de capital e do (PL) patrimônio líquido de cada empresa, conforme Inventário de Bens e Balanço Contábil e Patrimonial.
+T1.R3: IRINEU SIVIERO (in memoriam), brasileiro, natural de Veranópolis – RS, casado pelo Regime de Comunhão Universal de Bens, com ANAIR DALVINA CESCA SIVIERO, motorista aposentado, residente e domiciliado na Rua Fiorelo Henrique Chiaradia, nº 56, Bairro Palugana, na cidade Veranópolis – RS, inscrito no CPF/MF sob nº 005.682.870-53 e portador da Carteira de Identidade nº 8024604145 – SPP/RS. Participação do percentual de 16,66% (Dezesseis vírgula sessenta e seis por cento) das cotas de capital e do (PL) patrimônio líquido de cada empresa, conforme Inventário de Bens e Balanço Contábil e Patrimonial.
+T1.R4: PEDRO SIVIERO, brasileiro, natural de Veranópolis – RS, casado pelo Regime de Comunhão Universal de Bens, com ELIANA DE FÁTIMA MENIN SIVIERO, engenheiro civil, residente e domiciliado na Rua Alfredo Chaves, nº 679, apartamento nº 601, Bairro Centro, na cidade de Veranópolis – RS, inscrito no CPF/MF nº 227.128.100-82 e portador da Carteira de Identidade nº 1003266622 – SSP/RS. Participação do percentual de 16,66% (Dezesseis vírgula sessenta e seis por cento) das cotas de capital e do (PL) patrimônio líquido de cada empresa, conforme Inventário de Bens e Balanço Contábil e Patrimonial.
+T1.R5: RAUL SIVIERO, brasileiro, natural de Veranópolis – RS, casado pelo Regime de Comunhão Universal de Bens, com CARMEN LOURDES PIEROZAN SIVIERO (in memoriam), motorista aposentado, residente e domiciliado na Rua Dr. José Montaury, nº 1248, Bairro Palugana, na cidade de Veranópolis – RS, inscrito no CPF/MF nº 026.666.930-15 e portador da Carteira de Identidade nº 1024603969 – SSP/RS. Participação do percentual de 16,66% (Dezesseis vírgula sessenta e seis por cento) das cotas de capital e do (PL) patrimônio líquido de cada empresa, conforme Inventário de Bens e Balanço Contábil e Patrimonial.
+T1.R6: VALTER SIVIERO (in memoriam), brasileiro, natural de Veranópolis – RS, casado pelo Regime de Comunhão Universal de Bens, com BENTA ELISA VELHO SIVIERO, administrador de empresas, residente e domiciliado na Rua Tiradentes, nº 705, Bairro Femaçã, na cidade Veranópolis – RS, inscrito no CPF/MF nº 202.511.810-49 e portador da Carteira de Identidade nº 4007647722 – SSP/RS. Participação do percentual de 16,66% (Dezesseis vírgula sessenta e seis por cento) das cotas de capital e do (PL) patrimônio líquido de cada empresa, conforme Inventário de Bens e Balanço Contábil e Patrimonial.
+T2.R1: E M P R E S A | V A L O R
+T2.R2: 01. ABASTECEDORA DE COMBUSTÍVEIS SIVIERO LTDA. x2 | R$ 9.661.414,00
+T2.R3: 02. AGROPECUÁRIA FAZENDA SÃO CRISPIN LTDA. | R$ 0,00
+T2.R4: 03. ASSOCIAÇÃO CULTURAL PRINCESA DOS VALES. | R$ 0,00
+T2.R5: 04. CEVAL TERRAPLANAGEM E ESCAVAÇÕES LTDA. | R$ 315.000,00
+T2.R6: 05. HOTEL PRINCESA DOS VALES LTDA. | R$ 75.410.201,00
+T2.R7: 06. HOTEL ARAÇA LTDA. | R$ 58.076.823,20
+T2.R8: 07. RÁDIO COMUNIDADE PRINCESA DOS VALES FM LTDA. | R$ 2.698.000,00
+T2.R9: 08. TRANSPORTADORA IRMÃOS SIVIERO LTDA. x2 | R$ 16.374.986,00
+T2.R10: 09. TURISMO SIVIERO LTDA. | R$ 0,00
+T2.R11: 10. SIVIERO TRANSPORTES LTDA. | R$ 0,00
+T2.R12: 11. SIVIERO EMPREENDIMENTOS IMOBILIÁRIOS LTDA. x2 | R$ 100.874,027,60
+T2.R13: TOTAL...................................................................................... | R$ 263.410.451,80
+CAPITAL PATRIMONIAL PARA CADA SÓCIO DO GRUPO EMPRESARIAL SIVIERO NO VALOR DE      R$ 43.897.245,30
+CAPITAL PATRIMONIAL PARA O SÓCIO ANTÔNIO TELMO DE TONI (RÁDIO) NO VALOR DE           R$        26.980,00
+T3.R1: E M P R E S A | V A L O R
+T3.R2: 01. ABASTECEDORA DE COMBUSTÍVEIS SIVIERO LTDA. COTA DO CAPITAL PATRIMONIAL DA EMPRESA PARA CADA SÓCIO: 16,66% = ............................................ R$ 1.610.235,67 | R$ 9.661.414,00
+T3.R3: 02. AGROPECUÁRIA FAZENDA SÃO CRISPIN LTDA. COTA DO CAPITAL PATRIMONIAL DA EMPRESA PARA CADA SÓCIO: 16,66% = ............................................ R$ 0,00 | R$ 0,00
+T3.R4: 03. ASSOCIAÇÃO CULTURAL PRINCESA DOS VALES. COTA DO CAPITAL PATRIMONIAL DA EMPRESA PARA CADA SÓCIO: 16,66% = ............................................ R$ 0,00 | R$ 0,00
+T3.R5: 04. CEVAL TERRAPLANAGEM E ESCAVAÇÕES LTDA. COTA DO CAPITAL PATRIMONIAL DA EMPRESA PARA CADA SÓCIO: 16,66% = ............................................ R$ 52.500,00 | R$ 315.000,00
+T3.R6: 05. HOTEL PRINCESA DOS VALES LTDA. COTA DO CAPITAL PATRIMONIAL DA EMPRESA PARA CADA SÓCIO: 16,66% = .......................................... R$ 12.568.366,83 | R$ 75.410.201,00
+T3.R7: 06. HOTEL ARAÇA LTDA. COTA DO CAPITAL PATRIMONIAL DA EMPRESA PARA CADA SÓCIO: 16,66% = ............................................ R$ 9.679.470,53 | R$ 58.076.823,20
+T3.R8: 07. RÁDIO COMUNIDADE PRINCESA DOS VALES FM LTDA. COTA DO CAPITAL PATRIMONIAL DA EMPRESA PARA CADA SÓCIO: 16,50% = ............................................ R$ 445.170,00 COTA DO CAPITAL PATRIMONIAL DA EMPRESA PARA O SÓCIO ANTÔNIO TELMO DE TONI: 1,00% = ................. R$ 26.980,00 | R$ 2.698.000,00
+T3.R9: 08. TRANSPORTADORA IRMÃOS SIVIERO LTDA. COTA DO CAPITAL PATRIMONIAL DA EMPRESA PARA CADA SÓCIO: 16,66% = ............................................ R$ 2.729.164,33 | R$ 16.374.986,00
+T3.R10: 09. TURISMO SIVIERO LTDA. COTA DO CAPITAL PATRIMONIAL DA EMPRESA PARA CADA SÓCIO: 16,66% = ............................................ R$ 0,00 | R$ 0,00
+T3.R11: 10. SIVIERO TRANSPORTES LTDA. COTA DO CAPITAL PATRIMONIAL DA EMPRESA PARA CADA SÓCIO: 16,66% = ............................................ R$ 0,00 | R$ 0,00
+T3.R12: 11. SIVIERO EMPRENTOS IMOBILIÁRIOS LTDA. COTA DO CAPITAL PATRIMONIAL DA EMPRESA PARA CADA SÓCIO: 16,66% = .......................................... R$ 16.812.337,93 | R$ 100.874.027,60
+T3.R13: TOTAL...................................................................................... | R$ 263.410.451,80
+Conforme INSTRUMENTO PARTICULAR DE COMPRA E VENDA DE QUOTAS DE CAPITAL, NA SOCIEDADE DE EMPRESAS DE RESPONSABILIDADE LIMITADA, datado de 28 de agosto de 2025, o Sócio ROVÍLIO SIVIERO, brasileiro, natural de Veranópolis – RS, Odontólogo, residente e domiciliado na Rua Carijós, nº 427, Bairro Vila Fátima, na cidade de Passo Fundo – RS, CEP.: 99.020-110, inscrito no CPF/MF sob nº 225.676.150-91 e portador da Carteira de Identidade nº 4017098015, emitida pela SSP – RS, casado pelo Regime de Comunhão Universal de Bens com Maristela Pretto Siviero, brasileira, professora, filha de Alberto José Pretto e de Iracema Antônia Pretto, inscrita no CPF/MF sob nº 260.949.670/20 e portadora da Carteira de Identidade nº 22.827.317-1, emitida pela SSP – SC, efetuaram a VENDA das quotas que lhes pertenciam às empresas, diluídas em partes iguais aos demais sócios remanescentes.
+Veranópolis – RS, 31 de dezembro de 2024.
+Adélia Frizon Siviero
+Luciane Siviero 					Joel Siviero			Camila Zanetti
+Josiane Siviero					Pedro Paulo Zanatta Filho
+Araceli Siviero					Mário Henrique Bordignon
+Raul Siviero
+Graciele Siviero					Diego Fernandes Cardoso
+Giovani Siviero					Ana Paula da Cruz Cavalheiro
+Anair Dalvina Cesca Siviero
+Roberta Siviero					Jonas Freitas Bavaresco
+André Luiz Siviero					Sandra Regina Siviero
+Benta Elisa Velho Siviero
+Luís Artur Siviero					Flávia Mânica Siviero		Walter Siviero Júnior
+Vagner Siviero					Kátia Regina Colombo Siviero
+Élcio Siviero		Geni Siviero Mattiuz		Pedro Siviero	             Eliana de Fátima Menin Siviero
+Antônio Telmo de Toni	       		  	Pedro Elias Siviero	              Marcos Antônio Siviero

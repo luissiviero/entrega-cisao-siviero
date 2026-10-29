@@ -1,0 +1,255 @@
+{
+  "_leia": "Decisões aprovadas pelo Luís, aplicadas pela planilha-mestre (_scripts/build_mestre.py). Só entra aqui o que foi aprovado no chat; 'proposto' = ainda sem aprovação. IDs: EMP-ANO-ITEM (ex.: 07-2018-02).",
+  "aprovacoes": [
+    {
+      "etapa": "Fase 0",
+      "data": "2026-10-28",
+      "texto": "Aprovo, siga"
+    },
+    {
+      "etapa": "Planilha-mestre e pares sem chave 07-2018-02 e 07-2018-03",
+      "data": "2026-10-28",
+      "texto": "Aprovo os dois"
+    },
+    {
+      "etapa": "Pacote 1 (R1, R2, R3)",
+      "data": "2026-10-28",
+      "texto": "Aprovo as três"
+    },
+    {
+      "etapa": "Pacote 2, itens 1, 2, 3, 4a, 5, 6 e 8",
+      "data": "2026-10-28",
+      "texto": "Aprovo, decido 4b e 7 (escolhas de 4b e 7 não vieram na mensagem)"
+    },
+    {
+      "etapa": "Pacote 2, itens 4b e 7; perguntas",
+      "data": "2026-10-28",
+      "texto": "4b: 'não é mais do Celito desde antes de 2018'; 7: '16,50 % (sem Telmo)'; perguntas: 'Ainda não'"
+    },
+    {
+      "etapa": "Pacote 3 (destinos 2018 → 2025, baixas, Parte 6, lista única de 20 perguntas)",
+      "data": "2026-10-28",
+      "texto": "Aprovo"
+    }
+  ],
+  "casamentos": {
+    "07-2018-02": {
+      "com": [
+        "07-2025-02",
+        "07-2025-03"
+      ],
+      "situacao": "aprovado",
+      "motivo": "Sem chave de registro. Mesmo texto 'Considerado o canal FM 96.1 + a concessão junto ao Ministério das Comunicações e clientes'. O item de 2018 incluía 'mesa, computadores, … móveis e utensílios'; em 2025 os móveis viram o item 02 e o resto fica no item 03.",
+      "data": "2026-10-28"
+    },
+    "07-2018-03": {
+      "com": "07-2025-04",
+      "situacao": "aprovado",
+      "motivo": "Sem chave de registro. Texto idêntico: 'Antena de transmissão, casa de equipamentos e gerador (não considerado o imóvel…)'.",
+      "data": "2026-10-28"
+    }
+  },
+  "decisoes": {
+    "07-2025-02": {
+      "decisao": "Adoto o valor comum (grupo = Rafael)",
+      "valor_adotado": 150000,
+      "regra": "R1",
+      "motivo": "R1 do pacote 1: mesmo valor nas duas avaliações, dentro da faixa de Rafael ou sem faixa. Fixa o valor, não a titularidade/existência (ressalvas do pacote 1).",
+      "data": "2026-10-28"
+    },
+    "07-2025-03": {
+      "decisao": "Adoto o valor comum (grupo = Rafael)",
+      "valor_adotado": 1900000,
+      "regra": "R1",
+      "motivo": "R1 do pacote 1: mesmo valor nas duas avaliações, dentro da faixa de Rafael ou sem faixa. Fixa o valor, não a titularidade/existência (ressalvas do pacote 1).",
+      "data": "2026-10-28"
+    },
+    "07-2025-04": {
+      "decisao": "Adoto o valor comum (grupo = Rafael)",
+      "valor_adotado": 300000,
+      "regra": "R1",
+      "motivo": "R1 do pacote 1: mesmo valor nas duas avaliações, dentro da faixa de Rafael ou sem faixa. Fixa o valor, não a titularidade/existência (ressalvas do pacote 1).",
+      "data": "2026-10-28"
+    },
+    "07-2025-05": {
+      "decisao": "Adoto o valor comum (grupo = Rafael)",
+      "valor_adotado": 40000,
+      "regra": "R1",
+      "motivo": "R1 do pacote 1: mesmo valor nas duas avaliações, dentro da faixa de Rafael ou sem faixa. Fixa o valor, não a titularidade/existência (ressalvas do pacote 1).",
+      "data": "2026-10-28"
+    },
+    "07-2025-07": {
+      "decisao": "Adoto o valor comum (grupo = Rafael)",
+      "valor_adotado": 70000,
+      "regra": "R1",
+      "motivo": "R1 do pacote 1: mesmo valor nas duas avaliações, dentro da faixa de Rafael ou sem faixa. Fixa o valor, não a titularidade/existência (ressalvas do pacote 1).",
+      "data": "2026-10-28"
+    },
+    "07-2018-06": {
+      "decisao": "Sem valor nestas empresas (R3)",
+      "valor_adotado": null,
+      "regra": "R3",
+      "motivo": "R3 do pacote 1: terreno 3.751 declarado como da SEI; valor adotado na SEI (R$ 7.148.016, regra R3 do log da SEI).",
+      "data": "2026-10-28"
+    },
+    "07-2025-01": {
+      "decisao": "Adoto Rafael",
+      "valor_adotado": 420000,
+      "regra": "Pacote 2",
+      "motivo": "Pacote 2 item 2: C0 (fica na empresa, maior valor); C1 faixa de Rafael R$ 380–520 mil e m² privativo R$ 6.000–7.500 × 66,02 m² (matrícula) = R$ 396.120–495.150.",
+      "data": "2026-10-28"
+    },
+    "04-2025-03": {
+      "decisao": "Adoto o valor comum (grupo = Rafael)",
+      "valor_adotado": 45000,
+      "regra": "Pacote 2",
+      "motivo": "Pacote 2 item 3: P5 (mesmo número nos dois lados; FIPE citadas R$ 30.600 e R$ 41.201 abaixo). Caso extremo não adotado.",
+      "data": "2026-10-28"
+    },
+    "04-2025-01": {
+      "decisao": "Adoto Rafael",
+      "valor_adotado": 240000,
+      "regra": "Pacote 2",
+      "motivo": "Pacote 2 item 5: C0 (maior valor); C1 piso da faixa de Rafael R$ 240–295 mil. Máquina 100 % da Ceval (item 4a). Dupla contagem com a SEI: S4-2.",
+      "data": "2026-10-28"
+    },
+    "04-2025-02": {
+      "decisao": "Adoto Rafael",
+      "valor_adotado": 100000,
+      "regra": "Pacote 2",
+      "motivo": "Pacote 2 item 6: C0 (maior valor); C1 faixa de Rafael R$ 85–130 mil. NF 50.859 (chassi JHF0048344). Dupla contagem com a SEI: S4-3.",
+      "data": "2026-10-28"
+    },
+    "07-2025-06": {
+      "decisao": "Adoto Rafael",
+      "valor_adotado": 32000,
+      "regra": "Pacote 2",
+      "motivo": "Pacote 2 item 8: C0 (maior valor); C1 FIPE do modelo 2012 R$ 32.200–35.500 e anúncios R$ 31.000–39.000 (p. 6).",
+      "data": "2026-10-28"
+    },
+    "04-2018-03": {
+      "decisao": "Sem bem em 2025 — ver destino",
+      "valor_adotado": null,
+      "regra": "Pacote 3",
+      "motivo": "Item de 2018 ausente em 2025; tratado no pacote 3 (destino).",
+      "data": "2026-10-28"
+    },
+    "03-2018-TOTAL": {
+      "decisao": "Sem bem em 2025 — ver destino",
+      "valor_adotado": null,
+      "regra": "Pacote 3",
+      "motivo": "Item de 2018 ausente em 2025; tratado no pacote 3 (destino).",
+      "data": "2026-10-28"
+    },
+    "10-2018-01": {
+      "decisao": "Sem bem em 2025 — ver destino",
+      "valor_adotado": null,
+      "regra": "Pacote 3",
+      "motivo": "Item de 2018 ausente em 2025; tratado no pacote 3 (destino).",
+      "data": "2026-10-28"
+    },
+    "10-2018-02": {
+      "decisao": "Sem bem em 2025 — ver destino",
+      "valor_adotado": null,
+      "regra": "Pacote 3",
+      "motivo": "Item de 2018 ausente em 2025; tratado no pacote 3 (destino).",
+      "data": "2026-10-28"
+    },
+    "10-2018-03": {
+      "decisao": "Sem bem em 2025 — ver destino",
+      "valor_adotado": null,
+      "regra": "Pacote 3",
+      "motivo": "Item de 2018 ausente em 2025; tratado no pacote 3 (destino).",
+      "data": "2026-10-28"
+    },
+    "10-2018-05": {
+      "decisao": "Sem bem em 2025 — ver destino",
+      "valor_adotado": null,
+      "regra": "Pacote 3",
+      "motivo": "Item de 2018 ausente em 2025; tratado no pacote 3 (destino).",
+      "data": "2026-10-28"
+    },
+    "10-2018-06": {
+      "decisao": "Sem bem em 2025 — ver destino",
+      "valor_adotado": null,
+      "regra": "Pacote 3",
+      "motivo": "Item de 2018 ausente em 2025; tratado no pacote 3 (destino).",
+      "data": "2026-10-28"
+    },
+    "10-2018-07": {
+      "decisao": "Sem bem em 2025 — ver destino",
+      "valor_adotado": null,
+      "regra": "Pacote 3",
+      "motivo": "Item de 2018 ausente em 2025; tratado no pacote 3 (destino).",
+      "data": "2026-10-28"
+    }
+  },
+  "destinos": {
+    "10-2018-05": "Pacote 3 item 1: vendido a prazo em dez/2015 (declarado pelo grupo; doc 25 par. 249). Acordo de R$ 115.000 no processo da venda (inventário 2025 ST par. 22): natureza (provável crédito), titular após a baixa e saldo em 31.12.2024 — pendência (perguntas 10–11).",
+    "10-2018-06": "Pacote 3 item 1: vendido a prazo em dez/2016 (declarado pelo grupo). Recebíveis de 2018 dos ônibus vendidos (doc 25 par. 229–230: 24 × R$ 10.000 + R$ 100.000; ônibus não identificado na fonte) — recebimento pendente (pergunta 9).",
+    "10-2018-07": "Pacote 3 item 1: vendido a prazo em dez/2015 (declarado pelo grupo). Recebíveis de 2018 dos ônibus vendidos (ônibus não identificado na fonte) — recebimento pendente (pergunta 9).",
+    "10-2018-01": "Pacote 3 item 2: sem destino documentado (P4); financiado em 2018 (GUIBOR ou Santander, inferência) — pergunta 12.",
+    "10-2018-02": "Pacote 3 item 2: sem destino documentado (P4) — pergunta 12.",
+    "10-2018-03": "Pacote 3 item 2: sem destino documentado (P4) — pergunta 12.",
+    "04-2018-03": "Pacote 3 item 5: em uso em jan/2024 (IPVA 2024, conserto e multa pagos pela SEI) e ausente do inventário de 31.12.2024 — possível omissão (Parte 5), salvo venda em 2024; pergunta 7.",
+    "03-2018-TOTAL": "Pacote 3 item 10: total sem itens; associação baixada em 09/07/2020 sem certidão nas fontes; sem efeito possível no 1/6 (associação não distribui patrimônio) — pergunta 20.",
+    "07-2025-07": "Pacote 3 item 8: mesmo veículo da ST 2018 (placa IHW 0285); transferência ST → Rádio sem documento; IPVA 2024 atribuído à Transportadora — pergunta 3.",
+    "04-2018-N13": "Pacote 3 item 7: NP de Celito R$ 150.000 ausente em 2025; nenhum juro pago a Celito em 2023–2024 (indício de quitação) — pendência, pergunta 4 (S4-4).",
+    "07-2018-N14": "Pacote 3 item 6: origem provável = lote da SEI usado na compra da sala (doc 25 par. 201–202; doc 22 par. 50); nenhum lote do Colina do Retiro I saiu para a Rádio 2018–2025 (arq. 17) — pendência intragrupo, pergunta 16 (S4-6).",
+    "09-2018-N17": "Pacote 3 item 9: restituição de ICMS recebida antes de 2018 e usada na operação (declarado pelo grupo: Turismo 2018 par. 17; doc 25 par. 243–244).",
+    "09-2018-N13": "Pacote 3 item 9: parcelamento com a Receita; quitação provável antes da baixa (doc 25 par. 211, inferência) — pergunta 19.",
+    "10-2018-N13": "Pacote 3 item 9: parcelamento com a Receita (28 × R$ 250) — quitação a confirmar, pergunta 19.",
+    "10-2018-N14": "Pacote 3 item 3: aportes da SEI tratados pelo grupo como 'injeção financeira' (doc 22 par. 61); efeito no 1/6 tende a zero (S4-5) — pergunta 14.",
+    "10-2018-N15": "Pacote 3 item 3: intragrupo (S4-5).",
+    "10-2018-N16": "Pacote 3 item 3: intragrupo (S4-5).",
+    "10-2018-N17": "Pacote 3 item 9: Operação Deus tá vendo — em 2015 a ST 'passou de credora/autora para ré'; possível passivo contingente — pendência, pergunta 18.",
+    "10-2025-N22": "Pacote 3 item 1: acordo do IXO 6000 — quem paga e quem recebe não está na fonte (provável crédito); titular após a baixa (sócios formais Adélia 98 % / Giovani 2 %, leitura jurídica a confirmar) — pergunta 10 (S4-DB2, S4-7).",
+    "10-2018-01-FIN": "Pacote 3 item 3: dívidas de 2018 com Millenium, GUIBOR e Santander (R$ 243.800) — quitação pendente, pergunta 13.",
+    "03-2018-N14": "Pacote 3 item 10: custos da Associação pagos pela Rádio (intragrupo sem valor).",
+    "03-2025-N14": "Pacote 3 item 10: custos da Associação pagos pela Rádio (intragrupo sem valor).",
+    "03-2025-N21": "Pacote 3 item 10: baixa em 09/07/2020 sem certidão nas fontes — pergunta 17.",
+    "09-2025-N18": "Pacote 3 item 9: baixa em 04/09/2023 sem certidão (indício: honorário contábil em dobro em out/2023) — pergunta 17.",
+    "10-2025-N15": "Pacote 3 item 9: baixa em 08/04/2024 sem certidão (indício: 'SERVICOS MARCO/24-DIST…' em 15/04/2024) — pergunta 17.",
+    "09-2025-N14": "Venda das quotas de Rovílio (28/08/2025, após a data-base; S4-DB1); sem efeito em número.",
+    "09-2025-N19": "Rescisão do contrato particular das quotas (S4-DB1); sem efeito em número.",
+    "10-2025-N13": "Venda das quotas de Rovílio (28/08/2025, após a data-base; S4-DB1); sem efeito em número.",
+    "10-2025-N16": "Rescisão do contrato particular das quotas (S4-DB1); sem efeito em número.",
+    "07-2025-N15": "Custo de mudar a antena: dentro da redução de 8 %, não aplicada (pacote 2, item 1; S4-1).",
+    "07-2025-N17": "Redução de 8 %: não aplicada (pacote 2, item 1; S4-1, S4-10).",
+    "09-2018-N14": "Ônibus '2000' (frota) vendido em 2015 por R$ 95.000 — saída anterior a 2018, declarada pelo grupo."
+  },
+  "regras_empresa": {
+    "R2": {
+      "empresas": [
+        "03",
+        "09",
+        "10"
+      ],
+      "decisao": "Sem bens na tabela do inventário de 2025 (R$ 0,00 em bens). Não zera créditos nem processos (IXO 6000, recebíveis, Operação Deus tá vendo, restituição ICMS): etapa 6.",
+      "data": "2026-10-28"
+    },
+    "reducao_8pct_radio": {
+      "decisao": "Não aplicar a redução de 8 % da Rádio.",
+      "motivo": "Pacote 2 item 1: C0; nenhum número desconta; custo futuro sem cronograma, não passivo em 31.12.2024; terreno troca dinheiro por imóvel; custo intragrupo (S4-1, S4-10).",
+      "data": "2026-10-28"
+    },
+    "nf4946_anotacao": {
+      "decisao": "Item 4a: máquina 320D 100 % da Ceval; não reduzir. Dívida com Celito (R$ 150.000) tratada como passivo na Parte 6 (S4-4).",
+      "data": "2026-10-28"
+    },
+    "nf4946_E7": {
+      "decisao": "Item 4b: hipótese do E7 (1/3 da 320D de Celito) retirada.",
+      "motivo": "Informação do Luís: 'não é mais do Celito desde antes de 2018'; coerente com o doc 25 par. 144 (parte de Celito comprada pela SEI em 2013).",
+      "data": "2026-10-28"
+    },
+    "base_1_6_radio": {
+      "decisao": "Item 7: base da quota na Rádio = 16,50 % (exclui o 1 % de Antônio Telmo de Toni), como o inventário e o doc 00.",
+      "motivo": "Decisão do Luís (P1). Consequência: a parcela de Telmo já está fora da base; se o grupo também a descontar dentro dos 8 %, há duplicidade (S4-10).",
+      "data": "2026-10-28"
+    }
+  },
+  "perguntas_pendentes": {
+    "lista": "perguntas-ao-grupo.md (20 perguntas, aprovadas no pacote 3)",
+    "data": "2026-10-28"
+  }
+}

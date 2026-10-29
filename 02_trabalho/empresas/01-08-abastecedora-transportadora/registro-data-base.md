@@ -1,0 +1,20 @@
+# Registro de ajustes de data-base — 01 Abastecedora e 08 Transportadora
+
+Data-base do estudo: **31.12.2024** (P2). Cada fato desta sessão que foge da data-base é registrado aqui, com o tratamento a decidir nos pacotes. Nenhum ajuste é feito em silêncio.
+
+A numeração é própria desta sessão (DB-nn). A sessão SEI une este registro ao dela depois que o Luís aprovar cada empresa (P13).
+
+Legenda de "Quem fugiu":
+- **Rafael:** Estudo 2.
+- **Grupo:** inventário 2025 ou respostas ao Dr. Pablo.
+
+| # | Item (planilha-mestre) | Fonte e página | Data do fato | Por que foge de 31.12.2024 | Quem fugiu | Tratamento adotado | Justificativa |
+|---|---|---|---|---|---|---|---|
+| DB-01 | Rateio dos inventários 01 e 08 em 6 × 16,66 % (sai Rovílio) | Inventário 2025, docs 01 e 08 (versão atual × antiga); arq. 10 | 28/08/2025 | Em 31.12.2024 Rovílio tinha 2 % das duas empresas; o rateio da versão atual já reflete a venda | Grupo | *pendente* | Não muda o valor dos bens; a quota do estudo é 1/6 (P1). Efeito da compra com bens da SEI: ver `rovilio-quotas.md` |
+| DB-02 | 01-2025-01 (posto) — processo Lucchetta | Arq. 1, p. 4 | sentença 14/08/2025; trânsito em julgado maio/2026 | Em 31.12.2024 a ação estava em curso, sem sentença (pedido de R$ 1.032.648,00, ajuizada em 31/07/2023) | Grupo | **Sem dedução; fato registrado (pacote 3, 28/10/2026)** | O fato posterior (improcedência) confirma o tratamento; nenhum dos lados deduziu |
+| DB-03 | 08 — processo Sottili | Arq. 1, p. 15–16 | defesa de João Sotili em jul/2026; processo "para réplica" | O inventário descreve a situação em nov/2024; a resposta ao Dr. Pablo traz atos de 2026. Contexto anterior à data-base, não é ajuste: acordo da seguradora em ago/2020; desistência da autora em fev/2022; conciliação frustrada em maio/2024 | Grupo | **Sem dedução; fato registrado (pacote 3, 28/10/2026)** | Nenhum dos lados deduziu; risco registrado como ressalva (exposição de cerca de R$ 991 mil a R$ 1.882.320) |
+| DB-04 | 01-2025-01 (posto) — contratos Petrobras: bonificação antecipada de R$ 750.000 e multa rescisória de R$ 300.000, garantidas por hipoteca | Arq. 2, p. 1–5; arq. 3, p. 1–3; arq. 4, p. 11–12 | fim da vigência 30/09/2025 | Em 31.12.2024 o contrato estava em vigor. O volume comprado até o fim, a eventual devolução e a baixa da hipoteca são posteriores | — | **Sem dedução; fato registrado (pacote 3, 28/10/2026)** | Obrigação do revendedor; a 01 é garantidora; risco registrado como ressalva |
+| DB-05 | Geral — "termo final adotado em prévio consenso como sendo outubro/2025" | Arq. 1, p. 1 e p. 4 | out/2025 | O grupo diz que os inventários se referem a out/2025 | Grupo | *pendente* | A data-base do estudo continua 31.12.2024 (P2); registrar onde isso mudar algum número |
+| DB-06 | 01-2025-01 (posto) — valor de Rafael | Rafael 01, p. 2–3 | 31.12.2018 | Rafael adota como valor atual R$ 12.361.850,00, que corresponde ao total da empresa no balanço de 2018 (R$ 12.361.851,89) e inclui o caminhão-tanque de 2018 | Rafael | **Valor de Rafael adotado (pacote 2, 28/10/2026)**, com a origem registrada como 2018 | P5 + diretriz do Luís (bem fica na empresa: maior valor). O caminhão-tanque está dentro desse número e não recebe valor próprio |
+| DB-07 | 08-2025-03, 11, 12 e 13 — valores de Rafael | Rafael 08, p. 5–6 (declaração) e p. 9–12 (faixas) | 2026 (PDF gerado em 21/09/2026) | Os valores dos veículos (R$ 50.000, R$ 160.000 e R$ 40.000) vêm de pesquisa de mercado atual (Mercado Livre, OLX, FIPE). Os equipamentos (R$ 1.000.000) vêm de declaração de Benta sem data de referência. Nenhum é valor em 31.12.2024 | Rafael | **Valores de Rafael adotados (pacote 2, 28/10/2026)**, com a origem registrada como 2026 | P5 + diretriz do Luís (maior valor); nos veículos, valores no piso ou abaixo das faixas do próprio Rafael |
+| DB-08 | 08-2025-07 e 08 (terras de São Brás, Cotiporã) | Arq. 10, cl. 3ª, p. 4 | 28/08/2025 | O contrato do Rovílio inclui no preço "créditos hereditários e/ou creditórios" sobre a área de São Brás, "em nome das COMPRADORAS". Fato posterior que pode afetar a titularidade ou o valor dessas terras na 08 | Grupo | *pendente* | Ver `rovilio-quotas.md`, seções 4 e 8.4 |

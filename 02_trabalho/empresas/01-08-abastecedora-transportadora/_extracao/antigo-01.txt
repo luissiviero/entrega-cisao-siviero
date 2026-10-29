@@ -1,0 +1,63 @@
+Empresa   da  FAMÍLIA SIVIERO
+INVENTÁRIO  DE MÓVEIS E IMÓVEIS
+ABASTECEDORA DE COMBUSTÍVEIS SIVIERO LTDA.
+Rodovia BR 470 – Km 175 + 490 m, nº 3465
+CNPJ/MF: 87.013.793/0001-61
+Fone: 0 54 3441 1059
+95.330-000  -  Veranópolis – RS
+QUADRO SOCIETÁRIO REAL,  DE  FATO  E DE DIREITO ORIGINARIAMENTE
+T1.R1: NOME DO SÓCIO | CPF/MF | VALOR E % COTAS CAPITAL
+T1.R2: IRINEU SIVIERO ANAIR DALVINA CESCA SIVIERO | 005.682.870-53 | R$ 181,80 = 18,18%
+T1.R3: RAUL SIVIERO | 026.666.930-15 | R$ 181,80 = 18,18%
+T1.R4: VALTER SIVIERO BENTA ELISA VELHO SIVIERO | 202.511.810-49 | R$ 181,80 = 18,18%
+T1.R5: ELCIO SIVIERO | 114.987.900-97 | R$ 181,80 = 18,18%
+T1.R6: ADÉLIA FRIZON SIVIERO JOSÉ VALÉRIO SIVIERO | 647.482.600-25 | R$ 181,80 = 18,18%
+T1.R7: PEDRO SIVIERO | 227.128.100-82 | R$ 71,00 = 7,10%
+T1.R8: ROVILIO SIVIERO | 225.676.150-91 | R$ 20,00 = 2,00%
+T1.R9: TOTAL................................................................................ | R$ 1.000,00 = 100,00%
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+CONSTITUIÇÃO DO NOVO QUADRO SOCIETÁRIO A CONTAR DE 01.12.2003
+NÃO REAL
+T2.R1: NOME DO SÓCIO | CPF/MF | % COTAS CAPITAL
+T2.R2: PEDRO SIVIERO | 227.128.100-82 | R$ 9.900,00 = 99,00%
+T2.R3: PEDRO ELIAS SIVIERO | 814.295.330-72 | R$ 100,00 = 1,00%
+T2.R4: TOTAL................................................................................ | R$ 10.000,00 = 100,00%
+T3.R1: Item | Descrição do(s) bem(ns) | Valor
+T3.R2: 01 | Um imóvel urbano sob Matrícula nº 3.752, com área de 3.450,00m², que compreende um lote urbano e instalação de um Posto de Combustíveis, totalmente equipado e em pleno funcionamento. O contrato com a Companhia Ipiranga está cumprido e com condições de renegociação e/ou renegociação com outra Companhia e/ou também com a possibilidade de exploração direta. Agrega ao valor do Posto, o aluguel da Lancharia/Restaurante. Valor do Terreno e Pavimentação: 3.450,00m² x R$ 2.100,00 = R$ 7.245.000,00 (considerado o valor ao metro quadrado da pavimentação e o valor da área conforme sua localização comercial). Valor do Posto em área construída: 292,85m² x R$ 1.500,00 = R$ 439.275,00 (valor do CUB da construção – agosto de 2017). Valor do Posto em área coberta: 699,55m² x R$ 1.100,00 = R$ 769.505,00 (valor do CUB da construção – agosto de 2017). Valor do Posto com equipamentos, bombas, quadros, tanques, sistema elétrico e licenciamento, etc. = R$ 650.000,00. Valor do Posto em vantagem da coisa feita: 30,00% x R$ 557.634,00. | R$ 9.661.414,00
+T3.R3: TOTAL GERAL DA EMPRESA.......................................... | R$ 9.661.414,00
+VALOR    REAL    DE   CADA   SÓCIO   CONFORME   A   COTA   DE   CAPITAL
+T4.R1: NOME DO SÓCIO | CPF/MF | % COTAS DE CAPITAL E VALOR R$
+T4.R2: IRINEU SIVIERO ANAIR DALVINA CESCA SIVIERO | 005.682.870-53 | 16,33% = R$ 1.578.030,96
+T4.R3: RAUL SIVIERO | 026.666.930-15 | 16,33% = R$ 1.578.030,96
+T4.R4: VALTER SIVIERO BENTA ELISA VELHO SIVIERO | 202.511.810-49 | 16,33% = R$ 1.578.030,96
+T4.R5: ELCIO SIVIERO | 114.987.900-97 | 16,33% = R$ 1.578.030,96
+T4.R6: ADÉLIA FRIZON SIVIERO JOSÉ VALÉRIO SIVIERO | 647.482.600-25 | 16,33% = R$ 1.578.030,96
+T4.R7: PEDRO SIVIERO | 227.128.100-82 | 16,33% = R$ 1.578.030,96
+T4.R8: ROVILIO SIVIERO | 225.676.150-91 | 2,00% = R$ 193.228,24
+T4.R9: TOTAL.......................................................... | 100,00%= R$ 9.661.414,00
+Observações:
+Aprovado o PROJETO do Posto junto a Prefeitura de Veranópolis para fins de legalização da obra e posterior procedimento de averbação da obra junto ao Ofício de Registro de Imóveis, da Comarca de Veranópolis. Aguardando o prazo de 05 (cinco) anos para pagamento dos impostos junto à Receita Federal – INSS, contados a partir de 14 de março de 2022.
+Processo Judicial em tramitação no Fórum de Veranópolis – CRISTIANO RODRIGO LUCCHETTA – Ação de Indenização = Ponto e pagamento de aluguéis.
+O valor real acima apontado não é líquido, à medida que:
+O valor patrimonial lançado sofrerá redução pela regularização dos imóveis, o que se estima numa redução de 0,70% (ZERO VÍRGULA SETENTA POR CENTO) do valor acima apontado, afora os ônus de eventual dissolução da empresa em relação a parte de algum(ns) sócio(s).
+Há que se ter em mente, que haverá ônus de eventual dissolução da empresa em relação a parte de algum(ns) sócio(s), não podendo serem considerados como líquidos os valores alcançados na avaliação patrimonial.
+O BALANÇO PATRIMONIAL E CONTÁBIL ESTÁ PRONTO E CONFERIDO, PELA ESCRITA CONTÁBIL NESSA DATA, QUE NÃO CORRESPONDE À REALIDADE FÁTICA DA EMPRESA.
+.....................................................................................................................................................................
+Veranópolis – RS, 31 de dezembro de 2024.
+Adélia Frizon Siviero
+Luciane Siviero 					Joel Siviero			Camila Zanetti
+Josiane Siviero					Pedro Paulo Zanatta Filho
+Araceli Siviero					Mário Henrique Bordignon
+Raul Siviero
+Graciele Siviero					Diego Fernandes Cardoso
+Giovani Siviero					Ana Paula da Cruz Cavalheiro
+Anair Dalvina Cesca Siviero
+Roberta Siviero					Jonas Freitas Bavaresco
+André Luiz Siviero				Sandra Regina Siviero
+Benta Elisa Velho Siviero
+Luís Artur Siviero				Flávia Mânica Siviero		Walter Siviero Júnior
+Vagner Siviero					Kátia Regina Colombo Siviero
+Élcio Siviero
+Pedro Siviero
+Rovílio Siviero
+Pedro Elias Siviero

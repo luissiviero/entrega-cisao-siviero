@@ -1,0 +1,23 @@
+{
+  "_sobre": "Decisões aprovadas pelo Luís sobre as empresas 02 e 05. Lido por _scripts/build_mestre_02_05.py, que preenche Decisão, Motivo, Valor adotado e Destino da planilha-mestre. Não editar à mão sem registrar também em log-decisoes.md.",
+  "regras": [
+    {"regra": "R1", "pacote": 1, "data": "2026-10-28", "texto": "Bens do Hotel com o mesmo valor nas duas avaliações e concordância expressa de Rafael: adoto o valor do grupo (igual ao de Rafael).", "itens": ["05-2025-02", "05-2025-03", "05-2025-04", "05-2025-07"]},
+    {"regra": "R2", "pacote": 1, "data": "2026-10-28", "texto": "Bens de 2018 da Agropecuária que estão em 2025 no inventário de outra empresa: fora do total das empresas 02 e 05; valor decidido pela sessão da empresa onde estão; destino pendente até documento da transferência (etapa 6).", "itens": ["02-2018-s10", "02-2018-s11", "02-2018-s12", "02-2018-s14", "02-2018-s15"]},
+    {"regra": "R3", "pacote": 1, "data": "2026-10-28", "texto": "Créditos em soja sem valor nas duas avaliações: Parte 5 (não abordados), sem valor agora.", "itens": ["NA-SOJA-RIGO", "NA-SOJA-LOR-2021-2023", "NA-SOJA-LOR-2024"]},
+    {"regra": "BASE-2018", "pacote": 1, "data": "2026-10-28", "texto": "Benchmark 2018 das empresas 02 + 05: base B (bens que permaneceram; planilha 2_0 GERAL C28 + C11)."}
+  ],
+  "itens": {
+    "05-2025-02": {"decisao": "Adoto o valor do grupo (igual ao de Rafael)", "motivo": "Pacote 1, R1: mesmo valor nas duas avaliações; concordância expressa de Rafael (p. 10).", "valor_adotado": 8100000.00},
+    "05-2025-03": {"decisao": "Adoto o valor do grupo (igual ao de Rafael)", "motivo": "Pacote 1, R1: mesmo valor nas duas avaliações; concordância expressa de Rafael (p. 11).", "valor_adotado": 2500000.00},
+    "05-2025-04": {"decisao": "Adoto o valor do grupo (igual ao de Rafael)", "motivo": "Pacote 1, R1: mesmo valor nas duas avaliações; concordância expressa de Rafael (p. 12). Ressalvas: benfeitorias não averbadas (Q14), candidato P6-01.", "valor_adotado": 5560857.50},
+    "05-2025-07": {"decisao": "Adoto o valor do grupo (igual ao de Rafael)", "motivo": "Pacote 1, R1: mesmo valor nas duas avaliações; concordância expressa de Rafael (p. 15).", "valor_adotado": 422800.00},
+    "02-2018-s10": {"decisao": "Fora do total 02/05; valor decidido pela sessão SEI", "motivo": "Pacote 1, R2. Diferença de área (7,5 ha) fica com a SEI (pacote 4 da SEI, caso 7)."},
+    "02-2018-s11": {"decisao": "Fora do total 02/05; valor decidido pela sessão SEI", "motivo": "Pacote 1, R2."},
+    "02-2018-s12": {"decisao": "Fora do total 02/05; valor decidido pela sessão SEI", "motivo": "Pacote 1, R2."},
+    "02-2018-s14": {"decisao": "Fora do total 02/05; valor decidido pela sessão S3", "motivo": "Pacote 1, R2. Documento da transferência pendente (Q13)."},
+    "02-2018-s15": {"decisao": "Fora do total 02/05; valor decidido pela sessão S3", "motivo": "Pacote 1, R2. Documento da transferência pendente (Q13)."},
+    "NA-SOJA-RIGO": {"decisao": "Parte 5 (não abordado), sem valor agora", "motivo": "Pacote 1, R3; achado E1 aprovado."},
+    "NA-SOJA-LOR-2021-2023": {"decisao": "Parte 5 (não abordado), sem valor agora", "motivo": "Pacote 1, R3; achado E1 aprovado."},
+    "NA-SOJA-LOR-2024": {"decisao": "Parte 5 (não abordado), sem valor agora", "motivo": "Pacote 1, R3; achado E1 aprovado."}
+  }
+}

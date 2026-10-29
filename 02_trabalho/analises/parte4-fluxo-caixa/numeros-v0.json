@@ -1,0 +1,279 @@
+{
+ "gerado_em": "2026-10-28T21:15:49+00:00",
+ "fontes_md5": {
+  "gsheet": "c499486a2622eb81325b2201034adc75",
+  "contas": "668473c991eadc76df54177ada68b5e6",
+  "contas_lotes": "80e181d0e1d2999fce4cffea6df13f71",
+  "sei2018": "dcabdf2209e918d39e1ef81f547c779e",
+  "sei2025": "62ed740e2dca3c7ee6e041d4936ce330",
+  "mestre": "a4c54c1c373e19ce8ae576959309449c",
+  "acertos": "84cfbb2077be7cfe3ae4049685460268"
+ },
+ "meses": 84,
+ "periodo": [
+  2018,
+  2024
+ ],
+ "lotes": {
+  "n2018": 761.0,
+  "n2025": 426.0,
+  "reducao": 336.0,
+  "no_periodo": 306.03234143135967,
+  "apos_2024": 29.96765856864033,
+  "indice_2018_2025": 2.03219602207841
+ },
+ "ponte": {
+  "piso": {
+   "total": 43982771.80815795,
+   "VENDA": 21959481.10697672,
+   "OBRA": 2717409.7905462855,
+   "ACORDO": 6584071.534781594,
+   "BEM": 4562346.427756332,
+   "SOC": 3278122.4339110954,
+   "SEM": 4881340.514185924,
+   "manter": 27988984.687999997,
+   "divida": 7752247.970000001,
+   "bens_novos": 3877000.0,
+   "conclusao": 7500000,
+   "usos": 47118232.658,
+   "saldo_lotes": -25158751.55102328,
+   "alugueis": 2967454.0,
+   "saldo_com_alugueis": -22191297.55102328,
+   "sem_explicacao": -17309957.036837354,
+   "um_sexto": -2884992.839472892,
+   "investimento_a_demonstrar": -14592547.24629107
+  },
+  "central": {
+   "total": 71384846.92844746,
+   "VENDA": 37870541.60384084,
+   "OBRA": 4208774.675024184,
+   "ACORDO": 10918762.268044472,
+   "BEM": 6869093.709142807,
+   "SOC": 4863810.892822518,
+   "SEM": 6653863.779572626,
+   "manter": 27988984.687999997,
+   "divida": 7752247.970000001,
+   "bens_novos": 3877000.0,
+   "conclusao": 7500000,
+   "usos": 47118232.658,
+   "saldo_lotes": -9247691.054159157,
+   "alugueis": 2967454.0,
+   "saldo_com_alugueis": -6280237.054159157,
+   "sem_explicacao": 373626.72541346867,
+   "um_sexto": 62271.12090224478,
+   "investimento_a_demonstrar": 4582401.400437653
+  },
+  "teto": {
+   "total": 112543623.39559102,
+   "VENDA": 62062332.91959145,
+   "OBRA": 6415273.115832859,
+   "ACORDO": 18025136.495711118,
+   "BEM": 9910671.794664897,
+   "SOC": 7376686.470158328,
+   "SEM": 8753522.599632371,
+   "manter": 27988984.687999997,
+   "divida": 7752247.970000001,
+   "bens_novos": 3877000.0,
+   "conclusao": 7500000,
+   "usos": 47118232.658,
+   "saldo_lotes": 14944100.26159145,
+   "alugueis": 2967454.0,
+   "saldo_com_alugueis": 17911554.26159145,
+   "sem_explicacao": 26665076.86122382,
+   "um_sexto": 4444179.476870636,
+   "investimento_a_demonstrar": 33080349.97705668
+  }
+ },
+ "apos_2024": {
+  "n": 29.96765856864033,
+  "piso": 4120801.696632961,
+  "central": 11890751.36924464,
+  "teto": 11890751.36924464
+ },
+ "custos": {
+  "m_mes": 333202.19866666663,
+  "classes": {
+   "INV": 1233601.3599999994,
+   "M": 4998032.9799999995,
+   "LOTE": 1439844.68,
+   "BENS": 1680745.3099999996,
+   "DIV": 525000.0
+  },
+  "sei_15m": 9877224.33,
+  "inv_por_situacao": {
+   "sem loteamento identificado": 739415.64,
+   "finalizado/estoque": 371128.83,
+   "não finalizado": 123056.89
+  }
+ },
+ "divida": {
+  "jan2019": 10119900,
+  "2025": 2367652.03,
+  "quitada": 7752247.970000001
+ },
+ "bens_novos": 3877000.0,
+ "alugueis_mes": 35326.833333333336,
+ "contratos": [
+  {
+   "codigo": "11.2.1",
+   "item": "Áreas contratadas: loteamentos em licenciamento/execução (multas rescisórias)",
+   "siviero": -15754581.0,
+   "rafael": 18389019.0,
+   "comentario_luis": ""
+  },
+  {
+   "codigo": "11.2.2",
+   "item": "Lotes de terceiros passíveis de indenização (Farroupilha)",
+   "siviero": -16240000.0,
+   "rafael": -16240000.0,
+   "comentario_luis": "Não podem ser descontados do patrimônio se apenas passíveis de indenização. Podemos deixar lotes em garantia caso a indenização aconteça de fato."
+  },
+  {
+   "codigo": "11.2.3",
+   "item": "Obras finais a pagar (Colina do Retiro II)",
+   "siviero": -3800000.0,
+   "rafael": -3800000.0,
+   "comentario_luis": ""
+  },
+  {
+   "codigo": "11.2.4",
+   "item": "Demais compromissos (itens 1 a 15 e 19)",
+   "siviero": -13760000.0,
+   "rafael": -16127652.0,
+   "comentario_luis": ""
+  },
+  {
+   "codigo": "11.2.5",
+   "item": "Empréstimos e financiamentos",
+   "siviero": -2367652.03,
+   "rafael": 0.0,
+   "comentario_luis": ""
+  }
+ ],
+ "contratos_total": {
+  "siviero": -51922233.03,
+  "rafael": -17778633.0
+ },
+ "investimentos_2018": {
+  "planilha": 10376000,
+  "em_execucao": 5400000,
+  "contratados": 1250000
+ },
+ "patrimonio": {
+  "geral_2018_apresentado": 137471260.6,
+  "geral_2018_atualizado": 267220197.8,
+  "geral_2025_bens": 152796260.6,
+  "geral_2025_liquido": 100874027.6
+ },
+ "trajetoria": [
+  {
+   "ano": "início 2018",
+   "lotes": 761.0,
+   "valor25": 240435570.7906141
+  },
+  {
+   "ano": "fim 2018",
+   "lotes": 731.8579161064024,
+   "valor25": 228835125.74966893,
+   "saidas": 29.142083893597594,
+   "saidas_valor25": 11600445.04094516
+  },
+  {
+   "ano": "fim 2019",
+   "lotes": 684.9053256462007,
+   "valor25": 208331863.8646407,
+   "saidas": 46.952590460201726,
+   "saidas_valor25": 20503261.88502821
+  },
+  {
+   "ano": "fim 2020",
+   "lotes": 634.4433306405564,
+   "valor25": 191942344.38319218,
+   "saidas": 50.461995005644305,
+   "saidas_valor25": 16389519.481448531
+  },
+  {
+   "ano": "fim 2021",
+   "lotes": 570.433371751454,
+   "valor25": 164997901.13756254,
+   "saidas": 64.00995888910231,
+   "saidas_valor25": 26944443.245629627
+  },
+  {
+   "ano": "fim 2022",
+   "lotes": 530.5155959589049,
+   "valor25": 150468789.47818628,
+   "saidas": 39.917775792549165,
+   "saidas_valor25": 14529111.659376256
+  },
+  {
+   "ano": "fim 2023",
+   "lotes": 498.7472211251502,
+   "valor25": 140807343.09299123,
+   "saidas": 31.768374833754713,
+   "saidas_valor25": 9661446.385195058
+  },
+  {
+   "ano": "fim 2024",
+   "lotes": 454.96765856864033,
+   "valor25": 127891947.39502305,
+   "saidas": 43.779562556509845,
+   "saidas_valor25": 12915395.697968187
+  },
+  {
+   "ano": "out/2025",
+   "lotes": 426.0,
+   "valor25": 116608396.02577841,
+   "saidas": 28.967658568640335,
+   "saidas_valor25": 11283551.369244639
+  }
+ ],
+ "sensibilidade": [
+  {
+   "meses": 72,
+   "concessao": true,
+   "piso": -13735452.652837351,
+   "central": 3948131.109413472,
+   "teto": 30239581.245223824
+  },
+  {
+   "meses": 72,
+   "concessao": false,
+   "piso": -6235452.652837351,
+   "central": 11448131.109413471,
+   "teto": 37739581.24522382
+  },
+  {
+   "meses": 84,
+   "concessao": true,
+   "piso": -17309957.036837354,
+   "central": 373626.72541346867,
+   "teto": 26665076.86122382
+  },
+  {
+   "meses": 84,
+   "concessao": false,
+   "piso": -9809957.036837354,
+   "central": 7873626.725413469,
+   "teto": 34165076.86122382
+  }
+ ],
+ "excedente_lista": {
+  "n": 46.0,
+  "piso": 9858518.5192,
+  "central": 17063505.3635,
+  "teto": 24268492.2078
+ },
+ "precos_citados": {
+  "n": 12,
+  "mediana_sobre_v25": 1.0218978102742307,
+  "acima_de_v25": 6
+ },
+ "bens_pos_database": [
+  {
+   "linha": 44,
+   "desc": "Um Trator de Esteira, ano 2014, modelo D6N XL, CATERPILLAR, adquirido em setembro de 2025.",
+   "valor": 450000.0
+  }
+ ]
+}

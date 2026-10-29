@@ -1,0 +1,742 @@
+{
+  "_sobre": "Decisões aprovadas pelo Luís sobre a SEI. Lido por _scripts/build_mestre_sei.py, que preenche as colunas Decisão (P5) e Motivo da planilha-mestre. Não editar à mão sem registrar também em log-decisoes.md.",
+  "regras": {
+    "R1": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 1,
+      "decisao": "Adoto o valor do grupo (igual ao de Rafael)",
+      "motivo": "R1: lote com o mesmo valor no inventário 2025 e no Estudo 2; soma dos lotes confere com o total do loteamento. Exceto Lago Negro e Alto das Graças I."
+    },
+    "R2": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 1,
+      "decisao": "Adoto o valor do grupo (igual ao de Rafael)",
+      "motivo": "R2: bem fora de loteamento com o mesmo valor nas duas avaliações (lotes urbanos, áreas rurais e Ford Ranger do PDF Diretrizes)."
+    },
+    "R3": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 1,
+      "decisao": "Adoto o valor do grupo (única avaliação)",
+      "motivo": "R3: bem avaliado só pelo grupo; Rafael não contesta. Exceto imóvel Oleoplan e trator D6N XL."
+    },
+    "R4": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 1,
+      "decisao": "Sem valor de ativo nas duas fontes",
+      "motivo": "R4: loteamento contratado sem valor de ativo nas duas avaliações (Dr. Letti e Sol Nascente III). Multas e compromissos: Parte 4.",
+      "correcao": "2026-10-28: os 11 lotes de APP (Lago Negro 7, Simioni 4) foram retirados da R4 porque Rafael atribui valor a eles (R$ 7.700.000 e R$ 520.000). Voltam ao pacote 2.",
+      "correcao_2": "2026-10-28, revisor independente: Rafael dá valor de ativo, no Quadro_Resumo de cada documento de áreas contratadas, a 6 dos 8 loteamentos (Caminhos do Sol 8.601.000; Vale das Colinas 5.019.600; Vista da Colina 3.384.000; Pedrotti/Andreis/Lorandi 3.384.000; Cecconello 9.165.000; Pasqual 1.479.000; total 31.032.600). Os 6 saíram da R4 e ficaram sem decisão. A R4 vale só para Dr. Letti e Sol Nascente III (Rafael: R$ 0)."
+    },
+    "R5": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 1,
+      "decisao": "Fora da busca de destino",
+      "motivo": "R5: loteamento já com saldo zero no inventário de 2018; não houve saída entre 2018 e 2025."
+    },
+    "R6": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "Regra única de 'possível APP' por nível (A 0 %, B 50 %, C 100 % do lote cheio; indenização a terceiro pelo complemento)",
+      "motivo": "Pacote 5 (aprovado como recomendado). Regra de decisão sob o C2, não reavaliação (P5: lote cheio = valor do grupo ou de Rafael). A: APP reconhecida por decisão, perícia ou gravame, ou >= 50 % do lote em APP ou faixa não edificante no mapa municipal (Lei 4.814/2023, GEOFarroupilha). B: 10 % a 50 % nessas camadas; ou lote na faixa de 30 m em volta dos cursos d'água ('Sensibilidade ambiental') com >= 10 % (leitura intermediária); ou, sem mapa, restrição documentada (TAC). C: menos de 10 % e nenhum documento. Estendida ao passivo de lotes de terceiros (A 100 %, B 50 %, C 0 %) com aprovação expressa. Mapa consultado em 28/10/2026 (versão atual); texto da lei não obtido; se a lei confirmar que a faixa de 30 m não restringe, rever para a leitura estrita.",
+      "leitura": "intermediaria"
+    }
+  },
+  "itens": {
+    "SEI-2025-AURB-04": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Adoto o valor de Rafael",
+      "motivo": "P2 item 1 (decisão do Luís). C0: bem da lista de Rafael recebe o menor valor. Nota técnica: as parcelas descritas por Rafael (terreno 9.584.060,00 + pavilhões 3.113.322,00 + 30% de obra 933.996,60) somam 13.631.378,60, que é o valor do grupo; o outro lado pode alegar erro de soma. Mantido pelo Luís após a revisão independente (28/10/2026), ciente do risco de alegação de erro de soma (R$ 3.000.000).",
+      "valor_adotado": 10631378.6
+    },
+    "SEI-2025-LOT-18": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "C0 por lote: lote 001/q01 pelo grupo; lotes 002 a 005 por Rafael; 7 lotes de APP sem valor",
+      "motivo": "P2 itens 2 e 3. Recomendação aprovada era R$ 5.500.000 (todos por Rafael, C1); o C0, definido na mesma resposta, muda o lote 001/q01 (lista de Rafael) para o valor do grupo, R$ 770.000. Lotes 002–005 ficam na empresa: R$ 1.100.000 cada (Rafael cita lotes a partir de R$ 1,13 mi, p. 79). Lotes de APP da quadra 11B: APP confirmada (C2); obrigação com compradores e 2 lotes em dação (Candiago) vão para as Partes 4 e 6. Efeito do C0 no lote 001 confirmado pelo Luís em 28/10/2026.",
+      "valor_adotado": 5170000
+    },
+    "SEI-2025-LOT-04": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6, nível B (TAC)",
+      "motivo": "Pacote 5. Simioni: TAC com o MP reconhece nascente e restrição de construir; sem perícia nem mapa; 4 × 50 % de R$ 130.000 (Rafael). Alternativas apresentadas: R$ 0 (C2) e R$ 520.000 (valor cheio; 2018: R$ 1.000.000).",
+      "valor_adotado": 260000.0
+    },
+    "SEI-2025-LOT-29": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Mantenho o valor (igual nas duas fontes)",
+      "motivo": "P2 item 5 (decisão do Luís): manter R$ 3.699.000. A questão da parceria Villa Luna (50% em 2018) não vai para a lista de perguntas ao grupo.",
+      "valor_adotado": 3699000,
+      "lotes": "valor do grupo"
+    },
+    "SEI-2025-CONTR-06": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Adiado para a Parte 5",
+      "motivo": "P2 item 6. Grupo: sem ativo, multa R$ 782.000. Rafael: ativo R$ 3.111.000 (30,5 lotes × R$ 102.000) e mantém a multa, o que é incoerente. Decidir junto com os demais loteamentos contratados.",
+      "valor_adotado": null
+    },
+    "SEI-2025-MAQ-14": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Excluído pela data-base, com a dívida correspondente",
+      "motivo": "P2 item 7. Trator D6N XL comprado em setembro de 2025 (inventário, máquinas item 14). A dívida de R$ 320.000 com a Paraná Equipamentos (observação 21) também sai. Efeito líquido: menos R$ 130.000. Inconsistência da fonte: ano 2014 na tabela, 2021 na observação.",
+      "valor_adotado": 0,
+      "regdb": "6"
+    },
+    "SEI-2025-LURB-02": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Adoto o valor de Rafael",
+      "motivo": "P2 item 9 (decisão do Luís). C0: bem que fica na empresa recebe o maior valor. Argumento técnico: R$ 450.000 é o topo da faixa de mercado do próprio Rafael (R$ 220.000 a 450.000, p. 3).",
+      "valor_adotado": 450000
+    },
+    "SEI-2025-LURB-07": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Adoto o valor de Rafael",
+      "motivo": "P2 item 10. C0 (fica na empresa, maior valor) e C1 (grupo, R$ 130.000, abaixo do piso de Rafael, R$ 135.000; comparáveis de R$ 152.000 a 166.000, p. 8-9).",
+      "valor_adotado": 150000
+    },
+    "SEI-2025-ARUR-03": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 3,
+      "decisao": "Adoto o valor de Rafael",
+      "valor_adotado": 375000,
+      "motivo": "P3. C0: bem fora da lista de Rafael (fica na empresa) recebe o maior valor. C1: valor do grupo (R$ 220.000) abaixo do piso da faixa de Rafael (R$ 320.000 a 550.000. p. 8). 7.5 ha. lote rural 14."
+    },
+    "SEI-2025-ARUR-04": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 3,
+      "decisao": "Adoto o valor de Rafael",
+      "valor_adotado": 650000,
+      "motivo": "P3. C0: bem fora da lista de Rafael (fica na empresa) recebe o maior valor. C1: valor do grupo (R$ 520.000) abaixo do piso da faixa de Rafael (R$ 550.000 a 850.000. p. 10). 13 ha. lote rural 12.",
+      "destino": "Diferença de 7,5 ha em relação a 2018 (20,5 ha × 13,0 ha): pendente; possível dupla contagem em 2018 com o lote 14 (matrícula 4.194)"
+    },
+    "SEI-2025-ARUR-05": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 3,
+      "decisao": "Adoto o valor de Rafael",
+      "valor_adotado": 1800000,
+      "motivo": "P3. C0: bem fora da lista de Rafael (fica na empresa) recebe o maior valor. C1: valor do grupo (R$ 1.000.000) abaixo do piso da faixa de Rafael (R$ 1.800.000 a 9.000.000. p. 13). 1.8 ha. gleba urbana. lote B."
+    },
+    "SEI-2025-ARUR-08": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 3,
+      "decisao": "Adoto o valor de Rafael",
+      "valor_adotado": 1500000,
+      "motivo": "P3. C0: bem fora da lista de Rafael (fica na empresa) recebe o maior valor. C1: valor do grupo (R$ 250.200) abaixo do piso da faixa de Rafael (R$ 1.100.000 a 1.950.000. p. 17). 27.8 ha. lote rural 89; Rafael cita matrícula 8.846. inventário 8.486."
+    },
+    "SEI-2025-ARUR-09": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 3,
+      "decisao": "Adoto o valor de Rafael",
+      "valor_adotado": 250000,
+      "motivo": "P3. C0: bem fora da lista de Rafael (fica na empresa) recebe o maior valor. C1: valor do grupo (R$ 40.000) abaixo do piso da faixa de Rafael (R$ 180.000 a 350.000. p. 19). 15.1 ha de mato nativo. lote 33; VTN fiscal R$ 130.615."
+    },
+    "SEI-2025-ARUR-11": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 3,
+      "decisao": "Adoto o valor de Rafael",
+      "valor_adotado": 380000,
+      "motivo": "P3. C0: bem fora da lista de Rafael (fica na empresa) recebe o maior valor. C1: valor do grupo (R$ 20.000) abaixo do piso da faixa de Rafael (R$ 250.000 a 1.200.000. p. 21). 7.5 ha. parte do lote rural 47; VTN fiscal a partir de R$ 120.000; mesmo texto de avaliação do item 12."
+    },
+    "SEI-2025-ARUR-12": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 3,
+      "decisao": "Adoto o valor de Rafael",
+      "valor_adotado": 380000,
+      "motivo": "P3. C0: bem fora da lista de Rafael (fica na empresa) recebe o maior valor. C1: valor do grupo (R$ 30.000) abaixo do piso da faixa de Rafael (R$ 250.000 a 1.200.000. p. 21). 7.5 ha. parte do lote rural 47; VTN fiscal a partir de R$ 120.000; mesmo texto de avaliação do item 11."
+    },
+    "SEI-2025-CONTR-01": {
+      "aprovada_em": "2026-10-28",
+      "pacote": "revisão 1",
+      "decisao": "Adiado para a Parte 5",
+      "motivo": "Revisão dos pacotes 1–3. item A (decisão do Luís). Grupo: sem valor de ativo. só multa. Rafael: valor de referência R$ 8.601.000 (Quadro_Resumo). Decidir na Parte 5 com regra única para todos os contratados (com o Bonetto).",
+      "valor_adotado": null
+    },
+    "SEI-2025-CONTR-02": {
+      "aprovada_em": "2026-10-28",
+      "pacote": "revisão 1",
+      "decisao": "Adiado para a Parte 5",
+      "motivo": "Revisão dos pacotes 1–3. item A (decisão do Luís). Grupo: sem valor de ativo. só multa. Rafael: valor de referência R$ 5.019.600 (Quadro_Resumo). Decidir na Parte 5 com regra única para todos os contratados (com o Bonetto).",
+      "valor_adotado": null
+    },
+    "SEI-2025-CONTR-03": {
+      "aprovada_em": "2026-10-28",
+      "pacote": "revisão 1",
+      "decisao": "Adiado para a Parte 5",
+      "motivo": "Revisão dos pacotes 1–3. item A (decisão do Luís). Grupo: sem valor de ativo. só multa. Rafael: valor de referência R$ 3.384.000 (Quadro_Resumo). Decidir na Parte 5 com regra única para todos os contratados (com o Bonetto).",
+      "valor_adotado": null
+    },
+    "SEI-2025-CONTR-04": {
+      "aprovada_em": "2026-10-28",
+      "pacote": "revisão 1",
+      "decisao": "Adiado para a Parte 5",
+      "motivo": "Revisão dos pacotes 1–3. item A (decisão do Luís). Grupo: sem valor de ativo. só multa. Rafael: valor de referência R$ 3.384.000 (Quadro_Resumo). Decidir na Parte 5 com regra única para todos os contratados (com o Bonetto).",
+      "valor_adotado": null
+    },
+    "SEI-2025-CONTR-05": {
+      "aprovada_em": "2026-10-28",
+      "pacote": "revisão 1",
+      "decisao": "Adiado para a Parte 5",
+      "motivo": "Revisão dos pacotes 1–3. item A (decisão do Luís). Grupo: sem valor de ativo. só multa. Rafael: valor de referência R$ 9.165.000 (Quadro_Resumo). Decidir na Parte 5 com regra única para todos os contratados (com o Bonetto).",
+      "valor_adotado": null
+    },
+    "SEI-2025-CONTR-07": {
+      "aprovada_em": "2026-10-28",
+      "pacote": "revisão 1",
+      "decisao": "Adiado para a Parte 5",
+      "motivo": "Revisão dos pacotes 1–3. item A (decisão do Luís). Grupo: sem valor de ativo. só multa. Rafael: valor de referência R$ 1.479.000 (Quadro_Resumo). Decidir na Parte 5 com regra única para todos os contratados (com o Bonetto).",
+      "valor_adotado": null
+    },
+    "SEI-2018-OUTRAS-s142": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 4,
+      "decisao": "Classificação 2018→2025",
+      "motivo": "P4. Lote 24 e 24/E, Cotiporã, Pierozan, 10,2 ha. O inventário de 2018 ainda o somava a R$ 408.000 no subtotal real. Conferir o recebimento na Parte 4.",
+      "destino": "Vendido em 2018 a Angeli por R$ 510.000 à vista (destino documentado)"
+    },
+    "SEI-2018-OUTRAS-s147": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 4,
+      "decisao": "Classificação 2018→2025",
+      "motivo": "P4. Sede Campestre, matrículas 1.941 e 7.104. Não é saída; conferir contagem única na Parte 6.",
+      "destino": "No inventário 2025 do Hotel Princesa dos Vales (item 04, R$ 5.560.857,50)"
+    },
+    "SEI-2018-OUTRAS-s146": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 4,
+      "decisao": "Classificação 2018→2025",
+      "motivo": "P4. Lote 52, Bassani, matrícula 7.391. Mudou de empresa (Agropecuária em 2018). Conferir contagem única na Parte 6.",
+      "destino": "No inventário 2025 do Hotel Princesa dos Vales (item 07, R$ 422.800)"
+    },
+    "SEI-2018-ARUR-07": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 4,
+      "decisao": "Classificação 2018→2025",
+      "motivo": "P4. Lote 1543, BR-470, Bissani, matrícula 21.819, R$ 900.000 em 2018. Estava na versão antiga do inventário 2025 e foi retirado: verificar data da saída (data-base).",
+      "destino": "Sem destino documentado (Parte 4)"
+    },
+    "SEI-2018-ARUR-04": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 4,
+      "decisao": "Classificação 2018→2025",
+      "motivo": "P4. Lote 0024, Santa Rita, 2,6 ha, R$ 70.000, matrícula em branco.",
+      "destino": "Sem destino documentado (Parte 4)"
+    },
+    "SEI-2018-LURB-05": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 4,
+      "decisao": "Classificação 2018→2025",
+      "motivo": "P4. Lote do Loteamento Boff em nome de Cleri Fávero, R$ 70.000. Pode ser o mesmo lote do loteamento Irmãos Boff de 2018.",
+      "destino": "Sem destino documentado (Parte 4)"
+    },
+    "SEI-2018-LURB-08": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 4,
+      "decisao": "Classificação 2018→2025",
+      "motivo": "P4. Ouro Verde 559/47, quadra 216, R$ 100.000.",
+      "destino": "Sem destino documentado (Parte 4)"
+    },
+    "SEI-2018-LURB-09": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 4,
+      "decisao": "Classificação 2018→2025",
+      "motivo": "P4. Ouro Verde 247/169, quadra 221, R$ 100.000.",
+      "destino": "Sem destino documentado (Parte 4)"
+    },
+    "SEI-2018-IMOV-01": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 4,
+      "decisao": "Classificação 2018→2025",
+      "motivo": "P4. Apartamento 303, Edifício Boa Esperança, matrícula 17.399, R$ 100.000.",
+      "destino": "Sem destino documentado (Parte 4)"
+    },
+    "SEI-2018-IMOV-02": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 4,
+      "decisao": "Classificação 2018→2025",
+      "motivo": "P4. Móveis e equipamentos do escritório, R$ 10.000.",
+      "destino": "Fora de escopo"
+    },
+    "SEI-2018-LURB-11": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 4,
+      "decisao": "Classificação 2018→2025",
+      "motivo": "P4. Colina do Sol 112/51.",
+      "destino": "Já vendido em 2018 (valor zero no inventário de 2018)"
+    },
+    "SEI-2018-LURB-12": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 4,
+      "decisao": "Classificação 2018→2025",
+      "motivo": "P4. Colina do Sol 126/50.",
+      "destino": "Já vendido em 2018 (valor zero no inventário de 2018)"
+    },
+    "SEI-2025-LOT-20": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "Lotes pelo grupo + lotes de possível APP pela R6",
+      "motivo": "Pacote 5. Subtotal do grupo R$ 2,080,000.00 (lotes sem restrição, R1) + lotes de possível APP pela R6 R$ 365,000.00.",
+      "valor_adotado": 2445000.0,
+      "lotes": "valor do grupo"
+    },
+    "SEI-2025-LOT-21": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "Lotes pelo grupo + lotes de possível APP pela R6",
+      "motivo": "Pacote 5. Subtotal do grupo R$ 1,790,000.00 (lotes sem restrição, R1) + lotes de possível APP pela R6 R$ 0.00.",
+      "valor_adotado": 1790000.0,
+      "lotes": "valor do grupo"
+    },
+    "SEI-2025-LOT-22": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "Lotes pelo grupo + lotes de possível APP pela R6",
+      "motivo": "Pacote 5. Subtotal do grupo R$ 148,000.00 (lotes sem restrição, R1) + lotes de possível APP pela R6 R$ 0.00.",
+      "valor_adotado": 148000.0,
+      "lotes": "valor do grupo"
+    },
+    "SEI-2025-LOT-24": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "Lotes pelo grupo + lotes de possível APP pela R6",
+      "motivo": "Pacote 5. Subtotal do grupo R$ 5,420,000.00 (lotes sem restrição, R1) + lotes de possível APP pela R6 R$ 562,500.00.",
+      "valor_adotado": 5982500.0,
+      "lotes": "valor do grupo"
+    }
+  },
+  "criterios": {
+    "C0": {
+      "aprovada_em": "2026-10-28",
+      "texto": "Divergência entre grupo e Rafael: bem da lista de Rafael (virá para nós) recebe o menor valor; bem que fica na empresa recebe o maior. Salvo decisão diferente do Luís (P10). Confirmado em 28/10/2026: a diferença de tratamento entre bens do mesmo tipo é aceita; bem que fica sobe para o maior valor, bem que vem para nós mantém o menor."
+    },
+    "C1": {
+      "aprovada_em": "2026-10-28",
+      "texto": "Argumento técnico de mercado: valor do grupo dentro da faixa de Rafael sustenta o grupo; abaixo do piso sustenta Rafael. Subordinado ao C0."
+    },
+    "C2": {
+      "aprovada_em": "2026-10-28",
+      "texto": "APP confirmada nos documentos: lote sem valor de ativo. APP apenas 'possível': valor a definir como % do lote cheio, conforme a situação do processo (Parte 4). Aplicação: regra R6 (pacote 5, 28/10/2026)."
+    }
+  },
+  "lotes": {
+    "Lago Negro|01|001": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Valor do grupo (C0: lista de Rafael)",
+      "motivo": "P2 item 2 com C0: lote escolhido por Rafael (p. 84) recebe o menor valor.",
+      "valor_adotado": 770000
+    },
+    "Lago Negro|01|002": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Valor de Rafael (C0: fica na empresa)",
+      "motivo": "P2 item 2 com C0: lote que fica na empresa recebe o maior valor (Rafael p. 81).",
+      "valor_adotado": 1100000
+    },
+    "Lago Negro|01|003": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Valor de Rafael (C0: fica na empresa)",
+      "motivo": "P2 item 2 com C0: lote que fica na empresa recebe o maior valor (Rafael p. 81).",
+      "valor_adotado": 1100000
+    },
+    "Lago Negro|01|004": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Valor de Rafael (C0: fica na empresa)",
+      "motivo": "P2 item 2 com C0: lote que fica na empresa recebe o maior valor (Rafael p. 81).",
+      "valor_adotado": 1100000
+    },
+    "Lago Negro|01|005": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Valor de Rafael (C0: fica na empresa)",
+      "motivo": "P2 item 2 com C0: lote que fica na empresa recebe o maior valor (Rafael p. 81).",
+      "valor_adotado": 1100000
+    },
+    "Lago Negro|11 B|015": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Sem valor de ativo (APP confirmada, C2)",
+      "motivo": "P2 item 3. Obrigação com compradores e dação Candiago: Partes 4 e 6. Após a revisão, o Luís confirmou: C2 prevalece sobre o C0 nestes lotes.",
+      "valor_adotado": 0
+    },
+    "Lago Negro|11 B|016": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Sem valor de ativo (APP confirmada, C2)",
+      "motivo": "P2 item 3. Obrigação com compradores e dação Candiago: Partes 4 e 6. Após a revisão, o Luís confirmou: C2 prevalece sobre o C0 nestes lotes.",
+      "valor_adotado": 0
+    },
+    "Lago Negro|11 B|017": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Sem valor de ativo (APP confirmada, C2)",
+      "motivo": "P2 item 3. Obrigação com compradores e dação Candiago: Partes 4 e 6. Após a revisão, o Luís confirmou: C2 prevalece sobre o C0 nestes lotes.",
+      "valor_adotado": 0
+    },
+    "Lago Negro|11 B|018": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Sem valor de ativo (APP confirmada, C2)",
+      "motivo": "P2 item 3. Obrigação com compradores e dação Candiago: Partes 4 e 6. Após a revisão, o Luís confirmou: C2 prevalece sobre o C0 nestes lotes.",
+      "valor_adotado": 0
+    },
+    "Lago Negro|11 B|019": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Sem valor de ativo (APP confirmada, C2)",
+      "motivo": "P2 item 3. Obrigação com compradores e dação Candiago: Partes 4 e 6. Após a revisão, o Luís confirmou: C2 prevalece sobre o C0 nestes lotes.",
+      "valor_adotado": 0
+    },
+    "Lago Negro|11 B|020": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Sem valor de ativo (APP confirmada, C2)",
+      "motivo": "P2 item 3. Obrigação com compradores e dação Candiago: Partes 4 e 6. Após a revisão, o Luís confirmou: C2 prevalece sobre o C0 nestes lotes.",
+      "valor_adotado": 0
+    },
+    "Lago Negro|11 B|021": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Sem valor de ativo (APP confirmada, C2)",
+      "motivo": "P2 item 3. Obrigação com compradores e dação Candiago: Partes 4 e 6. Após a revisão, o Luís confirmou: C2 prevalece sobre o C0 nestes lotes.",
+      "valor_adotado": 0
+    },
+    "Fracionamento Simioni|20|006": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6, nível B (50 %)",
+      "motivo": "Veranópolis, sem mapa municipal nas fontes; TAC com o MP (arq. 17 p.2) reconhece nascente e restrição para construir no entorno; doc 11 marca 'ÁREA DE APP'; sem perícia nem decisão por lote. Lote cheio: Rafael R$ 130,000. Lote fica na empresa (lista de Rafael = PDF Diretrizes).",
+      "valor_adotado": 65000.0
+    },
+    "Fracionamento Simioni|20|007": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6, nível B (50 %)",
+      "motivo": "Veranópolis, sem mapa municipal nas fontes; TAC com o MP (arq. 17 p.2) reconhece nascente e restrição para construir no entorno; doc 11 marca 'ÁREA DE APP'; sem perícia nem decisão por lote. Lote cheio: Rafael R$ 130,000. Lote fica na empresa (lista de Rafael = PDF Diretrizes).",
+      "valor_adotado": 65000.0
+    },
+    "Fracionamento Simioni|20|008": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6, nível B (50 %)",
+      "motivo": "Veranópolis, sem mapa municipal nas fontes; TAC com o MP (arq. 17 p.2) reconhece nascente e restrição para construir no entorno; doc 11 marca 'ÁREA DE APP'; sem perícia nem decisão por lote. Lote cheio: Rafael R$ 130,000. Lote fica na empresa (lista de Rafael = PDF Diretrizes).",
+      "valor_adotado": 65000.0
+    },
+    "Fracionamento Simioni|20|009": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6, nível B (50 %)",
+      "motivo": "Veranópolis, sem mapa municipal nas fontes; TAC com o MP (arq. 17 p.2) reconhece nascente e restrição para construir no entorno; doc 11 marca 'ÁREA DE APP'; sem perícia nem decisão por lote. Lote cheio: Rafael R$ 130,000. Lote fica na empresa (lista de Rafael = PDF Diretrizes).",
+      "valor_adotado": 65000.0
+    },
+    "San Marino|1650|012": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6, nível B (50 %)",
+      "motivo": "0.0 % em APP/faixa não edificante, mas 55.9 % na faixa de 30 m (sensibilidade). Lote cheio: grupo = Rafael R$ 244,000. Lote fica na empresa (lista de Rafael = PDF Diretrizes).",
+      "valor_adotado": 122000.0
+    },
+    "San Marino|1650|013": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6, nível B (50 %)",
+      "motivo": "0.0 % em APP/faixa não edificante, mas 94.6 % na faixa de 30 m (sensibilidade). Lote cheio: grupo = Rafael R$ 233,000. Lote fica na empresa (lista de Rafael = PDF Diretrizes).",
+      "valor_adotado": 116500.0
+    },
+    "San Marino|1676|004": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6, nível B (50 %)",
+      "motivo": "0.0 % em APP/faixa não edificante, mas 30.8 % na faixa de 30 m (sensibilidade). Lote cheio: grupo = Rafael R$ 253,000. Lote fica na empresa (lista de Rafael = PDF Diretrizes).",
+      "valor_adotado": 126500.0
+    },
+    "Firminio Dalzóchio|1292|002": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6, nível A (0 %)",
+      "motivo": "70.1 % do lote em APP ou faixa não edificante (mapa municipal). Lote cheio: grupo = Rafael R$ 131,000. Lote fica na empresa (lista de Rafael = PDF Diretrizes).",
+      "valor_adotado": 0.0
+    },
+    "Primavera|1193|008": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6, nível A (0 %)",
+      "motivo": "82.3 % do lote em APP ou faixa não edificante (mapa municipal). Lote cheio: grupo = Rafael R$ 170,000. Lote fica na empresa (lista de Rafael = PDF Diretrizes).",
+      "valor_adotado": 0.0
+    },
+    "Primavera|1193|009": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6, nível A (0 %)",
+      "motivo": "64.0 % do lote em APP ou faixa não edificante (mapa municipal). Lote cheio: grupo = Rafael R$ 165,000. Lote fica na empresa (lista de Rafael = PDF Diretrizes).",
+      "valor_adotado": 0.0
+    },
+    "Industrial Vicentino|1303|013": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6, nível B (50 %)",
+      "motivo": "32.6 % do lote em APP ou faixa não edificante (mapa municipal). Lote cheio: grupo = Rafael R$ 1,125,000. Lote fica na empresa (lista de Rafael = PDF Diretrizes).",
+      "valor_adotado": 562500.0
+    },
+    "Salvador|05|003": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Ativo da SEI pendente de valor; pergunta ao grupo",
+      "motivo": "P2 item 8. Lote marcado 'FAMÍLIA SIVIERO', sem valor nas duas fontes; Rafael pede que conste como ativo e seja avaliado (p. 38-40). Vizinhos da quadra 05: R$ 374.000 a 387.000. Possível caso extremo.",
+      "valor_adotado": null
+    },
+    "Salvador|05|004": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Ativo da SEI pendente de valor; pergunta ao grupo",
+      "motivo": "P2 item 8. Lote marcado 'FAMÍLIA SIVIERO', sem valor nas duas fontes; Rafael pede que conste como ativo e seja avaliado (p. 38-40). Vizinhos da quadra 05: R$ 374.000 a 387.000. Possível caso extremo.",
+      "valor_adotado": null
+    },
+    "Salvador|05|005": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Ativo da SEI pendente de valor; pergunta ao grupo",
+      "motivo": "P2 item 8. Lote marcado 'FAMÍLIA SIVIERO', sem valor nas duas fontes; Rafael pede que conste como ativo e seja avaliado (p. 38-40). Vizinhos da quadra 05: R$ 374.000 a 387.000. Possível caso extremo.",
+      "valor_adotado": null
+    },
+    "Salvador|05|006": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Ativo da SEI pendente de valor; pergunta ao grupo",
+      "motivo": "P2 item 8. Lote marcado 'FAMÍLIA SIVIERO', sem valor nas duas fontes; Rafael pede que conste como ativo e seja avaliado (p. 38-40). Vizinhos da quadra 05: R$ 374.000 a 387.000. Possível caso extremo.",
+      "valor_adotado": null
+    },
+    "Salvador|05|007": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Ativo da SEI pendente de valor; pergunta ao grupo",
+      "motivo": "P2 item 8. Lote marcado 'FAMÍLIA SIVIERO', sem valor nas duas fontes; Rafael pede que conste como ativo e seja avaliado (p. 38-40). Vizinhos da quadra 05: R$ 374.000 a 387.000. Possível caso extremo.",
+      "valor_adotado": null
+    },
+    "Salvador|05|008": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Ativo da SEI pendente de valor; pergunta ao grupo",
+      "motivo": "P2 item 8. Lote marcado 'FAMÍLIA SIVIERO', sem valor nas duas fontes; Rafael pede que conste como ativo e seja avaliado (p. 38-40). Vizinhos da quadra 05: R$ 374.000 a 387.000. Possível caso extremo.",
+      "valor_adotado": null
+    },
+    "Firminio Dalzóchio|0910|O09": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6 (passivo), nível A (0 %): indenização de 100 %",
+      "motivo": "63.9 % do lote em APP ou faixa não edificante (mapa municipal). Valor listado R$ 130,000. Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 130000.0
+    },
+    "Firminio Dalzóchio|1292|003": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6 (passivo), nível A (0 %): indenização de 100 %",
+      "motivo": "57.7 % do lote em APP ou faixa não edificante (mapa municipal). Valor listado R$ 135,000. Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 135000.0
+    },
+    "Firminio Dalzóchio|1292|004": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6 (passivo), nível A (0 %): indenização de 100 %",
+      "motivo": "64.6 % do lote em APP ou faixa não edificante (mapa municipal). Valor listado R$ 135,000. Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 135000.0
+    },
+    "Jardim Itália I – II – III|1741|007": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6 (passivo), nível A (0 %): indenização de 100 %",
+      "motivo": "55.0 % do lote em APP ou faixa não edificante (mapa municipal). Valor listado R$ 193,000. Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 193000.0
+    },
+    "Jardim Itália I – II – III|1741|009": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6 (passivo), nível A (0 %): indenização de 100 %",
+      "motivo": "100.0 % do lote em APP ou faixa não edificante (mapa municipal). Valor listado R$ 193,000. Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 193000.0
+    },
+    "Jardim Itália I – II – III|1747|001": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "Retirado do passivo de terceiros (S1)",
+      "motivo": "estoque da SEI em 31.12.2024 (S1); no mapa: A, 88.3 % do lote em APP ou faixa não edificante (mapa municipal). S1 do ACERTOS (pacote 1, aprovado em 2026-10-28), aplicado no pacote 5; não voltar na Parte 6. Lado do ativo em aberto (registro de data-base). Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 0.0
+    },
+    "Jardim Itália I – II – III|1747|002": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6 (passivo), nível B (50 %): indenização de 50 %",
+      "motivo": "21.1 % do lote em APP ou faixa não edificante (mapa municipal). Valor listado R$ 200,000. Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 100000.0
+    },
+    "Jardim Itália I – II – III|1747|009": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6 (passivo), nível B (50 %): indenização de 50 %",
+      "motivo": "26.4 % do lote em APP ou faixa não edificante (mapa municipal). Valor listado R$ 200,000. Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 100000.0
+    },
+    "Perini|1469|011": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6 (passivo), nível A (0 %): indenização de 100 %",
+      "motivo": "100.0 % do lote em APP ou faixa não edificante (mapa municipal). Valor listado R$ 160,000. Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 160000.0
+    },
+    "Perini|1469|012": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6 (passivo), nível B (50 %): indenização de 50 %",
+      "motivo": "34.5 % do lote em APP ou faixa não edificante (mapa municipal). Valor listado R$ 160,000. Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 80000.0
+    },
+    "Perini|1469|018": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6 (passivo), nível A (0 %): indenização de 100 %",
+      "motivo": "50.6 % do lote em APP ou faixa não edificante (mapa municipal). Valor listado R$ 160,000. Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 160000.0
+    },
+    "Perini|1469|19": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6 (passivo), nível A (0 %): indenização de 100 %",
+      "motivo": "68.9 % do lote em APP ou faixa não edificante (mapa municipal). Valor listado R$ 160,000. Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 160000.0
+    },
+    "Primavera|1199|005": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6 (passivo), nível A (0 %): indenização de 100 %",
+      "motivo": "90.2 % do lote em APP ou faixa não edificante (mapa municipal). Valor listado R$ 166,000. Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 166000.0
+    },
+    "Primavera|1199|006": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6 (passivo), nível B (50 %): indenização de 50 %",
+      "motivo": "0.0 % em APP/faixa não edificante, mas 29.2 % na faixa de 30 m (sensibilidade). Valor listado R$ 166,000. Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 83000.0
+    },
+    "Primavera|1199|010": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "Retirado do passivo de terceiros (S1)",
+      "motivo": "estoque da SEI em 31.12.2024 (S1); no mapa: A, 100.0 % do lote em APP ou faixa não edificante (mapa municipal). S1 do ACERTOS (pacote 1, aprovado em 2026-10-28), aplicado no pacote 5; não voltar na Parte 6. Lado do ativo em aberto (registro de data-base). Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 0.0
+    },
+    "Primavera|1199|011": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "Retirado do passivo de terceiros (S1)",
+      "motivo": "estoque da SEI em 31.12.2024 (S1); no mapa: A, 100.0 % do lote em APP ou faixa não edificante (mapa municipal). S1 do ACERTOS (pacote 1, aprovado em 2026-10-28), aplicado no pacote 5; não voltar na Parte 6. Lado do ativo em aberto (registro de data-base). Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 0.0
+    },
+    "Industrial Vicentino|1301|003": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "Retirado do passivo de terceiros (S1)",
+      "motivo": "estoque da SEI em 31.12.2024 (S1); no mapa: B, 0.0 % em APP/faixa não edificante, mas 100.0 % na faixa de 30 m (sensibilidade). S1 do ACERTOS (pacote 1, aprovado em 2026-10-28), aplicado no pacote 5; não voltar na Parte 6. Lado do ativo em aberto (registro de data-base). Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 0.0
+    },
+    "Industrial Vicentino|1301|004": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6 (passivo), nível B (50 %): indenização de 50 %",
+      "motivo": "0.0 % em APP/faixa não edificante, mas 53.8 % na faixa de 30 m (sensibilidade). Valor listado R$ 1,355,000. Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 677500.0
+    },
+    "Industrial Vicentino|1302|004": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6 (passivo), nível B (50 %): indenização de 50 %",
+      "motivo": "0.0 % em APP/faixa não edificante, mas 24.3 % na faixa de 30 m (sensibilidade). Valor listado R$ 1,355,000. Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 677500.0
+    },
+    "Industrial Vicentino|1302|009": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6 (passivo), nível B (50 %): indenização de 50 %",
+      "motivo": "0.0 % em APP/faixa não edificante, mas 89.2 % na faixa de 30 m (sensibilidade). Valor listado R$ 1,355,000. Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 677500.0
+    },
+    "Industrial Vicentino|1302|010": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6 (passivo), nível B (50 %): indenização de 50 %",
+      "motivo": "0.0 % em APP/faixa não edificante, mas 73.6 % na faixa de 30 m (sensibilidade). Valor listado R$ 1,355,000. Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 677500.0
+    },
+    "Industrial Vicentino|1302|011": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6 (passivo), nível B (50 %): indenização de 50 %",
+      "motivo": "0.0 % em APP/faixa não edificante, mas 61.3 % na faixa de 30 m (sensibilidade). Valor listado R$ 1,355,000. Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 677500.0
+    },
+    "Industrial Vicentino|1303|001": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6 (passivo), nível A (0 %): indenização de 100 %",
+      "motivo": "63.8 % do lote em APP ou faixa não edificante (mapa municipal). Valor listado R$ 1,355,000. Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 1355000.0
+    },
+    "Industrial Vicentino|1303|012": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6 (passivo), nível B (50 %): indenização de 50 %",
+      "motivo": "0.0 % em APP/faixa não edificante, mas 42.0 % na faixa de 30 m (sensibilidade). Valor listado R$ 1,355,000. Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 677500.0
+    },
+    "Industrial Vicentino|1303|014": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6 (passivo), nível B (50 %): indenização de 50 %",
+      "motivo": "40.2 % do lote em APP ou faixa não edificante (mapa municipal). Valor listado R$ 1,355,000. Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 677500.0
+    },
+    "Industrial Vicentino|1303|016": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "R6 (passivo), nível B (50 %): indenização de 50 %",
+      "motivo": "13.0 % do lote em APP ou faixa não edificante (mapa municipal). Valor listado R$ 1,355,000. Valor adotado = indenização (passivo), não bem.",
+      "valor_adotado": 677500.0
+    }
+  },
+  "casamentos": {
+    "_sobre": "Pares 2018 x 2025 aprovados no pacote 4 (28/10/2026). null = sem par em 2018 (bem adquirido depois).",
+    "SEI-2025-ARUR-11": null,
+    "SEI-2025-ARUR-12": null,
+    "SEI-2025-ARUR-02": "SEI-2018-ARUR-03",
+    "SEI-2025-ARUR-06": "SEI-2018-ARUR-08",
+    "SEI-2025-ARUR-04": "SEI-2018-OUTRAS-s143"
+  },
+  "passivos": {
+    "_sobre": "Passivos do doc 11 com valor adotado aprovado. Chave = início do texto do item na aba Passivos.",
+    "Lotes de terceiros passíveis de indenização": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 5,
+      "decisao": "Indenização pela R6 (leitura intermediária); S1 retirado",
+      "motivo": "Pacote 5. Doc 11: R$ 16.240.000. S1 (4 lotes, R$ 1.887.000) retirado. Demais 22 lotes pela R6: R$ 8,570,000.00. Detalhe por lote na aba Lotes.",
+      "valor_adotado": 8570000.0
+    },
+    "Observação 21 – Paraná Equipamentos": {
+      "aprovada_em": "2026-10-28",
+      "pacote": 2,
+      "decisao": "Excluída pela data-base, junto com o trator (SEI-2025-MAQ-14)",
+      "motivo": "P2 item 7: o trator D6N XL (set./2025) e a dívida de R$ 320.000 com a Paraná Equipamentos são posteriores à data-base; os dois saem. Registro de data-base nº 6. Aplicado na planilha no fechamento da Parte 3 (antes só o bem estava gravado).",
+      "valor_adotado": 0
+    }
+  },
+  "lista_rafael_suspensos": {
+    "_sobre": "Lotes retirados da lista de Rafael (bens que viriam para nós) por decisão aprovada, até esclarecimento.",
+    "Alto das Graças I|H - 6371|011": "S4 do ACERTOS, aprovado pelo Luís em 28/10/2026: o arquivo 18 mostra o lote já dado no acerto Basso/HECTA; fica fora da lista até esclarecer (aplicado em 28/10/2026, fechamento da Parte 3)."
+  }
+}

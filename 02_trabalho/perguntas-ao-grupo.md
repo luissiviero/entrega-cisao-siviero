@@ -1,0 +1,16 @@
+# Perguntas e pedidos de documentos ao grupo Siviero
+
+Lista acumulada ao longo do estudo. Cada pergunta só entra aqui depois de aprovada pelo Luís. Nada foi enviado; o envio é decisão do Luís.
+
+| # | Empresa | Assunto | Pergunta / documento pedido | Por que importa | Origem | Situação |
+|---|---|---|---|---|---|---|
+| 1 | SEI | 6 lotes "FAMÍLIA SIVIERO", Loteamento Salvador – FEMAÇÃ II, quadra 05, lotes 003 a 008 | A quem se destinam esses lotes, por qual instrumento e desde quando? Por que aparecem sem valor no inventário de 31.12.2024? | São ativos da SEI listados sem valor. Os lotes vizinhos da mesma quadra valem de R$ 374.000 a R$ 387.000, cerca de R$ 2,29 milhões no total. Em 2018 o Salvador não tinha essa marcação. | Pacote 2, item 8 | Aberta |
+| 2 | SEI | 7 lotes em "possível APP": San Marino 012/1650, 013/1650 e 004/1676; Firminio Dalzóchio 002/1292; Primavera 008/1193 e 009/1193; Industrial Vicentino 013/1303 | Qual é a situação de cada processo ou caracterização ambiental? Existe laudo técnico ou decisão? | O valor desses lotes será definido como % do lote cheio conforme a situação do processo (decisão do Luís). O grupo lista R$ 2.321.000 e exclui do total. | Pacote 2, item 4 | Aberta. **Atualizada no pacote 5:** pedir (a) o texto da Lei Municipal 4.814/2023 e o significado das camadas do mapa (APP 30/50 m, faixas não edificantes de 15/5 m, "Sensibilidade ambiental", "Revisão MP"); (b) a cópia do TAC do Fracionamento Simioni. Decide entre a leitura intermediária (aprovada) e a estrita. |
+| 3 | SEI | Área rural 02, matrícula 33.516 (2018: lote M, matrícula 14.319, 3,6 ha) | Cadeia de matrículas 14.319 → 33.516 e motivo do aumento de 3,6 para 4,0 ha. | Confirma que é o mesmo imóvel de 2018. | Pacote 4, caso 3 | Aberta |
+| 4 | SEI | Área rural 06, Ansolin, matrícula 30.390 (2018: matrícula 21.771, 6,0 ha) | Cadeia de matrículas 21.771 → 30.390 e datas de cada compra posterior; área da parcela Frainer (R$ 388.000). | As parcelas somam 18,9 ha contra 18,2 ha declarados. | Pacote 4, caso 4 | Aberta |
+| 5 | SEI | Lote 1543, BR-470, Bissani, matrícula 21.819 (R$ 900.000 em 2018) | Destino, data e valor da saída. Por que estava na versão antiga do inventário 2025 e não está na atual? | Bem de 2018 sem destino. Se saiu depois de 31.12.2024, entra no registro de data-base. | Pacote 4, caso 5 | Aberta |
+| 6 | SEI | Lote de Michelle Tedesco, matrícula 2.325 (R$ 220.000) | Mesmas perguntas do item 5. | Saiu entre as duas versões do inventário 2025. | Pacote 4, caso 6 | Aberta |
+| 7 | SEI | Matrícula 3.062, lote 12, Sangali | Matrícula atualizada. Os 7,5 ha que constavam em 2018 são o lote 14 (matrícula 4.194)? | Possível dupla contagem em 2018; se não for, faltam 7,5 ha. | Pacote 4, caso 7 | Aberta |
+| 8 | SEI | Lote urbano 06 (Dal Ponte, matrícula 3.788) e matrículas 29.954 e 33.516 | Datas de compra e de abertura das matrículas. | Confirmar que são posteriores a 2018. | Pacote 4, caso 9 | Aberta |
+| 9 | SEI | Lote 0024 Santa Rita; lote Boff (Cleri Fávero); Ouro Verde 559/47 e 247/169; apartamento 303 do Edifício Boa Esperança | Destino, data e valor de cada saída. | Bens de 2018 sem destino. | Pacote 4, caso 8 | Aberta |
+| 10 | SEI | Apartamento 401, Edifício Luiz Siviero | De quem é? Só aparece na tabela de aluguéis de 2018. | Pode ser bem da SEI não inventariado. | Pacote 4, caso 10 | Aberta |

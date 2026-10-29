@@ -1,0 +1,25 @@
+SÓCIOS  DAS EMPRESAS SIVIERO
+PLANILHA  DO  VALOR  DO  CAPITAL DE CADA EMPRESA
+ADÉLIA FRIZON SIVIERO, brasileira, natural de Veranópolis – RS, viúva, do lar, residente e domiciliada na Rua Dr. José Montaury, nº 1264, Bairro Palugana, na cidade de Veranópolis – RS, inscrita no CPF/MF sob nº 647.482.600-25 e portadora da Carteira de Identidade nº 7050203897 – SSP/RS.
+ÉLCIO SIVIERO, brasileiro, natural de Veranópolis – RS, casado pelo Regime de Comunhão Universal de Bens, empresário, residente e domiciliado na Rua São Francisco de Assis, nº 190, apartamento nº 703, Bairro Centro, na cidade de Veranópolis – RS, inscrito no CPF/MF nº 114.987.900-97 e portador da Carteira de Identidade nº 1018920023 – SSP/RS.
+IRINEU SIVIERO, brasileiro, natural de Veranópolis – RS, casado pelo Regime de Comunhão Universal de Bens, motorista aposentado, residente e domiciliado na Rua Fiorelo Henrique Chiaradia, nº 56, Bairro Palugana, na cidade Veranópolis – RS, inscrito no CPF/MF sob nº 005.682.870-53 e portador da Carteira de Identidade nº 8024604145 – SPP/RS.
+PEDRO SIVIERO, brasileiro, natural de Veranópolis – RS, casado pelo Regime de Comunhão Parcial de Bens, engenheiro civil, residente e domiciliado na Rua Dr. José Montaury, nº 1278, apartamento nº 301, Bairro Palugana, na cidade de Veranópolis – RS, inscrito no CPF/MF nº 227.128.100-82 e portador da Carteira  de Identidade nº 1003266622 – SSP/RS.
+RAUL SIVIERO, brasileiro, natural de Veranópolis – RS, casado pelo Regime de Comunhão Universal de Bens, motorista aposentado, residente e domiciliado na Rua Dr. José Montaury, nº 1248, Bairro Palugana, na cidade de Veranópolis – RS, inscrito no CPF/MF nº 026.666.930-15 e portador da Carteira de Identidade nº 1024603969 – SSP/RS.
+VALTER SIVIERO, brasileiro, natural de Veranópolis – RS, casado pelo Regime de Comunhão Universal de Bens, administrador de empresas, residente e domiciliado na Rua Tiradentes, nº 705, Bairro Femaçã, na cidade Veranópolis – RS, inscrito no CPF/MF nº 202.511.810-49 e portador da Carteira  de Identidade nº 4007647722 – SSP/RS.
+T1.R1: E M P R E S A | V A L O R
+T1.R2: ABASTECEDORA DE COMBUSTÍVEIS SIVIERO LTDA. | R$ 12.361.851,89
+T1.R3: CEVAL TERRAPLENAGEM E ESCAVAÇÕES LTDA. | R$ 391.000,00
+T1.R4: HOTEL PRINCESA DOS VALES LTDA. | R$ 34.404.877,83
+T1.R5: HOTEL ARAÇA LTDA. | R$ 49.684.243,20
+T1.R6: TRANSPORTADORA IRMÃOS SIVIERO LTDA. | R$ 1.564.000,00
+T1.R7: RÁDIO COMUNIDADE PRINCESA DOS VALES FM LTDA. | R$ 9.316.016,00
+T1.R8: TURISMO SIVIERO LTDA. | R$ 0,00
+T1.R9: SIVIERO TRANSPORTES LTDA. | R$ 928.000,00
+T1.R10: AGROPECUÁRIA FAZENDA SÃO CRISPIN LTDA. | R$ 12.054.390,00
+T1.R11: OFICINA MECÂNICA SIVIERO LTDA. | R$ 29.303.377,44
+T1.R12: ASSOCIAÇÃO CULTURAL PRINCESA DOS VALES. | R$ 10.000,00
+T1.R13: SIVIERO EMPREENDIMENTOS IMOBILIÁRIOS LTDA. | R$ 75.146.039,95
+T1.R14: TOTAL.................................................................................... | R$ 225.163.796,31
+Veranópolis – RS, 31 de dezembro de 2018.
+Adélia Frizon Siviero	          		Raul Siviero		                                Irineu Siviero
+Élcio Siviero		     			Pedro Siviero	                 		      Válter Siviero

@@ -1,0 +1,26 @@
+# Decisões do Luís — Parte 4 da SEI (fluxo de caixa)
+
+Registro das decisões aprovadas nesta análise. Ao fundir com a SEI (regra P13), a sessão SEI copia estas entradas para `02_trabalho/log-decisoes.md` e `decisoes-sei.json`.
+
+| Data | Decisão | Efeito (v0.2) | Origem |
+|---|---|---|---|
+| 28/10/2026 | Método da Parte 4: seguir o fluxo de caixa (lotes que saíram × custo de manter, dívidas pagas e bens comprados), em vez de avaliar cada loteamento não finalizado. O valor sem explicação é tratado como investimento a demonstrar: ou o grupo apresenta os valores reais, ou devolve 1/6. | Estrutura da aba Ponte | Mensagem do Luís nesta sessão |
+| 28/10/2026 | Combustível não é custo recorrente (indica máquinas em obra). Dívidas, multas e afins quitados entram com os custos de manter. | C1 sem combustível; C1b | Mensagem do Luís nesta sessão |
+| 28/10/2026 | Multa rescisória não é paga com contrato vigente. Só com distrato assinado e termo de nunca mais lotear a gleba; nesse caso, os investimentos na gleba não são cobrados, mas precisam ser demonstrados. | 11.2.1 = R$ 0 na proposta | Mensagem do Luís nesta sessão |
+| 28/10/2026 | Extrapolação dos custos: só os recorrentes, de jan/2019 a dez/2024, com cada mês igual à média × IPCA(mês) / IPCA(mar/2024). Extraordinários não são extrapolados. Obras em loteamento finalizado, loteamento rescindido e despesas de familiares e de outras empresas pagas pela SEI contam como recorrentes. | Período da ponte 2019–2024 (72 meses) | Planilha de contas pagas, abas Critérios e Extrapolação (versão das 18:53) |
+| 28/10/2026 | Preço de referência dos lotes: média do grupo em 2025, trazida pelo IPCA até o mês de cada venda (cenário "teto"). | Sem explicação R$ 28,19 mi; 1/6 = R$ 4,70 mi; investimento a demonstrar R$ 40,63 mi | Resposta do Luís nesta sessão ("Aprovar com IPCA") |
+| 28/10/2026 | Os lotes que o arquivo 17 lista como saídos além da redução do inventário entram na conta como lotes da SEI. São 26 no período; o estoque de 2018 sobe na mesma quantidade (exceção à P3). | Lotes no período: 272 → 310. Sem explicação: R$ 28,19 mi → R$ 37,59 mi; 1/6 = R$ 6,27 mi; investimento a demonstrar R$ 52,21 mi | Resposta do Luís nesta sessão ("os 26 lotes entram na conta") |
+| 28/10/2026 | Pró-labore de 4 dos 6 ramos (Válter, Adélia, Pedro e Raul, este pago ao Hotel Araçá; R$ 186.000 cada nos 15 meses, R$ 12.400/mês) é custo da empresa e fica no custo de manter. | Sem mudança: R$ 3,15 mi em 2019–2024 já estavam no custo; sem explicação continua R$ 37,59 mi | Resposta do Luís nesta sessão ("É custo da empresa") |
+| 28/10/2026 | Dívidas do 11.2 já pagas com lotes que saíram do inventário são cobrança dupla. Saem do passivo o que os lotes pagaram, até o saldo cobrado: 4 lotes da SEI que saíram em 2025 contados como de terceiros (11.2.2, R$ 1.887.000); pavimentação do Colina do Retiro II (11.2.3, R$ 205.667); obras do Falavigna (11.2.4, R$ 2.000.000); comissão Buriti de Susin (11.2.4, R$ 1.200.000). | Total abatido R$ 5.292.667. Total do tópico na proposta: R$ 6,7 mi (a ponte não muda) | Resposta do Luís nesta sessão ("todos em duplicidade"); casos em cruzamento-compromissos-arq17.xlsx |
+| 28/10/2026 | Lotes já entregues que seguem no estoque de 2025, e a dação G3 que falta no passivo: sem ajuste. O desconto foi feito uma vez só. | Sem mudança | Resposta do Luís nesta sessão |
+| 28/10/2026 | Rovílio: os 3 lotes do Morada dos Ipês II (R$ 550 mil cada, "à pagar") são lotes de loteamento que o grupo não pôs no inventário. Isso prova que loteamento não finalizado tem valor comercial e que o inventário não mostra todos os loteamentos existentes. | Argumento para o 11.2.1 e para o investimento a demonstrar | Resposta do Luís nesta sessão |
+| 28/10/2026 | **Regra geral do 11.2:** só cobranças futuras ficam na lista. Toda cobrança passada é zerada, seja em lotes, valores ou outros bens: o bem já saiu do inventário ou o pagamento já saiu da conta. Aplicada item a item: sai também a Solar Serra (R$ 150.000; lote 02/07 já entregue em abr/2024). No Colina do Retiro II sai só o que o lote pagou; o resto é obra futura. No Rovílio, no Acordi e no Lago Negro o grupo já lista só o que falta. | Total abatido R$ 5.442.667. Total do tópico na proposta: R$ 6,9 mi (a ponte não muda) | Resposta do Luís nesta sessão |
+
+## Ainda pendentes
+
+- **Para um segundo momento (pedido do Luís):** procurar loteamentos com o perfil do Morada dos Ipês II, ou seja, que aparecem em pagamentos, acordos, dações ou promessas de lote (arquivos 1, 17 e 18, ACERTOS E ACORDOS, relatórios mensais, inventário de 2018), mas não estão no inventário de 2025. Para cada um: lotes prometidos ou entregues, valor atribuído pelo grupo e situação do contrato.
+- Rovílio: lote 07/04 do Morada dos Ipês I em dois pagamentos (Structura 2021 × Rovílio); lotes 12/237 e 15/252 do N. S. da Saúde, dados como pagos, fora do arquivo 17 e do estoque.
+- Solar Serra: com o passivo zerado, o lote 02/07 do Aditivo Medianeira (R$ 165.000), que já foi entregue, precisa sair do estoque de 2025 (planilha-mestre, sessão SEI). E registrar o crédito da SEI contra o Hotel Araçá: a SEI pagou com lote dela a dívida das placas solares do hotel.
+
+- Itens 11.2.2 a 11.2.5: decisão item a item. O 11.2.2 depende do pacote ambiental.
+- Paisagismo e venda Attolini (cerca de R$ 0,3 mi): separar a parte em dinheiro.

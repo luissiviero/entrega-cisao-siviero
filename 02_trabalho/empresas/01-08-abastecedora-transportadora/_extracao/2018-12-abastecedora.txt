@@ -1,0 +1,44 @@
+Empresa   da  FAMÍLIA SIVIERO
+INVENTÁRIO  DE MÓVEIS E IMÓVEIS
+ABASTECEDORA DE COMBUSTÍVEIS SIVIERO LTDA.
+Rodovia BR 470 – Km 175 + 490 m, nº 3465
+CNPJ/MF: 87.013.793/0001-61
+Fone: 0 54 3441 1226
+95.330-000  -  Veranópolis – RS
+QUADRO SOCIETÁRIO REAL,  DE  FATO  E DE DIREITO
+T1.R1: NOME DO SÓCIO | CPF/MF | VALOR E % COTAS CAPITAL
+T1.R2: IRINEU SIVIERO | 005.682.870-53 | R$ 181,80 = 18,18%
+T1.R3: RAUL SIVIERO | 026.666.930-15 | R$ 181,80 = 18,18%
+T1.R4: VALTER SIVIERO | 202.511.810-49 | R$ 181,80 = 18,18%
+T1.R5: ELCIO SIVIERO | 114.987.900-97 | R$ 181,80 = 18,18%
+T1.R6: ADÉLIA FRIZON SIVIERO | 647.482.600-25 | R$ 181,80 = 18,18%
+T1.R7: PEDRO SIVIERO | 227.128.100-82 | R$ 71,00 = 7,10%
+T1.R8: ROVILIO SIVIERO | 225.676.150-91 | R$ 20,00 = 2,00%
+T1.R9: TOTAL................................................................................ | R$ 1.000,00 = 100,00%
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+CONSTITUIÇÃO DO NOVO QUADRO SOCIETÁRIO A CONTAR DE 01.12.2003
+NÃO REAL
+T2.R1: NOME DO SÓCIO | CPF/MF | % COTAS CAPITAL
+T2.R2: PEDRO SIVIERO | 227.128.100-82 | R$ 9.900,00 = 99,00%
+T2.R3: ELGIDES SIVIERO BINDA | 134.449.800-00 | R$ 100,00 = 1,00%
+T2.R4: TOTAL........................................................................................ | R$ 10.000,00 = 100,00%
+T3.R1: Item | Descrição do(s) bem(ns) | Valor
+T3.R2: 01 | Um imóvel urbano sob Matrícula nº 3.752, com área de 3.450,00m², que compreende um lote urbano e instalação de um Posto de Combustíveis, totalmente equipado e em pleno funcionamento. O contrato com a Companhia Ipiranga está cumprido e com condições de renegociação e/ou renegociação com outra Companhia e/ou também com a possibilidade de exploração direta. Agrega ao valor do Posto, o aluguel da Lancharia/Restaurante. Valor do Terreno e Pavimentação: 3.450,00m² x R$ 2.500,00 = R$ 8.625.000,00 (considerado o valor ao metro quadrado da pavimentação e o valor da área conforme sua localização comercial). Valor do Posto em área construída: 292,85m² x R$ 2.154,09 = R$ 630.825,26 (valor do CUB da construção – agosto de 2017). Valor do Posto em área coberta: 699,55m² x R$ 1.618,38 = R$ 1.132.137,73 (valor do CUB da construção – agosto de 2017). Valor do Posto com equipamentos, bombas, quadros, tanques, sistema elétrico e licenciamento, etc. = R$ 1.000.000,00. Valor do Posto em vantagem da coisa feita: 30,00% x R$ 828.888,90. | R$ 12.216.851,89
+T3.R3: 02 | Um caminhão carro tanque placa: ICW 8342, ano: 1995, modelo: MERCEBES BENZ/L 1618. | R$ 145.000,00
+T3.R4: TOTAL GERAL DA EMPRESA............................................. | R$ 12.361.851,89
+VALOR    REAL    DE   CADA   SÓCIO   CONFORME   A   COTA   DE   CAPITAL
+T4.R1: NOME DO SÓCIO | CPF/MF | % COTAS DE CAPITAL E VALOR R$
+T4.R2: IRINEU SIVIERO | 005.682.870-53 | 16,333% = R$
+T4.R3: RAUL SIVIERO | 026.666.930-15 | 16,333% = R$
+T4.R4: VALTER SIVIERO | 202.511.810-49 | 16,333% = R$
+T4.R5: ELCIO SIVIERO | 114.987.900-97 | 16,333% = R$
+T4.R6: ADÉLIA FRIZON SIVIERO | 647.482.600-25 | 16,333% = R$
+T4.R7: PEDRO SIVIERO | 227.128.100-82 | 16,333% = R$
+T4.R8: ROVILIO SIVIERO | 225.676.150-91 | 2,00% = R$
+T4.R9: TOTAL................................................................ | 100,00% = R$
+Observação: 	O Arquiteto Celestino Rossi está tramitando com Processo junto a Prefeitura de Veranópolis para fins de legalização da obra e Aprovação do PROJETO do Posto, para posterior proceder a devida averbação da obra junto ao Ofício de Registro de Imóveis, da Comarca de Veranópolis.
+Processo Judicial em tramitação no Fórum de Veranópolis – 078/1.14.0000166-1 e 078/1.13.0001323-4 – POSTO PÉRTILE LTDA. – Ação de Indenização = Ponto e pagamento de aluguéis.
+.....................................................................................................................................................
+Veranópolis – RS, 31 de dezembro de 2018.
+Adélia Frizon Siviero				Raul Siviero			             Irineu Siviero
+Élcio Siviero		       Pedro Siviero		         Válter Siviero	           Rovílio Siviero

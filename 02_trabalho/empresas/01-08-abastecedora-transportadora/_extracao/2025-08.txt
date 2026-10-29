@@ -1,0 +1,88 @@
+Empresa   da  FAMÍLIA SIVIERO
+INVENTÁRIO  DE MÓVEIS E IMÓVEIS
+TRANSPORTADORA IRMÃOS SIVIERO LTDA.
+CNPJ/MF: 87.557.070/0001-23
+Avenida Pinheiro Machado, nº 710 - Sala nº 01 - Bairro Centro
+Fone: 0 54 3441 1317
+Veranópolis – RS = CEP.: 95.330-000
+QUADRO SOCIETÁRIO REAL,  DE  FATO  E DE DIREITO ORIGINARIAMENTE
+T1.R1: NOME DO SÓCIO | CPF/MF | VALOR E % COTAS CAPITAL
+T1.R2: IRINEU SIVIERO ANAIR DALVINA CESCA SIVIERO | 005.682.870-53 | R$ 1.818,00 = 18,18%
+T1.R3: RAUL SIVIERO | 026.666.930-15 | R$ 1.818,00 = 18,18%
+T1.R4: VALTER SIVIERO BENTA ELISA VELHO SIVIERO | 202.511.810-49 | R$ 1.818,00 = 18,18%
+T1.R5: ELCIO SIVIERO | 114.987.900-97 | R$ 1.818,00 = 18,18%
+T1.R6: ADÉLIA FRIZON SIVIERO JOSÉ VALÉRIO SIVIERO | 647.482.600-25 | R$ 1.818,00 = 18,18%
+T1.R7: PEDRO SIVIERO | 227.128.100-82 | R$ 710,00 = 7,10%
+T1.R8: ROVILIO SIVIERO | 225.676.150-91 | R$ 200,00 = 2,00%
+T1.R9: TOTAL.......................................................................... | R$ 10.000,00 = 100,00%
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+CONSTITUIÇÃO  DO  NOVO  QUADRO  SOCIETÁRIO  A CONTAR DE 01.12.2003
+NÃO REAL
+T2.R1: NOME DO SÓCIO | CPF/MF | VALOR E % COTAS CAPITAL
+T2.R2: RAUL SIVIERO | 026.666.930-15 | R$ 95.000,00 = 95,00%
+T2.R3: LUCIANE SIVIERO | 568.315.870-20 | R$ 5.000,00 = 5,00%
+T2.R4: TOTAL...................................................................... | R$ 100.000,00 = 100,00%
+T3.R1: Item | Descrição do(s) bem(ns) | Valor
+T3.R2: 01 | Um terreno urbano, com a área de 8.700,00m², localizado na Rodovia BR 470, Km 175,4, no Bairro São Pelegrino, devidamente registrado no Ofício de Registro de Imóveis da Comarca de Veranópolis, sob Matrícula nº 3.753, que faz fundos e acesso na lateral com a área da Abastecedora de Combustíveis Siviero Ltda., onde está instalada a OFICINA MECÂNICA = considerado o valor de R$ 992,78, ao metro quadrado. | R$ 8.637.186,00
+T3.R3: 02 | Um pavilhão novo – em fase FINAL de construção – onde está sendo instalada a OFICINA MECÂNICA, não sendo considerado o valor da construção do mezanino com área construída de 1.298,00m² - valor de R$ 1.100,00, ao metro = R$ 1.427.800,00. Valor do Pavilhão construído – obra civil = 30,00% (Trinta por cento) da obra feita: R$ 0,00 (considerado o valor agregado à coisa feita, como tal se encontra). NÃO FOI CALCULADO – CARECE AINDA DE REGULARIZAÇÃO DA OBRA JUNTO À PREFEITURA MUNICIPAL (APROVAÇÃO DO PROJETO), A.P.P.C.I. E PAGAMENTO DO I.N.S.S. DA OBRA. | R$ 1.427.800,00
+T3.R4: 03 | Equipamentos em geral, como: macacos, guindastes; ferramentas em geral de todas as espécies e de necessidade para o funcionamento da oficina mecânica, peças, óleos e graxas – todo o estoque existente na oficina, telefone, câmeras de monitoramento, etc. | R$ 500.000,00
+T3.R5: 04 | Uma rampa de lavagem devidamente licenciada para lavagem de caminhões pesados e carros, que pode ser utilizada para fins próprios ou manter locada para terceiros. Os equipamentos são de propriedade da empresa locatária. Valor do Pavilhão construído – obra civil = 30,00% (Trinta por cento) da obra feita: R$ 0,00 (considerado o valor agregado à coisa feita, como tal se encontra). NÃO FOI CALCULADO – CARECE AINDA DE REGULARIZAÇÃO DA OBRA JUNTO À PREFEITURA MUNICIPAL (APROVAÇÃO DO PROJETO), A.P.P.C.I. E PAGAMENTO DO I.N.S.S. DA OBRA. | R$ 300.000,00
+T3.R6: 05 | Uma borracharia, que pode ser utilizada para fins próprios ou manter locada para terceiros. Os equipamentos são de propriedade da empresa locatária. Valor do Pavilhão construído – obra civil = 30,00% (Trinta por cento) da obra feita: R$ 0,00 (considerado o valor agregado à coisa feita, como tal se encontra). NÃO FOI CALCULADO – CARECE AINDA DE REGULARIZAÇÃO DA OBRA JUNTO À PREFEITURA MUNICIPAL (APROVAÇÃO DO PROJETO), A.P.P.C.I. E PAGAMENTO DO I.N.S.S. DA OBRA. | R$ 220.000,00
+T3.R7: 06 | Uma sala comercial, utilizada com o escritório das empresas, localizada na Avenida Pinheiro Machado, nº 710, Sala nº 01, Bairro Centro, no Edifício Luiz Siviero, na cidade de Veranópolis – RS, com área de 243,30m², devidamente registrada no Ofício de Registros de Imóveis da Comarca de Veranópolis – RS, sob Matrícula nº 7.393. CUB ao metro quadrado X R$ 3.236,85 + instalações. | R$ 840.000,00
+T4.R1: Item | Descrição do(s) bem(ns) | Valor
+T4.R2: 07 | Uma área de terras rurais, denominada de LOTES RURAIS Nº 63, 65, 66 e LETRA “N”, com área total de 69,8 hectares, localizada na Linha Júlio de Castilhos, Capela de São Brás, no Município de Cotiporã – RS, área esta registrada sob Matrículas nº.: 459, 460, 461 e 558. Considerado o valor médio de R$ 50.000,00, ao ha. Matrículas nº 459, 460, 461 e 558 = 69,8 hectares. Cadastrada no CCIR – Receita Federal sob nº 2.898.227-4 | R$ 3.500.000,00
+T4.R3: 08 | Uma área de terras rurais, denominada de Parte do lote Rural nº 63, da Linha Dr. Júlio de Castilhos, com área total de 4,5 hectares, DENTRO DE UM TODO MAIOR, localizada ao lado das terras na Capela de São Brás, no Município de Cotiporã – RS, adquirida do Senhor Tercílio Dal Más, área está registrada sob Registro nº.: 15.922 = 4,5 hectares. Considerado o valor médio de R$ 50.000,00, ao ha. Cadastrada no CCIR – Receita Federal sob nº ......... Adquirida por CONTRATO DE COMPRA E VENDA, datado de 25 setembro de 2008, pelo valor de R$ 50.000,00. | R$ 250.000,00
+T4.R4: 09 | Um apartamento residencial, localizado na Avenida Pinheiro Machado, nº 710, denominado de nº 401, Bairro Centro, no Edifício Luiz Siviero, na cidade de Veranópolis – RS, com área total de 168,91m², área privativa de 127,05m², devidamente registrado no Ofício de Registros de Imóveis da Comarca de Veranópolis – RS, sob Matrícula nº 7.400. | R$ 360.000,00
+T4.R5: 10 | Um veículo caminhão SCANIA = PLACA IKR 2054, ano 2002. Trabalha para a JBS – Thiago Binda. | R$ 140.000,00
+T4.R6: 11 | Uma carreta RANDON = PLACA IQB 0612, ano 2009. | R$ 30.000,00
+T4.R7: 12 | Um veículo caminhão SCANIA = PLACA IJZ 5399, ano 2001. Trabalha para a SEI – prancha. | R$ 140.000,00
+T4.R8: 13 | Uma carreta RANDON = PLACA IJZ 8207, ano 2001. | R$ 30.000,00
+T4.R9: TOTAL GERAL DA EMPRESA..................................... | R$ 16.374.986,00
+VALOR    REAL    DE   CADA   SÓCIO   CONFORME   A   COTA   DE   CAPITAL
+T5.R1: NOME DO SÓCIO | CPF/MF | % COTAS DE CAPITAL E VALOR R$
+T5.R2: IRINEU SIVIERO ANAIR DALVINA CESCA SIVIERO | 005.682.870-53 | 16,66% = R$ 2.729.164,33
+T5.R3: RAUL SIVIERO | 026.666.930-15 | 16,66% = R$ 2.729.164,33
+T5.R4: VALTER SIVIERO BENTA ELISA VELHO SIVIERO | 202.511.810-49 | 16,66% = R$ 2.729.164,33
+T5.R5: ELCIO SIVIERO | 114.987.900-97 | 16,66% = R$ 2.729.164,33
+T5.R6: ADÉLIA FRIZON SIVIERO JOSÉ VALÉRIO SIVIERO | 647.482.600-25 | 16,66% = R$ 2.729.164,33
+T5.R7: PEDRO SIVIERO | 227.128.100-82 | 16,66% = R$ 2.729.164,33
+T5.R8: TOTAL............................................................. | 100,00% = R$ 16.374.986,00
+OBSERVAÇÕES:
+Conforme INSTRUMENTO PARTICULAR DE COMPRA E VENDA DE QUOTAS DE CAPITAL, NA SOCIEDADE DE EMPRESAS DE RESPONSABILIDADE LIMITADA, datado de 28 de agosto de 2025, o Sócio ROVÍLIO SIVIERO, brasileiro, natural de Veranópolis – RS, Odontólogo, residente e domiciliado na Rua Carijós, nº 427, Bairro Vila Fátima, na cidade de Passo Fundo – RS, CEP.: 99.020-110, inscrito no CPF/MF sob nº 225.676.150-91 e portador da Carteira de Identidade nº 4017098015, emitida pela SSP – RS, casado pelo Regime de Comunhão Universal de Bens com Maristela Pretto Siviero, brasileira, professora, filha de Alberto José Pretto e de Iracema Antônia Pretto, inscrita no CPF/MF sob nº 260.949.670/20 e portadora da Carteira de Identidade nº 22.827.317-1, emitida pela SSP – SC, efetuaram a VENDA das quotas que lhes pertenciam à empresa, diluídas em partes iguais aos demais sócios remanescentes.
+A empresa possui um PROCESSO JUDICIAL em tramitação para cobrança de um valor de aproximadamente R$ 340.000,00 (Trezentos e quarenta mil reais), corrigidos e tratando-se de acordo judicial, NÃO significa que este será o valor ajustado, podendo sofrer consideráveis alterações para viabilização do acordo, contra as empresas: JOVENI TRANSPORTES LTDA. x JBS x FRANGOSUL, referente aos meses de dezembro de 2011, janeiro, fevereiro, março e abril de 2012). O ingresso deu-se, faz-se de não aceitarmos a proposta de pagamento, em 76 (Setenta e seis) parcelas, sem correção.
+PROCESSO SOTTILI – BAHIA
+O processo está com o Juiz desde novembro de 2024 para homologar ou não o acordo, que a seguradora fez com a autora. Em caso de condenação, o pedido é 01 (um) salário mínimo até que o menino completasse 25 anos. Ele nasceu em 23.05.1996, ou seja, completaria os 25 anos em maio de 2021 e, + 1.000 salários mínimos de dano moral.
+Cálculo:
+PENSÃO
+R$ 1.518,00 x 12 meses = R$ 18.216,00 x 20 anos = R$ 364.320,00 (considerado o valor atualizado do salário mínimo e por isso não incluso os juros).
+DANO MORAL
+R$ 1.518,00 x 1.000 = R$ 1.518.000,00.
+O dano moral não seria deferido nesse patamar, mas se o Juiz julgar a condenação de 150 salários mínimos na época do acidente com juros desde então (02.04.2001), teremos:
+O valor do salário mínimo da época de R$ 180,00 x 150 = R$ 27.000,00 com juros de 12,00% ao ano + correção monetária = R$ 627.000,00.
+Trata-se de uma condenação superior a R$ 1.000.000,00 (HUM MILHÃO DE REAIS).
+Dos bens imóveis instalados sobre uma das propriedades da empresa, carecem ainda de regularização:
+PAVILHÃO DA OFICINA MECÂNICA: APROVAR o PROJETO do PAVILHÃO junto à Prefeitura de Veranópolis, pagar o I.N.S.S. resultante sobre a obra – Pavilhão da Oficina – para fins de averbação da benfeitoria na Matrícula do Imóvel, junto o Ofício de Registro de Imóveis da Comarca de Veranópolis – RS.
+Conforme cálculo realizado para projetar o custo do imposto – I.N.S.S. – resulta numa importância de aproximadamente R$ 122.254,73 (Cento e vinte e dois mil, duzentos e cinquenta e quatro reais e setenta e três centavos), afora ainda os custos de: A.P.P.C.I., A.R.T., ENGENHEIRO CIVIL, TAXA DE APROVAÇÃO, EMOLUMENTOS DE REGISTRO, dentre outras despesas afins.
+PAVILHÃO DA BORRACHARIA E RAMPA DE LAVAGEM: APROVAR o PROJETO destes PAVILHÕES junto à Prefeitura de Veranópolis, pagar o I.N.S.S. resultantes sobre as obras – para fins de averbação das benfeitorias na Matrícula do Imóvel, junto o Ofício de Registro de Imóveis da Comarca de Veranópolis – RS.
+Conforme cálculo realizado para projetar o custo do imposto – I.N.S.S. – resulta numa importância de aproximadamente R$ 62.555,51 (Sessenta e dois mil, quinhentos e cinquenta e cinco reais e cinquenta e um centavos), afora ainda os custos de: A.P.P.C.I., A.R.T., ENGENHEIRO CIVIL, TAXA DE APROVAÇÃO, EMOLUMENTOS DE REGISTRO, dentre outras despesas afins.
+O valor real acima apontado não é líquido, à medida que:
+O valor patrimonial lançado sofrerá redução pela regularização dos imóveis, o que se estima numa redução de 1,50% (HUM VÍRGULA CINQUENTA POR CENTO) do valor acima apontado, afora os ônus de eventual dissolução da empresa em relação a parte de algum(ns) sócio(s).
+Há que se ter em mente, que haverá ônus de eventual dissolução da empresa em relação a parte de algum(ns) sócio(s), não podendo serem considerados como líquidos os valores alcançados na avaliação patrimonial.
+FOI ACRESCENTADO O VALOR DO CAPITAL DE BENS A IMPORTÂNCIA DE R$ 1.135.000,00 AO VALOR CONSTANTE NO BALANÇO PATRIMONIAL (CÓDIGO 1060) – ITENS 03 – 04 – 05.
+O BALANÇO PATRIMONIAL E CONTÁBIL ESTÁ PRONTO E CONFERIDO, PELA ESCRITA CONTÁBIL NESSA DATA, QUE NÃO CORRESPONDE À REALIDADE FÁTICA DA EMPRESA.
+........................................................................................................................................................
+Veranópolis – RS, 31 de dezembro de 2024.
+Adélia Frizon Siviero
+Luciane Siviero 					Joel Siviero			Camila Zanetti
+Josiane Siviero					Pedro Paulo Zanatta Filho
+Araceli Siviero					Mário Henrique Bordignon
+Raul Siviero
+Graciele Siviero					Diego Fernandes Cardoso
+Giovani Siviero					Ana Paula da Cruz Cavalheiro
+Anair Dalvina Cesca Siviero
+Roberta Siviero					Jonas Freitas Bavaresco
+André Luiz Siviero				Sandra Regina Siviero
+Benta Elisa Velho Siviero
+Luís Artur Siviero			Flávia Mânica Siviero		Walter Siviero Júnior
+Vagner Siviero				Kátia Regina Colombo Siviero
+Élcio Siviero				Pedro Siviero

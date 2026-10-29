@@ -1,0 +1,18 @@
+# Achados para as sessões das empresas (São Crispin, Hotel Princesa dos Vales e outras)
+
+Situação: **E1, E2 e E3 aprovados pelo Luís em 28/10/2026 (pacote 1)**; podem ser incorporados. E4 a E7 vão no pacote 2, aguardando aprovação (regra P13). Detalhe em `cruzamentos.xlsx`.
+
+## 05 Hotel Princesa dos Vales e 02 Agropecuária Fazenda São Crispin
+
+| # | Achado | Valor | Aba | Proposta |
+|---|---|---|---|---|
+| E1 | Créditos em soja sem valor em nenhum inventário de 2025, total 50.779 sacas. Hotel: 37.694 sacas (Rigo, safras 2021 e 2022 líquidas) + 9.403 sacas (Lorenzet, 2021-2023, "HOTEL/OLEOPLAN"). Lorenzet 2024: 3.682 sacas que o docx atribui à Agropecuária, mas o contrato 9 (2023-2026) tem o Hotel como arrendador (CNPJ 89.471.270/0001-94, conferido por OCR). Natureza do crédito Rigo indefinida: a tabela diz "FALTA RECEBER" e a observação diz "AINDA NÃO FORAM VENDIDOS". As 2.606 sacas vendidas para a escavadeira têm o mesmo número da safra Lorenzet 2021. | Só referência, não é avaliação (P5): 50.779 × R$ 80,00 (contrato Rigo, out/2018) = R$ 4.062.320 | Soja e escavadeira | Ativo não abordado (Parte 5 das empresas). Pedir ao grupo quantidade em depósito e valor em 31/12/2024. |
+| E2 | Fazenda São Crispin: as áreas fecham. Itens 05 e 06 do doc 05 somam 407,53 + 4,0 = 411,53 ha; o docx dá 411,43 ha (diferença de 0,10 ha). Os 491 ha, os 83,47 ha da Rigo e os 407,53 ha estão no próprio doc 05; Rafael os repete. As vendas fora das matrículas listadas (106,53 ha da Rigo + 85,32 ha da Pellegrini = 191,85 ha) explicam os 686,75 − 491 − 4 = 191,75 ha. Nota da sessão 02/05 (28/10/2026): as 4 parcelas Pellegrini do inventário de 2018 (doc 17 de 2018) somam 85,22 ha (4,9 + 10,0 + 26,16 + 44,16), e não os 85,32 ha declarados. Com 85,22, a conta fecha exata: 106,53 + 85,22 = 191,75 ha. A diferença de 0,10 ha vem do número declarado. | — | São Crispin | Propor o fechamento da pendência 1 (área) com esta conciliação. Fica aberto o 00.760 duplicado (pendência 2). |
+| E3 | Destino dos R$ 12.058.000 recebidos pelas vendas de 2018 (Rigo, Pellegrini e Angeli, em dinheiro, soja e gado), premissa P4. | R$ 12.058.000 | Áreas vendidas (extrações) | Pedir ao grupo a aplicação dos recursos. |
+| E4 | Escavadeira: 2.606 sacas do crédito Rigo (Hotel) vendidas em 2024 "para aquisição da escavadeira hidráulica". A única escavadeira de 2024 nos inventários é a 320 da SEI (R$ 887.000; saldo Caterpillar R$ 347.652,03 em 31/07/2025). Nenhum inventário registra crédito do Hotel contra a SEI. | referência: 2.606 × R$ 80 = R$ 208.480 | Soja e escavadeira | Registrar como empréstimo intragrupo sem contrapartida (Parte 6, forma 9). Com 1/6 nas duas empresas, o efeito sobre a quota tende a zero, salvo pela escolha de valores. |
+| E5 | O doc 05 avalia toda a área da São Crispin a R$ 110.000/ha, inclusive 197,4 ha "não produtivos". O próprio inventário usa R$ 40.000 (lavoura), R$ 18.000-20.000 (campo) e R$ 8.000 (mato) para impostos. O Dr. Pablo perguntou o mesmo (arq. 1, p. 5). | — | — | Só registro: a escolha de valor é da sessão da empresa (C0). |
+| E6 | Arrendamento Lorenzetti: 2.790 sacas (lavoura) + 900 sacas (batata) + 4.725 kg de boi por ano (cálculo: 157,5/100 × 3.000 kg), até 30/04/2026. A receita da safra 2024/25 é anterior à data-base. | — | Arrendamento (extrações) | Conferir se as safras recebidas até 31/12/2024 estão no inventário. |
+
+## 04 Ceval
+
+- E7. A NF 4946 (arq. 6), de 12/11/2009, é da Ceval: escavadeira 320D, R$ 470.000, alienação fiduciária Caterpillar. Tem anotação à mão: "Máquina do Celito. Ceval. 66,66 Siviero / 33,33 Celito". A mesma máquina está no doc 04 (Ceval, R$ 200.000) e no doc 11 (SEI, item 03 de máquinas, "320D ... – SEI", R$ 200.000). Possível dupla contagem, e 1/3 pode ser de terceiro (Celito).

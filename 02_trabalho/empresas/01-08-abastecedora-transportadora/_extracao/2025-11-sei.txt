@@ -1,0 +1,789 @@
+Empresa  da  FAMÍLIA  SIVIERO
+INVENTÁRIO DE  MÓVEIS E IMÓVEIS
+SIVIERO EMPREENDIMENTOS  IMOBILIÁRIOS  LTDA.
+CNPJ/MF: 89.472.195/0001-86 – Avenida Pinheiro Machado, nº 710  –  Sala nº 03   –   Bairro Centro
+Fone: 0 54 3441 1059 – Veranópolis – RS = CEP.: 95.330-000  –   Inscrição Estadual/RS: 157/0058218
+QUADRO SOCIETÁRIO REAL,   DE  FATO  E DE DIREITO
+T1.R1: NOME DO SÓCIO | CPF/MF | VALOR E % COTAS CAPITAL
+T1.R2: IRINEU SIVIERO | 005.682.870-53 | R$ 1.818,00 = 18,18%
+T1.R3: RAUL SIVIERO | 026.666.930-15 | R$ 1.818,00 = 18,18%
+T1.R4: VALTER SIVIERO | 202.511.810-49 | R$ 1.818,00 = 18,18%
+T1.R5: ELCIO SIVIERO | 114.987.900-97 | R$ 1.818,00 = 18,18%
+T1.R6: ADÉLIA FRIZON SIVIERO | 647.482.600-25 | R$ 1.818,00 = 18,18%
+T1.R7: PEDRO SIVIERO | 227.128.100-82 | R$ 710,00 = 7,10%
+T1.R8: ROVILIO SIVIERO | 225.676.150-91 | R$ 200,00 = 2,00%
+T1.R9: TOTAL.................................................................... | R$ 10.000,00 = 100,00%
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+T2.R1: NOME DO SÓCIO | CPF/MF | % COTAS CAPITAL
+T2.R2: VALTER SIVIERO | 202.511.810-49 | R$ 99.000,00 = 99,00%
+T2.R3: ELGIDES SIVIERO BINDA | 134.449.800-00 | R$ 1.000,00 = 1,00%
+T2.R4: TOTAL........................................................................... | R$ 100.000,00 = 100,00%
+CONSTITUIÇÃO  DO  NOVO  QUADRO  SOCIETÁRIO  A CONTAR DE 09.03.2020 = NÃO REAL
+T3.R1: NOME DO SÓCIO | CPF/MF | % COTAS CAPITAL
+T3.R2: PEDRO SIVIERO | 227.128.100-82 | R$ 297.000,00 = 99,00%
+T3.R3: MARCOS ANTÔNIO SIVIERO | 817.112.550-68 | R$ 3.000,00 = 1,00%
+T3.R4: TOTAL........................................................................... | R$ 300.000,00 = 100,00%
+T4.R1: Item | Descrição dos bens – VEÍCULOS | Valor
+T4.R2: 01 | Um veículo caminhão basculante, marca VW = PLACA IUV 8D25, cor branca, ano 2013, adquirido da empresa Dalfovo. | R$ 198.000,00
+T4.R3: 02 | Um veículo caminhão basculante, marca VW = PLACA IUV 8D09, cor branca, ano 2013, adquirido da empresa Dalfovo. | R$ 198.000,00
+T4.R4: 03 | Um veículo caminhão basculante, marca MERCEDES BENZ, L1620 = PLACA ILQ 1739, cor cinza, ano 2003. | R$ 98.000,00
+T4.R5: 04 | Um veículo caminhão basculante, marca MERCEDES BENZ, = PLACA IBP 3873, cor vermelha, ano 1990. | R$ 53.000,00
+T4.R6: 05 | Um veículo caminhão SCANIA = PLACA IIQ 0751, cor laranja, ano 1963. | R$ 25.000,00
+T4.R7: 06 | Um semirreboque RANDON = PLACA IHP 6632, cor amarelo, ano 1990. | R$ 25.000,00
+T4.R8: 07 | Um veículo Mercedinha, marca MERCEDES BENZ, L608 = PLACA BWF 0672, cor vermelha, ano 1979. | R$ 20.000,00
+T4.R9: 08 | Um veículo caminhão basculante, marca MERCEDES BENZ, L1316 = PLACA IHZ 0172, cor vermelha, ano 1984. | R$ 50.000,00
+T4.R10: 09 | Um veículo caminhão basculante, marca MERCDES BENZ = PLACA IHW 8294, cor grená, ano 1974. | R$ 30.000,00
+T4.R11: 10 | Um veículo caminhão, marca SCÂNIA = PLACA IHK 2435, cor laranja, ano 1967. | R$ 25.000,00
+T4.R12: 11 | Uma camionete TOYOTA HILUX, cor preta, ano 2018 = PLACA IYJ 8I14. | R$ 188.000,00
+T4.R13: 12 | Um veículo caminhão, marca SCÂNIA = PLACA IIX 8288, cor laranja, ano 1963. | R$ 25.000,00
+T4.R14: 13 | Um carro automóvel FORD, cor vermelha, ano 1929 = PLACA IKR 3B22 – FUBICA. | R$ 60.000,00
+T4.R15: 14 | Uma camionete FORD RANGER, cor prata, ano 2010 = PLACA NPQ OI67. | R$ 67.000,00
+T4.R16: 15 | Um veículo TOYOTA RAV4 = PLACA IZQ 9H36, cor prata, ano 2019. | R$ 155.000,00
+T4.R17: TOTAL GERAL DOS BENS - VEÍCULOS........................ | R$ 1.217.000,00
+T5.R1: Item | Descrição dos bens – MÁQUINAS | Valor | 
+T5.R2: 01 | Uma Escavadeira Hidráulica, ano 2024, modelo 320, CATERPILLAR. | R$ 887.000,00 | 
+T5.R3: 02 | Uma Escavadeira Hidráulica, ano 2014, modelo 320DL, CATERPILLAR. | R$ 350.000,00 | 
+T5.R4: 03 | Uma Escavadeira Hidráulica, ano 2009, modelo 320D, CATERPILLAR – SEI. | R$ 200.000,00 | 
+T5.R5: 04 | Um Trator de Esteira D6, ano 1980. | R$ 80.000,00 | 
+T5.R6: 05 | Um Trator de Esteira D6, ano..... | R$ 80.000,00 | 
+T5.R7: 06 | Um Trator de Esteira D6, ano..... | R$ 50.000,00 | 
+T5.R8: 07 | Uma Retroescavadeira CASE 580L, ano 2001, PLACA IKI 4827. | R$ 60.000,00 | 
+T5.R9: 08 | Uma Pá carregadeira, ano 1980. | R$ 60.000,00 | 
+T5.R10: 09 | Um Compressor, ano 2012, marca ATLAS COPCO. | R$ 150.000,00 | 
+T5.R11: 10 | Um Compressor, ano 1980, a ar, CA80, marca ATLAS COPCO. Adquirido por leilão da Prefeitura de Bento Gonçalves. | R$ 10.000,00 | 
+T5.R12: 11 | Um Compressor, ano....., cor verde. | R$ 30.000,00 | 
+T5.R13: 12 | Uma Perfuratriz, ano..... | R$ 10.000,00 | 
+T5.R14: 13 | Um Rompedor Hidráulico, ano 2014, adquirido da ATLAS COPCO, modelo MB 1700. | R$ 100.000,00 | 
+T5.R15: 14 | Um Trator de Esteira, ano 2014, modelo D6N XL, CATERPILLAR, adquirido em setembro de 2025. | R$ 450.000,00 | 
+T5.R16: TOTAL GERAL DOS BENS - MÁQUINAS................... | R$ 2.517.000,00 | 
+T6.R1: Item | Descrição dos bens – LOTES URBANOS EM VERANÓPOLIS e BENTO GONÇALVES | Valor
+T6.R2: 01 | Um lote urbano, localizado na Avenida Pinheiro Machado, Bairro Centro – Casa da Nina – Casa onde mora o Senhor Rubens Baldissera. Área de 330,00m², devidamente Registrado no Ofício de Registro de Imóveis da Comarca de Veranópolis – RS, sob Matrícula nº 1.597. | R$ 280.000,00
+T6.R3: 02 | Um lote urbano com casa, localizado na Avenida Dr. José Montaury, Bairro São Pelegrino – Casa da Nona – onde morava a Senhora Geni Siviero Mattiuz. 14,50m X 25,00m = área de 362,50m², devidamente Registrado no Ofício de Registro de Imóveis da Comarca de Veranópolis – RS, sob Matrícula nº 1.335. | R$ 250.000,00
+T6.R4: 03 | Um lote urbano com casa/prédio, localizado na Avenida Osvaldo Aranha, nº 1398, Bairro Palugana – escritório velho – alugado para o Senhor André – BAR DO ANDRÉ. 19,00m X 30,00 = área de 570,00m², devidamente Registrado no Ofício de Registro de Imóveis da Comarca de Veranópolis – RS, sob Matrícula nº 9. | R$ 850.000,00
+T6.R5: 04 | Um lote urbano, localizado na Rua General Flores da Cunha, que era do Mercali, na subida para o Bairro Femaçã – Hipotecado em favor da Receita Estadual – Dívida do ICMS. 13,00m X 20,00m = área de 260,00m², devidamente Registrado no Ofício de Registro de Imóveis da Comarca de Veranópolis – RS, sob Matrícula nº 1.053. | R$ 60.000,00
+T6.R6: 05 | Um lote urbano, localizado na Avenida Osvaldo Aranha, esquina com a Rua Eduardo Duarte, alugado para o Sr. Paulinho, das baterias. 23,00m X 15,00m = área de 345,00m², devidamente Registrado no Ofício de Registro de Imóveis da Comarca de Veranópolis – RS, sob Matrícula nº 1.507. | R$ 550.000,00
+T6.R7: 06 | Um lote urbano, localizado na Rua General Flores da Cunha, Bairro Centro, na cidade de Veranópolis – RS, adquirido da Família Dal Ponte, denominado de lote nº 0092, da quadra nº 020, zona nº 02, distrito nº 01, com área de 750,00m², devidamente registrado no Ofício de Registro de Imóveis da Comarca de Veranópolis, sob Matrícula nº 3.788. | R$ 1.010.000,00
+T6.R8: 07 | Um lote urbano, localizado na cidade de Bento Gonçalves – RS, denominado de lote nº 569/46 – Quadra 216 /D – Cadastro na P. M. de Bento Gonçalves sob nº 13082200, no LOTEAMENTO OURO VERDE II. Área de .........m², Registrado no Ofício de Registro de Imóveis da Comarca de Bento Gonçalves – RS, sob Matrícula nº ........... | R$ 130.000,00
+T6.R9: 08 | Um lote urbano, localizado na cidade de Bento Gonçalves – RS, denominado de lote nº 188/62 – Quadra 163/G – Cadastro na P. M. de Bento Gonçalves sob nº 12482700, no LOTEAMENTO VERONA. Área de .........m², Registrado no Ofício de Registro de Imóveis da Comarca de Bento Gonçalves – RS, sob Matrícula nº ........... | R$ 160.000,00
+T6.R10: TOTAL GERAL DOS BENS - LOTES URBANOS EM VERANÓPOLIS e BENTO GONÇALVES..................... | R$ 3.290.000,00
+T7.R1: Item | Descrição dos bens ÁREAS URBANAS EM VERANÓPOLIS | Valor
+T7.R2: 01 | Uma área de terras urbanas, denominada de LOTE Nº 1054, com área total de 16.913,9670m², ou 1,6 hectares, localizada no Município de Veranópolis – RS, próximo a Abastecedora de Combustíveis Siviero Ltda., adquirida do Senhor MOACIR ZANINI, área esta registrada sob Matrícula nº.: 17.038. Matrícula nº 17.038 = 1,60 hectares. 95,00 metros de frente. | R$ 1.200.000,00
+T7.R3: 02 | Um terreno – lote urbano, localizado na Rodovia BR 470, ao lado da Abastecedora de Combustíveis Siviero Ltda., devidamente registrado no Ofício de Registro de Imóveis da Comarca de Veranópolis, sob Matrícula nº 3.751, com área de 7.200,00m², onde está instalada a ANTENA de TRANSMISSÃO da RÁDIO, ao valor de mercado considerado sua localização e referência comercial = R$ 992,78, ao metro quadrado. | R$ 7.148.016,00
+T7.R4: 03 | Um terreno urbano, com a área de 4.986,00m², localizado na Rodovia BR 470, Km 175,4, no Bairro São Pelegrino, devidamente registrado no Ofício de Registro de Imóveis da Comarca de Veranópolis, sob Matrícula nº 3.754, localizado na lateral da Abastecedora de Combustíveis Siviero Ltda., onde estava instalada a SERRARIA, considerado o valor de R$ 992,78, ao metro quadrado, conforme sua localização e referência comercial. | R$ 4.950.000,00
+T7.R5: 04 | Um imóvel urbano, com a área de 4.792,03m², localizado na Rodovia BR 470, Km 175,4, no Bairro Valverde, devidamente registrado no Ofício de Registro de Imóveis da Comarca de Veranópolis, sob a Matrícula nº 29.954 – (oriunda da unificação das Matrículas nº 17.409 e 6.136), ao lado da empresa Oleoplan S/A, considerado o valor de R$ 2.000,00, ao metro quadrado, conforme sua localização e referência comercial. = R$ 9.584.060,00. Sob estes imóveis estão construídos os PAVILHÕES, com área total construída de 4.170,00m², atualmente locados para a empresa Oleoplan S/A, avaliado conforme o CUB da construção civil referente ao mês de AGOSTO/2017 = R$ 746,60, ao metro quadrado = R$ 3.113.322,00. Valor dos Pavilhões construídos – obra civil = 30,00% (Trinta por cento) da obra feita: R$ 933.996,60 (considerado o valor agregado à coisa feita, como tal se encontra). | R$ 13.631.378,60
+T7.R6: TOTAL GERAL DOS BENS - ÁREAS URBANAS EM VERANÓPOLIS........ | R$ 26.929.394,60
+T8.R1: Item | Descrição dos bens ÁREAS RURAIS EM VERANÓPOLIS, COTIPORÃ, FAGUNDES VARELA E CAXIAS DO SUL | Valor
+T8.R2: 01 | Uma área de terras rurais, denominada de PARTES DOS LOTES RURAIS Nº 05, 06 e 76/A, com área total de 3,4 hectares, localizada na Linha Tomás Flores e Linha Afonso Pena, no Município de Veranópolis – RS, adquirida da Senhora ERMELINDA MOSSI REMOR, área esta registrada sob Matrícula nº.: Matrícula nº 14.443, 14.444, 14.576 = 3,4 hectares. Cadastrada no CCIR – Receita Federal sob nº 6.206.801-6. 90,00 metros de frente. | R$ 1.200.000,00
+T8.R3: 02 | Uma área de terras URBANAS, denominada de UM IMÓVEL URBANO, com a denominação administrativa de lote nº 0292, da quadra nº 009, zona 12, distrito 01, com área total de 4,0 hectares, conforme Registro e área medida, com 40.027,41m², localizada na Linha Tomaz Flores, Estrada Velha da Vacaria, no Município de Veranópolis – RS, na localidade de Sapopema, próxima ao CTG Rincão da Roça Reúna, adquirida da FAMÍLIA LAGO, área registrada sob Matrícula nº.: 33.516. | R$ 1.500.000,00
+T8.R4: 03 | Uma área de terras rurais, denominada de PARTE DO LOTE RURAL Nº 14, da linha Dr. Júlio de Castilhos, com área total de 7,5 hectares, ou 75.550,00m², localizada no Município de Veranópolis – RS, na localidade de Santa Rita, adquirida da FAMÍLIA SANGALI – VALDIR SANGALI, área registrada sob Matrícula nº.: 4.194. Matrícula nº 4.194 = 7,5 hectares, adquirida pelo valor de R$ 50.000,00. | R$ 220.000,00
+T8.R5: 04 | Uma área de terras rurais, denominada de PARTE DO LOTE RURAL Nº 12, com área total de 13,0 hectares, localizada na Linha Júlio de Castilhos, no Município de Veranópolis – RS, adquirida da FAMÍLIA SANGALI, área registrada sob Matrícula nº.: 3.062. Matrícula nº 3.062 = 13,0 hectares X 40.000,00 Cadastrada no CCIR – Receita Federal sob nº 2.481.950-6 | R$ 520.000,00
+T8.R6: 05 | Uma área de terras rurais, denominada de PARTE DO LOTE RURAL LETRA B, com área total de 1,8 hectares, ou 18.326,89m², localizada na Linha Carlos Gomes, no Município de Veranópolis – RS, na localidade de Vila Azul, adquirida da FAMÍLIA FOGALI, área esta registrada sob Matrícula nº.: 14.945. Matrícula nº 14.945 = 1,8 hectares, adquirida pelo valor de R$ 305.000,00. | R$ 1.000.000,00
+T8.R7: 06 | Uma área de terras rurais, denominada de PARTE DO LOTE RURAL nº 73, da Linha Tomaz Flores, Vila Azul, no Município de Veranópolis, registrada na Matrícula nº 30.390, do Ofício de Registro de Imóveis da Comarca de Veranópolis – RS, com área de 202.435,22m², adquirida da FAMÍLIA ANSOLIN, adquirida a área total, da seguinte forma: área de 6,0 hectares = 60.000,00m², pelo valor de R$ 525.000,00, do Senhor Antônio Ansolin. área de 7,0 hectares = 70.519,78m², pelo valor de R$ 586.666,00, do Senhor Antônio Ansolin. área de 4,9 hectares = 49.787,44m², pelo valor de R$ 714.000,00, da Senhora Inês Ansolin Pessutto. área de 0,67 hectares = 6.700,00m², pelo valor de R$ 388.000,00, do Senhor Ivo José Frainer. área de 0,2 hectares = 2.128,00m², pelo valor de R$ 50.000,00, do Senhor Antônio Ansolin. área pertencente ao Senhor Antônio Ansolin.....................2,0 hectares = 20.000,00m². Área da empresa Siviero Empreendimentos Imobiliários Ltda. é de 18,2 hectares = 182.435,22m². | R$ 2.263.666,00
+T8.R8: 07 | Uma área de terras rurais, denominadas de LOTES RURAIS Nº 26 e 27, CONDOMÍNIO HORIZONTAL, composto por chácaras, localizadas na Linha Tiradentes, na Barra do Jabuticaba, no Rio das Antas, no Município de Veranópolis – RS, composto por 25 (vinte e cinco) chácaras, sendo já vendidas 15 chácaras. Matrícula nº 36 = 10 chácaras. R$ 2.000,00 cada chácara. | R$ 20.000,00
+T8.R9: 08 | Uma área de terras rurais, denominada de PARTE DO LOTE RURAL Nº 89, com área total de 27,8 hectares, localizada na Linha Barão do Triunfo, no Município de Fagundes Varela – RS, adquirida do Senhor SÉRGIO BALDISSERA, área esta registrada sob Matrícula nº.: 8.486. Matrícula nº 8.486 = 27,8 hectares X R$ 9.000,00 Cadastrada no CCIR – Receita Federal sob nº 2.481.951-4 | R$ 250.200,00
+T9.R1: Item | Descrição dos bens ÁREAS RURAIS EM VERANÓPOLIS, COTIPORÃ, FAGUNDES VARELA E CAXIAS DO SUL | Valor
+T9.R2: 09 | Uma área de terras rurais de MATO NATIVO, denominada de LOTE Nº 33, com área total de 15,1 hectares, localizada no Município de Cotiporã – RS, na Linha Júlio de Castilhos, adquirida do Senhor ARMELINDO CALZA, área esta registrada sob Matrícula nº.: 1.218. Matrícula nº 1.218 = 15,1 hectares X R$ 2.650,00 | R$ 40.000,00
+T9.R3: 10 | Uma área de terras rurais, ADQUIRIDA em 2014, DA FAMÍLIA CECCONELLO, localizada no Município de Caxias do Sul – RS, composto por 2,0 (Dois) hectares, dentro de um todo maior, que compõem o Loteamento = 130.446,00m². | R$ 600.000,00
+T9.R4: 11 | Uma área de terras rurais, denominada de PARTE DO LOTE RURAL Nº 47, com área total de 7,5 hectares = 75.625,00m², localizada na Linha Ernesto Alves, no Município de Veranópolis – RS, adquirida da FAMÍLIA PICCOLO, por contrato em 06 de outubro de 2022, área ainda não registrada em nome da empresa, com título da propriedade através de Escritura Pública de Cessão de Direitos de Posse nº 4.856 - 092, datada de 13 de março de 2006, lavrada no Serviço Notarial de Veranópolis. Cadastrada no ITR – Receita Federal sob nº 1.893.570-2 INCRA/CCIR nº 854.093.042.013-5 Adquirida pelo valor de R$ 45.000,00. Parte da área foi destinada para compensação ambiental do Loteamento Colina do Retiro II. | R$ 20.000,00
+T9.R5: 12 | Uma área de terras rurais, denominada de PARTE DO LOTE RURAL Nº 47, com área total de 7,5 hectares = 75.625,00m², localizada na Linha Ernesto Alves, no Município de Veranópolis – RS, adquirida da FAMÍLIA SCALCO, por contrato em 01 de novembro de 2022, área ainda não registrada em nome da empresa, com título da propriedade através de Escritura Pública de Cessão de Direitos de Posse nº 5.857 - 045, datada de 06 de outubro de 2009, lavrada no Serviço Notarial de Veranópolis. Cadastrada no ITR – Receita Federal sob nº 1.731.666-9 INCRA/CCIR nº 854.093.030.619-7 Adquirida pelo valor de R$ 50.000,00. Parte da área foi destinada para compensação ambiental do Loteamento Colina do Retiro II. | R$ 30.000,00
+T9.R6: TOTAL GERAL DOS BENS - ÁREAS RURAIS EM VERANÓPOLIS, COTIPORÃ, FAGUNDES VARELA E CAXIAS DO SUL.................................... | R$ 7.663.866,00
+T10.R1: Item | Descrição dos bens – LOTES LOTEAMENTOS EXECUTADOS E REGISTRADOS | Valor
+ANTÔNIO PRADO
+T11.R1: 01 | Loteamento Sol Nascente I, localizado na cidade de Antônio Prado – RS, num saldo de 11 lotes.
+T11.R2: 01 | Lote | Quadra | Valor R$
+T11.R3: 01 | 001 | A | 351.000,00
+T11.R4: 01 | 002 | A | 351.000,00
+T11.R5: 01 | 003 | A | 351.000,00
+T11.R6: 01 | 010 | B | 369.000,00
+T11.R7: 01 | 011 | B | 369.000,00
+T11.R8: 01 | 012 | B | 389.000,00
+T11.R9: 01 | 020 | C | 389.000,00
+T11.R10: 01 | 021 | D | 389.000,00
+T11.R11: 01 | 022 | D | 354.000,00
+T11.R12: 01 | 030 | E | 389.000,00
+T11.R13: 01 | 039 | E | 330.000,00
+T11.R14: 01 | R$ 4.031.000,00
+NOVA PRATA
+T12.R1: 02 | Loteamento Boito, localizado na cidade de Nova Prata – RS, num saldo de 01 lote.
+T12.R2: 02 | Lote | Quadra | Valor R$
+T12.R3: 02 | 003 | I | 136.000,00
+T12.R4: 02 | R$ 136.000,00
+PASSO FUNDO
+T13.R1: 03 | Condomínio Morada do Ipê I, localizado na cidade de Passo Fundo – RS, num saldo de 01 lote.
+T13.R2: 03 | Lote | Quadra | Valor R$
+T13.R3: 03 | O14 | 2 | 629.000,00
+T13.R4: 03 | R$ 629.000,00
+VERANÓPOLIS
+T14.R1: 04 | Loteamento Fracionamento Simioni, localizado na cidade de Veranópolis – RS, num saldo de 04 lotes. Sobre os lotes há restrições ambientais – Fonte de Água e Mato.
+T14.R2: 04 | Lote | Quadra | Valor R$
+T14.R3: 04 | 006 | 20 | ÁREA DE APP
+T14.R4: 04 | 007 | 20 | ÁREA DE APP
+T14.R5: 04 | 008 | 20 | ÁREA DE APP
+T14.R6: 04 | 009 | 20 | ÁREA DE APP
+T14.R7: 04 | R$ 0.000.000,00
+T15.R1: 05 | Loteamento Solar Norte I e II, localizado na cidade de Veranópolis – RS, num saldo de 06 lotes.
+T15.R2: 05 | Lote | Quadra | Valor R$
+T15.R3: 05 | 001 | 01 | 169.000,00
+T15.R4: 05 | 002 | 01 | 232.000,00
+T15.R5: 05 | 004 | 01 | 204.000,00
+T15.R6: 05 | 005 | 01 | 204.000,00
+T15.R7: 05 | 003 | 02 | 181.000,00
+T15.R8: 05 | 004 | 02 | 181.000,00
+T15.R9: 05 | R$ 1.171.000,00
+T16.R1: 06 | Loteamento Aditivo Medianeira, localizado na cidade de Veranópolis – RS, num saldo de 15 lotes.
+T16.R2: 06 | Lote | Quadra | Valor R$
+T16.R3: 06 | 003 | 1 | 214.000,00
+T16.R4: 06 | 001 | 3 | 190.000,00
+T16.R5: 06 | 002 | 3 | 202.000,00
+T16.R6: 06 | 003 | 3 | 190.000,00
+T16.R7: 06 | 005 | 3 | 220.000,00
+T16.R8: 06 | 006 | 3 | 167.000,00
+T16.R9: 06 | 007 | 3 | 193.000,00
+T16.R10: 06 | 002 | 6 | 156.000,00
+T16.R11: 06 | 003 | 6 | 156.000,00
+T16.R12: 06 | 009 | 6 | 156.000,00
+T16.R13: 06 | 010 | 6 | 156.000,00
+T16.R14: 06 | 001 | 7 | 165.000,00
+T16.R15: 06 | 002 | 7 | 165.000,00
+T16.R16: 06 | 003 | 7 | 165.000,00
+T16.R17: 06 | 007 | 8 | 152.000,00
+T16.R18: 06 | R$ 2.647.000,00
+T17.R1: 07 | Loteamento Colina do Retiro I, localizado na cidade de Veranópolis – RS, num saldo de 13 lotes.
+T17.R2: 07 | Lote | Quadra | Valor R$
+T17.R3: 07 | 005 | 01 | 437.000,00
+T17.R4: 07 | 006 | 01 | 437.000,00
+T17.R5: 07 | 002 | 05 | 160.000,00
+T17.R6: 07 | 003 | 06 | 149.000,00
+T17.R7: 07 | 004 | 06 | 149.000,00
+T17.R8: 07 | 007 | 06 | 149.000,00
+T17.R9: 07 | 008 | 06 | 149.000,00
+T17.R10: 07 | 002 | 09 | 159.000,00
+T17.R11: 07 | 003 | 09 | 159.000,00
+T17.R12: 07 | 004 | 12 | 160.000,00
+T17.R13: 07 | 005 | 12 | 167.000,00
+T17.R14: 07 | 005 | 14 | 155.000,00
+T17.R15: 07 | 006 | 14 | 155.000,00
+T17.R16: 07 | R$ 2.585.000,00
+T17.R17: 08 | Loteamento Salvador – Alberto Salvador – FEMAÇÃ II, localizado na cidade de Veranópolis – RS, no Bairro Femaçã, num total de 26 lotes.
+T17.R18: 08 | Lote | Quadra | Valor R$
+T17.R19: 08 | 003 | 01 | 259.000,00
+T17.R20: 08 | 004 | 01 | 276.000,00
+T17.R21: 08 | 005 | 01 | 294.000,00
+T17.R22: 08 | 006 | 01 | 311.000,00
+T17.R23: 08 | 007 | 01 | 342.000,00
+T17.R24: 08 | 010 | 01 | 328.000,00
+T17.R25: 08 | 011 | 01 | 340.000,00
+T17.R26: 08 | 012 | 01 | 358.000,00
+T17.R27: 08 | 001 | 02 | 414.000,00
+T17.R28: 08 | 002 | 02 | 413.000,00
+T17.R29: 08 | 004 | 02 | 440.000,00
+T17.R30: 08 | 005 | 02 | 326.000,00
+T17.R31: 08 | 006 | 02 | 309.000,00
+T17.R32: 08 | 007 | 02 | 301.000,00
+T17.R33: 08 | 004 | 03 | 286.000,00
+T17.R34: 08 | 003 | 04 | 189.000,00
+T17.R35: 08 | 005 | 04 | 291.000,00
+T17.R36: 08 | 006 | 04 | 291.000,00
+T17.R37: 08 | 007 | 04 | 291.000,00
+T17.R38: 08 | 008 | 04 | 282.000,00
+T17.R39: 08 | 009 | 04 | 282.000,00
+T17.R40: 08 | 010 | 04 | 283.000,00
+T17.R41: 08 | 011 | 04 | 321.000,00
+T17.R42: 08 | 001 | 05 | 387.000,00
+T17.R43: 08 | 003 | 05 | FAMÍLIA SIVIERO
+T17.R44: 08 | 004 | 05 | FAMÍLIA SIVIERO
+T17.R45: 08 | 005 | 05 | FAMÍLIA SIVIERO
+T17.R46: 08 | 006 | 05 | FAMÍLIA SIVIERO
+T17.R47: 08 | 007 | 05 | FAMÍLIA SIVIERO
+T17.R48: 08 | 008 | 05 | FAMÍLIA SIVIERO
+T17.R49: 08 | 009 | 05 | 374.000,00
+T17.R50: 08 | 010 | 05 | 386.000,00
+T17.R51: 08 | R$ 8.374.000,00
+T18.R1: 09 | Loteamento Colina do Retiro II, localizado na cidade de Veranópolis – RS, num total de 102 lotes.
+T18.R2: 09 | Lote | Quadra | Valor R$
+T18.R3: 09 | 003 | 01 | 225.000,00
+T18.R4: 09 | 004 | 01 | 232.000,00
+T18.R5: 09 | 002 | 02 | 189.000,00
+T18.R6: 09 | 006 | 02 | 199.000,00
+T18.R7: 09 | 007 | 02 | 212.000,00
+T18.R8: 09 | 001 | 03 | 310.000,00
+T18.R9: 09 | 004 | 03 | 215.000,00
+T18.R10: 09 | 005 | 03 | 258.000,00
+T18.R11: 09 | 002 | 04 | 191.000,00
+T18.R12: 09 | 003 | 04 | 191.000,00
+T18.R13: 09 | 006 | 04 | 212.000,00
+T18.R14: 09 | 007 | 04 | 185.000,00
+T18.R15: 09 | 011 | 04 | 191.000,00
+T18.R16: 09 | 012 | 04 | 191.000,00
+T18.R17: 09 | 003 | 05 | 206.000,00
+T18.R18: 09 | 006 | 05 | 242.000,00
+T18.R19: 09 | 007 | 05 | 191.000,00
+T18.R20: 09 | 008 | 05 | 192.000,00
+T18.R21: 09 | 009 | 05 | 191.000,00
+T18.R22: 09 | 012 | 05 | 206.000,00
+T18.R23: 09 | 001 | 06 | 182.000,00
+T18.R24: 09 | 003 | 06 | 182.000,00
+T18.R25: 09 | 004 | 06 | 182.000,00
+T18.R26: 09 | 005 | 06 | 180.000,00
+T18.R27: 09 | 008 | 06 | 180.000,00
+T18.R28: 09 | 009 | 06 | 198.000,00
+T18.R29: 09 | 010 | 06 | 180.000,00
+T18.R30: 09 | 011 | 06 | 180.000,00
+T18.R31: 09 | 012 | 06 | 182.000,00
+T18.R32: 09 | 014 | 06 | 182.000,00
+T18.R33: 09 | 002 | 07 | 195.000,00
+T18.R34: 09 | 003 | 07 | 195.000,00
+T18.R35: 09 | 004 | 07 | 195.000,00
+T18.R36: 09 | 005 | 07 | 184.000,00
+T18.R37: 09 | 006 | 07 | 180.000,00
+T18.R38: 09 | 008 | 07 | 184.000,00
+T18.R39: 09 | 009 | 07 | 184.000,00
+T18.R40: 09 | 010 | 07 | 199.000,00
+T18.R41: 09 | 011 | 07 | 181.000,00
+T18.R42: 09 | 013 | 07 | 195.000,00
+T18.R43: 09 | 014 | 07 | 195.000,00
+T18.R44: 09 | 002 | 08 | 180.000,00
+T18.R45: 09 | 003 | 08 | 179.000,00
+T18.R46: 09 | 006 | 08 | 226.000,00
+T18.R47: 09 | 007 | 08 | 180.000,00
+T18.R48: 09 | 008 | 08 | 180.000,00
+T18.R49: 09 | 009 | 08 | 180.000,00
+T18.R50: 09 | 010 | 08 | 228.000,00
+T18.R51: 09 | 011 | 08 | 179.000,00
+T18.R52: 09 | 001 | 09 | 168.000,00
+T18.R53: 09 | 004 | 09 | 169.000,00
+T18.R54: 09 | 005 | 09 | 169.000,00
+T18.R55: 09 | 006 | 09 | 203.000,00
+T18.R56: 09 | 007 | 09 | 174.000,00
+T18.R57: 09 | 009 | 09 | 175.000,00
+T18.R58: 09 | 010 | 09 | 207.000,00
+T18.R59: 09 | 013 | 09 | 169.000,00
+T18.R60: 09 | 014 | 09 | 168.000,00
+T18.R61: 09 | 002 | 10 | 162.000,00
+T18.R62: 09 | 009 | 10 | 169.000,00
+T18.R63: 09 | 010 | 10 | 204.000,00
+T18.R64: 09 | 012 | 10 | 162.000,00
+T18.R65: 09 | 015 | 10 | 168.000,00
+T18.R66: 09 | 001 | 11 | 209.000,00
+T18.R67: 09 | 002 | 11 | 201.000,00
+T18.R68: 09 | 003 | 11 | 186.000,00
+T18.R69: 09 | 004 | 11 | 186.000,00
+T18.R70: 09 | 007 | 11 | 186.000,00
+T18.R71: 09 | 008 | 11 | 186.000,00
+T18.R72: 09 | 011 | 11 | 202.000,00
+T18.R73: 09 | 012 | 11 | 215.000,00
+T18.R74: 09 | 001 | 12 | 213.000,00
+T18.R75: 09 | 002 | 12 | 193.000,00
+T18.R76: 09 | 003 | 12 | 187.000,00
+T18.R77: 09 | 001 | 13 | 211.000,00
+T18.R78: 09 | 002 | 13 | 203.000,00
+T18.R79: 09 | 003 | 13 | 188.000,00
+T18.R80: 09 | 004 | 13 | 188.000,00
+T18.R81: 09 | 005 | 13 | 188.000,00
+T18.R82: 09 | 006 | 13 | 188.000,00
+T18.R83: 09 | 009 | 13 | 187.000,00
+T18.R84: 09 | 010 | 13 | 187.000,00
+T18.R85: 09 | 001 | 14 | 215.000,00
+T18.R86: 09 | 002 | 14 | 212.000,00
+T18.R87: 09 | 005 | 14 | 198.000,00
+T18.R88: 09 | 006 | 14 | 199.000,00
+T18.R89: 09 | 009 | 14 | 220.000,00
+T18.R90: 09 | 010 | 14 | 221.000,00
+T18.R91: 09 | 011 | 14 | 223.000,00
+T18.R92: 09 | 012 | 14 | 227.000,00
+T18.R93: 09 | 001 | 15 | 233.000,00
+T18.R94: 09 | 002 | 15 | 221.000,00
+T18.R95: 09 | 007 | 15 | 175.000,00
+T18.R96: 09 | 005 | 16 | 211.000,00
+T18.R97: 09 | 006 | 16 | 270.000,00
+T18.R98: 09 | 007 | 16 | 239.000,00
+T18.R99: 09 | 008 | 16 | 214.000,00
+T18.R100: 09 | 001 | 17 | 200.000,00
+T18.R101: 09 | 002 | 17 | 199.000,00
+T18.R102: 09 | 003 | 17 | 201.000,00
+T18.R103: 09 | 004 | 17 | 221.000,00
+T18.R104: 09 | 007 | 17 | 235.000,00
+T18.R105: 09 | R$ 20.181.000,00
+T19.R1: 10 | Loteamento Industrial Pedra Lisa, localizado na cidade de Veranópolis – RS, num saldo de 31 lotes.
+T19.R2: 10 | Lote | Quadra | Valor R$
+T19.R3: 10 | 001 | 01 | 273.000,00
+T19.R4: 10 | 002 | 01 | 273.000,00
+T19.R5: 10 | 003 | 01 | 273.000,00
+T19.R6: 10 | 004 | 01 | 273.000,00
+T19.R7: 10 | 005 | 01 | 283.000,00
+T19.R8: 10 | 006 | 01 | 293.000,00
+T19.R9: 10 | 001 | 02 | 274.000,00
+T19.R10: 10 | 002 | 02 | 274.000,00
+T19.R11: 10 | 003 | 02 | 274.000,00
+T19.R12: 10 | 004 | 02 | 277.000,00
+T19.R13: 10 | 006 | 02 | 293.000,00
+T19.R14: 10 | 001 | 03 | 293.000,00
+T19.R15: 10 | 002 | 03 | 291.000,00
+T19.R16: 10 | 002 | 04 | 450.000,00
+T19.R17: 10 | 003 | 04 | 438.000,00
+T19.R18: 10 | 006 | 04 | 301.000,00
+T19.R19: 10 | 001 | 05 | 301.000,00
+T19.R20: 10 | 008 | 05 | 301.000,00
+T19.R21: 10 | 001 | 06 | 398.000,00
+T19.R22: 10 | 002 | 06 | 332.000,00
+T19.R23: 10 | 001 | 08 | 366.000,00
+T19.R24: 10 | 002 | 08 | 332.000,00
+T19.R25: 10 | 003 | 08 | 332.000,00
+T19.R26: 10 | 004 | 08 | 366.000,00
+T19.R27: 10 | 007 | 09 | 356.000,00
+T19.R28: 10 | 008 | 09 | 345.000,00
+T19.R29: 10 | 002 | 11 | 377.000,00
+T19.R30: 10 | 003 | 11 | 366.000,00
+T19.R31: 10 | 004 | 11 | 356.000,00
+T19.R32: 10 | 005 | 11 | 943.000,00
+T19.R33: 10 | 006 | 11 | 681.000,00
+T19.R34: 10 | R$ 10.985.000,00
+CARLOS BABOSA
+T20.R1: 11 | Loteamento Monte Vêneto, localizado na cidade de Carlos Barbosa – RS, num saldo de 01 lote.
+T20.R2: 11 | Lote | Quadra | Valor R$
+T20.R3: 11 | 031 | D | 241.000,00
+T20.R4: 11 | R$ 241.000,00
+T21.R1: 12 | Loteamento Baldasso, localizado na cidade de Carlos Barbosa – RS, num total de 05 lotes.
+T21.R2: 12 | Lote | Quadra | Valor R$
+T21.R3: 12 | 163 | 48 | 293.000,00
+T21.R4: 12 | 201 | 48 | 304.000,00
+T21.R5: 12 | 046 | 49 | 272.000,00
+T21.R6: 12 | 055 | 50 | 262.000,00
+T21.R7: 12 | 070 | 50 | 288.000,00
+T21.R8: 12 | R$ 1.419.000,00
+NOVA PRATA
+T22.R1: 13 | Loteamento Colina do Basalto, localizado na cidade de Nova Prata – RS, num saldo de 14 lotes.
+T22.R2: 13 | Lote | Quadra | Valor R$
+T22.R3: 13 | 005 | 1 | 167.000,00
+T22.R4: 13 | 008 | 1 | 167.000,00
+T22.R5: 13 | 009 | 1 | 167.000,00
+T22.R6: 13 | 011 | 1 | 220.000,00
+T22.R7: 13 | 010 | 2 | 167.000,00
+T22.R8: 13 | 015 | 2 | 188.000,00
+T22.R9: 13 | 010 | 5 | 131.000,00
+T22.R10: 13 | 011 | 5 | 131.000,00
+T22.R11: 13 | 023 | 5 | 131.000,00
+T22.R12: 13 | 016 | 6 | 157.000,00
+T22.R13: 13 | 017 | 6 | 157.000,00
+T22.R14: 13 | 018 | 6 | 136.000,00
+T22.R15: 13 | 019 | 6 | 136.000,00
+T22.R16: 13 | 006 | 7 | 125.000,00
+T22.R17: 13 | R$ 2.180.000,00
+T23.R1: 14 | Loteamento Carnevalli, localizado na cidade de Nova Prata – RS, num total de 03 lotes.
+T23.R2: 14 | Lote | Quadra | Valor R$
+T23.R3: 14 | 008 | A | 188.000,00
+T23.R4: 14 | 009 | A | 188.000,00
+T23.R5: 14 | 001 | F | 241.000,00
+T23.R6: 14 | R$ 617.000,00
+T24.R1: 15 | Loteamento Barbiero, localizado na cidade de Nova Prata – RS, num total de aproximadamente 04 lotes.
+T24.R2: 15 | Lote | Quadra | Valor R$
+T24.R3: 15 | 009 | 4 | 241.000,00
+T24.R4: 15 | 013 | 4 | 241.000,00
+T24.R5: 15 | 013 | 5 | 170.000,00
+T24.R6: 15 | 014 | 5 | 170.000,00
+T24.R7: 15 | R$ 822.000,00
+NOVA ARAÇÁ
+T25.R1: 16 | Loteamento Araçá, localizado na cidade de Nova Araçá – RS, num saldo de 01 lote.
+T25.R2: 16 | Lote | Quadra | Valor R$
+T25.R3: 16 | 030 | C | 142.000,00
+T25.R4: 16 | R$ 142.000,00
+NOVA BASSANO
+T26.R1: 17 | Loteamento Dalla Costa, localizado na cidade de Nova Bassano – RS, num saldo de 04 lotes.
+T26.R2: 17 | Lote | Quadra | Valor R$
+T26.R3: 17 | 010 | 02 | 178.000,00
+T26.R4: 17 | 002 | 03 | 176.000,00
+T26.R5: 17 | 010 | 03 | 148.000,00
+T26.R6: 17 | 011 | 03 | 148.000,00
+T26.R7: 17 | R$ 650.000,00
+GRAMADO
+T27.R1: 18 | Loteamento Lago Negro, localizado na cidade de Gramado – RS, num saldo de 12 lotes.
+T27.R2: 18 | Lote | Quadra | Valor R$
+T27.R3: 18 | 001 | 01 | 770.000,00
+T27.R4: 18 | 002 | 01 | 805.000,00
+T27.R5: 18 | 003 | 01 | 879.000,00
+T27.R6: 18 | 004 | 01 | 720.000,00
+T27.R7: 18 | 005 | 01 | 847.000,00
+T27.R8: 18 | 015 | 11 B | ÁREA DE APP
+T27.R9: 18 | 016 | 11 B | ÁREA DE APP
+T27.R10: 18 | 017 | 11 B | ÁREA DE APP
+T27.R11: 18 | 018 | 11 B | ÁREA DE APP
+T27.R12: 18 | 019 | 11 B | ÁREA DE APP
+T27.R13: 18 | 020 | 11 B | ÁREA DE APP
+T27.R14: 18 | 021 | 11 B | ÁREA DE APP
+T27.R15: 18 | R$ 4.021.000,00
+FARROUPILHA
+T28.R1: 19 | Loteamento Perini, localizado na cidade de Farroupilha – RS, num saldo de 03 lotes.
+T28.R2: 19 | Lote | Quadra | Valor R$
+T28.R3: 19 | 002 | 1688 | 1.520.000,00
+T28.R4: 19 | 003 | 1688 | 1.520.000,00
+T28.R5: 19 | 004 | 1688 | 1.520.000,00
+T28.R6: 19 | R$ 4.560.000,00
+T29.R1: 20 | Loteamento San Marino, localizado na cidade de Farroupilha – RS, num saldo de 11 lotes.
+T29.R2: 20 | Lote | Quadra | Valor R$
+T29.R3: 20 | 010 | 1342 | 255.000,00
+T29.R4: 20 | 011 | 1342 | 266.000,00
+T29.R5: 20 | 009 | 1650 | 260.000,00
+T29.R6: 20 | 010 | 1650 | 260.000,00
+T29.R7: 20 | 012 | 1650 – R$ 244.000,00 | ÁREA DE POSSÍVEL APP
+T29.R8: 20 | 013 | 1650 – R$ 233.000,00 | ÁREA DE POSSÍVEL APP
+T29.R9: 20 | 001 | 1673 | 264.000,00
+T29.R10: 20 | 003 | 1675 | 258.000,00
+T29.R11: 20 | 004 | 1675 | 264.000,00
+T29.R12: 20 | 003 | 1676 | 253.000,00
+T29.R13: 20 | 004 | 1676 – R$ 253.000,00 | ÁREA DE POSSÍVEL APP
+T29.R14: 20 | R$ 2.080.000,00
+T30.R1: 21 | Loteamento Firminio Dalzóchio, localizado na cidade de Farroupilha – RS, num saldo de 09 lotes.
+T30.R2: 21 | Lote | Quadra | Valor R$
+T30.R3: 21 | O13 | 0907 | 360.000,00
+T30.R4: 21 | 006 | 1040 | 306.000,00
+T30.R5: 21 | 007 | 1040 | 306.000,00
+T30.R6: 21 | 003 | 1046 | 385.000,00
+T30.R7: 21 | 001 | 1182 | 122.000,00
+T30.R8: 21 | 002 | 1182 | 107.000,00
+T30.R9: 21 | 004 | 1182 | 102.000,00
+T30.R10: 21 | 005 | 1182 | 102.000,00
+T30.R11: 21 | 002 | 1292 – R$ 131.000,00 | ÁREA DE POSSÍVEL APP
+T30.R12: 21 | R$ 1.790.000,00
+T31.R1: 22 | Loteamento Primavera, localizado na cidade de Farroupilha – RS, num saldo de 03 lotes.
+T31.R2: 22 | Lote | Quadra | Valor R$
+T31.R3: 22 | 008 | 1193 – R$ 170.000,00 | ÁREA DE POSSÍVEL APP
+T31.R4: 22 | 009 | 1193 – R$ 165.000,00 | ÁREA DE POSSÍVEL APP
+T31.R5: 22 | 001 | 1461 | 148.000,00
+T31.R6: 22 | R$ 148.000,00
+T32.R1: 23 | Loteamento Vila Vicenza, localizado na cidade de Farroupilha – RS, num saldo de 01 lote.
+T32.R2: 23 | Lote | Quadra | Valor R$
+T32.R3: 23 | 015 | 919 | 157.000,00
+T32.R4: 23 | R$ 157.000,00
+T33.R1: 24 | Loteamento Industrial Vicentino, localizado na cidade de Farroupilha – RS, num saldo de 05 lotes.
+T33.R2: 24 | Lote | Quadra | Valor R$
+T33.R3: 24 | 007 | 1303 | 1.355.000,00
+T33.R4: 24 | 008 | 1303 | 1.355.000,00
+T33.R5: 24 | 009 | 1303 | 1.355.000,00
+T33.R6: 24 | 010 | 1303 | 1.355.000,00
+T33.R7: 24 | 013 | 1303 – R$ 1.125.000,00 | ÁREA DE POSSÍVEL APP
+T33.R8: 24 | R$ 5.420.000,00
+T34.R1: 25 | Loteamento Jardim Itália I – II – III, localizado na cidade de Farroupilha – RS, num saldo de 27 lotes.
+T34.R2: 25 | Lote | Quadra | Valor R$
+T34.R3: 25 | 001 | 1736 | 198.000,00
+T34.R4: 25 | 005 | 1736 | 220.000,00
+T34.R5: 25 | 006 | 1736 | 220.000,00
+T34.R6: 25 | 009 | 1736 | 220.000,00
+T34.R7: 25 | 003 | 1737 | 220.000,00
+T34.R8: 25 | 004 | 1737 | 220.000,00
+T34.R9: 25 | 007 | 1737 | 220.000,00
+T34.R10: 25 | 008 | 1737 | 250.000,00
+T34.R11: 25 | 004 | 1738 | 264.000,00
+T34.R12: 25 | 005 | 1738 | 253.000,00
+T34.R13: 25 | 007 | 1738 | 253.000,00
+T34.R14: 25 | 002 | 1739 | 209.000,00
+T34.R15: 25 | 013 | 1739 | 214.000,00
+T34.R16: 25 | 014 | 1739 | 214.000,00
+T34.R17: 25 | 001 | 1740 | 220.000,00
+T34.R18: 25 | 002 | 1741 | 192.000,00
+T34.R19: 25 | 003 | 1741 | 192.000,00
+T34.R20: 25 | 004 | 1741 | 192.000,00
+T34.R21: 25 | 006 | 1744 | 198.000,00
+T34.R22: 25 | 010 | 1744 | 209.000,00
+T34.R23: 25 | 006 | 1746 | 198.000,00
+T34.R24: 25 | 019 | 1746 | 209.000,00
+T34.R25: 25 | 015 | 1747 | 198.000,00
+T34.R26: 25 | 016 | 1747 | 198.000,00
+T34.R27: 25 | 010 | 1748 | 203.000,00
+T34.R28: 25 | 011 | 1748 | 203.000,00
+T34.R29: 25 | 001 | 1750 | 236.000,00
+T34.R30: 25 | R$ 5.823.000,00
+T35.R1: 26 | Loteamento Altos da Julieta I – II, localizado na cidade de Farroupilha – RS, num total de aproximadamente 10 lotes.
+T35.R2: 26 | Lote | Quadra | Valor R$
+T35.R3: 26 | 001 | 1722 | 403.000,00
+T35.R4: 26 | 002 | 1722 | 432.000,00
+T35.R5: 26 | 006 | 1722 | 159.000,00
+T35.R6: 26 | 006 | 1723 | 152.000,00
+T35.R7: 26 | 007 | 1723 | 162.000,00
+T35.R8: 26 | 001 | 1727 | 160.000,00
+T35.R9: 26 | 001 | 1728 | 160.000,00
+T35.R10: 26 | 006 | 1731 | 148.000,00
+T35.R11: 26 | 002 | 1735 | 155.000,00
+T35.R12: 26 | 003 | 1735 | 155.000,00
+T35.R13: 26 | R$ 2.086.000,00
+COTIPORÃ
+T36.R1: 27 | Loteamento Monte Vêneto I – II, localizado na cidade de Cotiporã – RS, num total de aproximadamente 60 lotes.
+T36.R2: 27 | Lote | Quadra | Valor R$
+T36.R3: 27 | 011 | 01 | 93.000,00
+T36.R4: 27 | 012 | 01 | 95.000,00
+T36.R5: 27 | 013 | 01 | 95.000,00
+T36.R6: 27 | 014 | 01 | 99.000,00
+T36.R7: 27 | 001 | 02 | 96.000,00
+T36.R8: 27 | 002 | 02 | 93.000,00
+T36.R9: 27 | 006 | 02 | 88.000,00
+T36.R10: 27 | 008 | 02 | 88.000,00
+T36.R11: 27 | 009 | 02 | 88.000,00
+T36.R12: 27 | 010 | 02 | 88.000,00
+T36.R13: 27 | 011 | 02 | 93.000,00
+T36.R14: 27 | 010 | 03 | 85.000,00
+T36.R15: 27 | 011 | 03 | 82.000,00
+T36.R16: 27 | 006 | 04 | 93.000,00
+T36.R17: 27 | 007 | 04 | 93.000,00
+T36.R18: 27 | 008 | 04 | 93.000,00
+T36.R19: 27 | 009 | 04 | 93.000,00
+T36.R20: 27 | 010 | 04 | 93.000,00
+T36.R21: 27 | 004 | 05 | 99.000,00
+T36.R22: 27 | 006 | 05 | 93.000,00
+T36.R23: 27 | 007 | 05 | 93.000,00
+T36.R24: 27 | 012 | 05 | 106.000,00
+T36.R25: 27 | 013 | 05 | 106.000,00
+T36.R26: 27 | 003 | 06 | 96.000,00
+T36.R27: 27 | 004 | 06 | 96.000,00
+T36.R28: 27 | 005 | 06 | 99.000,00
+T36.R29: 27 | 008 | 06 | 106.000,00
+T36.R30: 27 | 010 | 06 | 99.000,00
+T36.R31: 27 | 011 | 06 | 99.000,00
+T36.R32: 27 | 003 | 07 | 88.000,00
+T36.R33: 27 | 004 | 07 | 93.000,00
+T36.R34: 27 | 007 | 07 | 88.000,00
+T36.R35: 27 | 008 | 07 | 88.000,00
+T36.R36: 27 | 009 | 07 | 88.000,00
+T36.R37: 27 | 003 | 08 | 82.000,00
+T36.R38: 27 | 004 | 08 | 82.000,00
+T36.R39: 27 | 005 | 08 | 82.000,00
+T36.R40: 27 | 006 | 08 | 82.000,00
+T36.R41: 27 | 007 | 08 | 82.000,00
+T36.R42: 27 | 008 | 08 | 82.000,00
+T36.R43: 27 | 001 | 10 | 88.000,00
+T36.R44: 27 | 002 | 10 | 82.000,00
+T36.R45: 27 | 003 | 10 | 82.000,00
+T36.R46: 27 | 012 | 10 | 82.000,00
+T36.R47: 27 | 013 | 10 | 88.000,00
+T36.R48: 27 | 001 | 11 | 88.000,00
+T36.R49: 27 | 002 | 11 | 84.000,00
+T36.R50: 27 | 005 | 11 | 85.000,00
+T36.R51: 27 | 006 | 11 | 80.000,00
+T36.R52: 27 | 007 | 11 | 80.000,00
+T36.R53: 27 | 008 | 11 | 80.000,00
+T36.R54: 27 | 009 | 11 | 85.000,00
+T36.R55: 27 | 010 | 11 | 82.000,00
+T36.R56: 27 | 011 | 11 | 82.000,00
+T36.R57: 27 | 012 | 11 | 85.000,00
+T36.R58: 27 | 005 | 12 | 82.000,00
+T36.R59: 27 | 009 | 12 | 82.000,00
+T36.R60: 27 | 001 | 14 | 84.000,00
+T36.R61: 27 | 002 | 14 | 81.000,00
+T36.R62: 27 | 007 | 14 | 77.000,00
+T36.R63: 27 | R$ 5.336.000,00
+GUAPORÉ
+T37.R1: 28 | Loteamento Nossa Senhora da Saúde, localizado na cidade de Guaporé – RS, num saldo de 04 lotes.
+T37.R2: 28 | Lote | Quadra | Valor R$
+T37.R3: 28 | 006 | 260 | 144.000,00
+T37.R4: 28 | 008 | 261 | 133.000,00
+T37.R5: 28 | 001 | 269 | 110.000,00
+T37.R6: 28 | 003 | 269 | 146.000,00
+T37.R7: 28 | R$ 533.000,00
+CAXIAS DO SUL
+T38.R1: 29 | Loteamento Alto das Graças I, localizado na cidade de Caxias do Sul – RS, num saldo de 14 lotes.
+T38.R2: 29 | Lote | Quadra | Valor R$
+T38.R3: 29 | 007 | A - 6364 | 305.000,00
+T38.R4: 29 | 010 | C - 6366 | 305.000,00
+T38.R5: 29 | 011 | C - 6366 | 367.000,00
+T38.R6: 29 | 012 | C - 6366 | 367.000,00
+T38.R7: 29 | 013 | C - 6366 | 286.000,00
+T38.R8: 29 | 014 | C - 6366 | 286.000,00
+T38.R9: 29 | 016 | C - 6366 | 414.000,00
+T38.R10: 29 | 017 | C - 6366 | 416.000,00
+T38.R11: 29 | 011 | D - 6367 | 188.000,00
+T38.R12: 29 | 012 | D - 6367 | 172.000,00
+T38.R13: 29 | 014 | G - 6370 | 148.000,00
+T38.R14: 29 | 007 | H - 6371 | 152.000,00
+T38.R15: 29 | 008 | H - 6371 | 152.000,00
+T38.R16: 29 | 011 | H - 6371 | 141.000,00
+T38.R17: 29 | R$ 3.699.000,00
+FLORES DA CUNHA
+T39.R1: 30 | Loteamento da Família Falavigna, localizado na cidade de Flores da Cunha – RS, num total de aproximadamente 30 lotes.
+T39.R2: 30 | Lote | Quadra | Valor R$
+T39.R3: 30 | 023 | 172 | 934.000,00
+T39.R4: 30 | 022 | 174 | 581.000,00
+T39.R5: 30 | 016 | 175 | 494.000,00
+T39.R6: 30 | 017 | 175 | 406.000,00
+T39.R7: 30 | 020 | 175 | 406.000,00
+T39.R8: 30 | 021 | 175 | 406.000,00
+T39.R9: 30 | 024 | 175 | 406.000,00
+T39.R10: 30 | 025 | 175 | 405.000,00
+T39.R11: 30 | 026 | 175 | 593.000,00
+T39.R12: 30 | 028 | 175 | 532.000,00
+T39.R13: 30 | 026 | 322 | 688.000,00
+T39.R14: 30 | 027 | 322 | 688.000,00
+T39.R15: 30 | 029 | 322 | 758.000,00
+T39.R16: 30 | 006 | 876 | 504.000,00
+T39.R17: 30 | 007 | 876 | 504.000,00
+T39.R18: 30 | 008 | 876 | 504.000,00
+T39.R19: 30 | 011 | 876 | 679.000,00
+T39.R20: 30 | 012 | 876 | 655.000,00
+T39.R21: 30 | 013 | 876 | 763.000,00
+T39.R22: 30 | 017 | 876 | 576.000,00
+T39.R23: 30 | 004 | 877 | 565.000,00
+T39.R24: 30 | 005 | 877 | 565.000,00
+T39.R25: 30 | 006 | 877 | 646.000,00
+T39.R26: 30 | 010 | 877 | 771.000,00
+T39.R27: 30 | 011 | 877 | 759.000,00
+T39.R28: 30 | 012 | 877 | 823.000,00
+T39.R29: 30 | 004 | 878 | 595.000,00
+T39.R30: 30 | 005 | 878 | 595.000,00
+T39.R31: 30 | 012 | 878 | 684.000,00
+T39.R32: 30 | 013 | 878 | 731.000,00
+T39.R33: 30 | R$ 18.216.000,00
+CARLOS BARBOSA
+T40.R1: 31 | Loteamento Reserva Paradiso, localizado na cidade de Carlos Barbosa – RS, num saldo de 01 lote.
+T40.R2: 31 | Lote | Quadra | Valor R$
+T40.R3: 31 | 623 | 104 | 500.000,00
+T40.R4: 31 | R$ 500.000,00
+T41.R1: TOTAL GERAL DOS BENS MÓVEIS E IMÓVEIS E LOTES LOTEAMENTOS EXECUTADOS E REGISTRADOS............ | R$ 152.796.260,60
+T42.R1: Item | Descrição dos bens ÁREAS DE TERRAS CONTRATADAS LOTEAMENTOS EM FASES DE LICENCIAMENTO E/OU EXECUÇÃO | Valor
+T42.R2: 01 | Loteamento Caminhos do Sol – Família Boff, localizado na cidade de Caxias do Sul – RS. Área Vendável do Loteamento em lotes: 231.218,09m². ESTIMATIVA DE 612 LOTES. CUSTO TOTAL DA OBRA: R$ 21.163.000,00 BURITI HOLDING SUL PARTICIPAÇÕES LTDA. = 50,00% SIVIERO EMPREENDIMENTOS IMOBILIÁRIOS LTDA. = 10,00% = 61 PROPRIETÁRIOS DA ÁREA DE TERRAS DO LOTEAMENTO = 40,00% Conforme contrato firmado com a empresa BURITI, este Loteamento está em fase de execução inicial, como compromisso assumido para implantar na sua totalidade o empreendimento, que caso os custos excederem ao contratado, a empresa Siviero Empreendimentos Imobiliários Ltda. deverá arcar com os mesmos. | R$ 00.000.000,00
+T42.R3: 02 | Loteamento Vale das Colinas – Famílias Piccoli + Gasparin + Zanrosso, localizado na cidade de Caxias do Sul – RS. Área Vendável do Loteamento em lotes: 159.307,14m². ESTIMATIVA DE 356 LOTES CUSTO TOTAL DA OBRA: R$ 17.800.000,00 MULTA ESTIMADA EM 20,00% DO CUSTO DO LOTEAMENTO VALOR VENAL DOS IMÓVEIS: R$ 39.743.378,00 BURITI HOLDING SUL PARTICIPAÇÕES LTDA. = 50,00% SIVIERO EMPREENDIMENTOS IMOBILIÁRIOS LTDA. = 10,00% = 35 PROPRIETÁRIOS DA ÁREA DE TERRAS DO LOTEAMENTO = 40,00% Conforme contrato firmado com a empresa BURITI, este Loteamento AINDA NÃO ESTÁ SENDO EXECUTADO, como compromisso assumido para implantar na sua totalidade o empreendimento, que caso os custos excederem ao contratado, a empresa Siviero Empreendimentos Imobiliários Ltda. deverá arcar com os mesmos. Caso o LOTEAMENTO não for executado, a empresa SIVIERO terá o ônus da MULTA contratual e DESPESAS de desfazimento das Escrituras Públicas e Registros Imobiliários (impostos e taxas). | VALOR MULTA R$ 3.560.000,00(-) DESPESAS R$ 651.035,00(-)
+T42.R4: 03 | Loteamento Vista da Colina – Famílias Zanandréa + Fioreze, localizado na cidade de Caxias do Sul. Área Vendável do Loteamento em lotes: 159.307,14m². ESTIMATIVA DE 242 LOTES. CUSTO TOTAL DA OBRA: R$ 12.100.000,00 MULTA ESTIMADA EM 20,00% DO CUSTO DO LOTEAMENTO VALOR VENAL DOS IMÓVEIS: R$ 20.960.000,00 BURITI HOLDING SUL PARTICIPAÇÕES LTDA. = 50,00% SIVIERO EMPREENDIMENTOS IMOBILIÁRIOS LTDA. = 10,00% = 24 PROPRIETÁRIOS DA ÁREA DE TERRAS DO LOTEAMENTO = 40,00% Conforme contrato firmado com a empresa BURITI, este Loteamento AINDA NÃO ESTÁ SENDO EXECUTADO, como compromisso assumido para implantar na sua totalidade o empreendimento, que caso os custos excederem ao contratado, a empresa Siviero Empreendimentos Imobiliários Ltda. deverá arcar com os mesmos. Caso o LOTEAMENTO não for executado, a empresa SIVIERO terá o ônus da MULTA contratual e DESPESAS de desfazimento das Escrituras Públicas e Registros Imobiliários (impostos e taxas). | VALOR MULTA R$ 2.556.900,00(-) DESPESAS R$ 108.000,00(-)
+T42.R5: Item | Descrição dos bens ÁREAS DE TERRAS CONTRATADAS LOTEAMENTOS EM FASES DE LICENCIAMENTO E/OU EXECUÇÃO | Valor
+T42.R6: 04 | Loteamento das Famílias – Pedrotti + Andreis + Lorandi, localizado na cidade de Caxias do Sul – RS. Área Vendável do Loteamento em lotes: 135.105,50m². ESTIMATIVA DE 242 LOTES. CUSTO TOTAL DA OBRA: R$ 12.100.000,00 MULTA ESTIMADA EM 20,00% DO CUSTO DO LOTEAMENTO VALOR VENAL DOS IMÓVEIS: R$ 11.403.230,00 BURITI HOLDING SUL PARTICIPAÇÕES LTDA. = 50,00% SIVIERO EMPREENDIMENTOS IMOBILIÁRIOS LTDA. = 10,00% = 24 PROPRIETÁRIOS DA ÁREA DE TERRAS DO LOTEAMENTO = 40,00% Conforme contrato firmado com a empresa BURITI, este Loteamento AINDA NÃO ESTÁ SENDO EXECUTADO, como compromisso assumido para implantar na sua totalidade o empreendimento, que caso os custos excederem ao contratado, a empresa Siviero Empreendimentos Imobiliários Ltda. deverá arcar com os mesmos. Caso o LOTEAMENTO não for executado, a empresa SIVIERO terá o ônus da MULTA contratual e DESPESAS de desfazimento das Escrituras Públicas e Registros Imobiliários (impostos e taxas). | VALOR MULTA R$ 2.280.646,00(-) DESPESAS R$ 308.000,00(-)
+T42.R7: 05 | Loteamento da Família Cecconello, localizado na cidade de Caxias do Sul – RS. Área total de 130.446,00m². ESTIMATIVA DE 130 LOTES. CUSTO TOTAL DA OBRA: R$ 6.500.000,00 MULTA ESTIMADA EM 20,00% DO CUSTO DO LOTEAMENTO HECTA EMPREENDIMENTOS IMOBILIÁRIOS LTDA. = 50,00% = 65 PROPRIETÁRIOS ÁREA TERRAS DO LOTEAMENTO = 50,00% = 65 Neste Loteamento, a empresa Siviero Empreendimentos Imobiliários Ltda. tem adquirido 2,0 hectares de terras, pelo valor de R$ 600.000,00, em 06 de fevereiro de 2014. Não tem ainda nenhuma definição quanto a execução do Loteamento e sequer projeto que possa nortear um quantitativo de lotes. | VALOR MULTA R$ 1.300.000,00(-)
+T42.R8: 06 | Loteamento Bonetto, localizado na cidade de Farroupilha – RS. Área total de 48.400,00m². ESTIMATIVA DE 61 LOTES. SIVIERO EMPREENDIMENTOS IMOBILIÁRIOS LTDA. =50,00% =30,5 PROPRIETÁRIOS ÁREA TERRAS DO LOTEAMENTO = 50,00% = 30,5 CUSTO TOTAL DA OBRA: R$ 3.660.000,00 MULTA ESTIMADA EM 20,00% DO CUSTO DO LOTEAMENTO + DANO MORAL DE R$ 50.000,00 (EXPECTATIVA FRUSTRADA) Área de terras passível de caracterização de APP – Área de Preservação Permanente, em parte da mesma, conforme norma ambiental na cidade de Farroupilha, podendo inviabilizar a implantação do Loteamento. | VALOR MULTA R$ 782.000,00(-)
+T43.R1: Item | Descrição dos bens ÁREAS DE TERRAS CONTRATADAS LOTEAMENTOS EM FASES DE LICENCIAMENTO E/OU EXECUÇÃO | Valor
+T43.R2: 07 | Loteamento Pasqual, localizado na cidade de Farroupilha – RS. Área total de 85.005,88m² = ESTIMATIVA DE 29 LOTES. SIVIERO EMPREENDIMENTOS IMOBILIÁRIOS LTDA. =50,00%=14,5 PROPRIETÁRIOS ÁREA TERRAS DO LOTEAMENTO = 50,00% = 14,5 CUSTO TOTAL DA OBRA: R$ 7.250.000,00 MULTA ESTIMADA EM 20,00% DO CUSTO DO LOTEAMENTO + DANO MORAL DE R$ 50.000,00 (EXPECTATIVA FRUSTRADA) Área de terras passível de caracterização de APP – Área de Preservação Permanente, em parte da mesma, conforme norma ambiental na cidade de Farroupilha, podendo inviabilizar a implantação do Loteamento. | VALOR MULTA R$ 1.500.000,00(-)
+T43.R3: 08 | Loteamento Industrial Dr. Letti, localizado na cidade de Farroupilha – RS. Área total de 64.475,25m² = ESTIMATIVA DE ??? LOTES. SIVIERO EMPREENDIMENTOS IMOBILIÁRIOS LTDA. = 50,00% = ??? PROPRIETÁRIOS ÁREA TERRAS DO LOTEAMENTO = 50,00% = ??? CUSTO TOTAL DA OBRA: R$ 8.000.000,00 MULTA ESTIMADA EM 20,00% DO CUSTO DO LOTEAMENTO + DANO MORAL DE R$ 50.000,00 (EXPECTATIVA FRUSTRADA) Não tem ainda nenhuma definição quanto a execução do Loteamento e sequer projeto que possa nortear um quantitativo de lotes. Área de terras passível de caracterização de APP – Área de Preservação Permanente, em parte da mesma, conforme norma ambiental na cidade de Farroupilha, podendo inviabilizar a implantação do Loteamento. | VALOR MULTA R$ 1.650.000,00(-)
+T43.R4: 09 | Loteamento Sol Nascente III, localizado na cidade de Antônio Prado – RS. Área de 91.790,14m² + Área de 59.052,18m². Área total de 150.842,32m² = ESTIMATIVA DE ??? LOTES. SIVIERO EMPREENDIMENTOS IMOBILIÁRIOS LTDA. = 55,00% = ??? PROPRIETÁRIOS ÁREA TERRAS DO LOTEAMENTO = 45,00% = ??? CUSTO TOTAL DA OBRA: R$ 5.040.000,00 MULTA ESTIMADA EM 20,00% DO CUSTO DO LOTEAMENTO + DANO MORAL DE R$ 50.000,00 (EXPECTATIVA FRUSTRADA) Não tem ainda nenhuma definição quanto a execução do Loteamento e sequer projeto que possa nortear um quantitativo de lotes. | VALOR MULTA R$ 1.058.000,00(-)
+T44.R1: TOTAL GERAL DOS BENS - LOTEAMENTOS CONTRATADOS A EXECUTAR OU EM FASE DE EXECUÇÃO E LICENCIAMENTOS..... | R$ 15.754.581,00(-)
+T45.R1: TOTAL GERAL DO PATRIMÔNIO DA EMPRESA.... | R$ 137.041.679,60
+T46.R1: Item | Descrição dos bens LOTES DE TERCEIROS PASSÍVEIS DE INDENIZAÇÃO POR CARACTERIZAÇÃO AMBIENTAL NA CIDADE DE FARROPILHA | Valor
+T47.R1: 01 | Loteamento Firminio Dalzóchio, localizado na cidade de Farroupilha – RS, num saldo de 03 lotes.
+T47.R2: 01 | Lote | Quadra | Valor
+T47.R3: 01 | O09 | 0910 | 130.000,00
+T47.R4: 01 | 003 | 1292 | 135.000,00
+T47.R5: 01 | 004 | 1292 | 135.000,00
+T47.R6: 02 | Loteamento Jardim Itália I – II – III, localizado na cidade de Farroupilha – RS, num saldo de 05 lotes.
+T47.R7: 02 | Lote | Quadra | Valor R$
+T47.R8: 02 | 007 | 1741 | 193.000,00
+T47.R9: 02 | 009 | 1741 | 193.000,00
+T47.R10: 02 | 001 | 1747 | 200.000,00
+T47.R11: 02 | 002 | 1747 | 200.000,00
+T47.R12: 02 | 009 | 1747 | 200.000,00
+T47.R13: 03 | Loteamento Perini, localizado na cidade de Farroupilha – RS, num saldo de 04 lotes.
+T47.R14: 03 | Lote | Quadra | Valor R$
+T47.R15: 03 | 011 | 1469 | 160.000,00
+T47.R16: 03 | 012 | 1469 | 160.000,00
+T47.R17: 03 | 018 | 1469 | 160.000,00
+T47.R18: 03 | 19 | 1469 | 160.000,00
+T47.R19: 04 | Loteamento Primavera, localizado na cidade de Farroupilha – RS, num saldo de 04 lotes.
+T47.R20: 04 | Lote | Quadra | Valor R$
+T47.R21: 04 | 005 | 1199 | 166.000,00
+T47.R22: 04 | 006 | 1199 | 166.000,00
+T47.R23: 04 | 010 | 1199 | 166.000,00
+T47.R24: 04 | 011 | 1199 | 166.000,00
+T47.R25: 05 | Loteamento Industrial Vicentino, localizado na cidade de Farroupilha – RS, num saldo de 10 lotes.
+T47.R26: 05 | Lote | Quadra | Valor R$
+T47.R27: 05 | 003 | 1301 | 1.355.000,00
+T47.R28: 05 | 004 | 1301 | 1.355.000,00
+T47.R29: 05 | 004 | 1302 | 1.355.000,00
+T47.R30: 05 | 009 | 1302 | 1.355.000,00
+T47.R31: 05 | 010 | 1302 | 1.355.000,00
+T47.R32: 05 | 011 | 1302 | 1.355.000,00
+T47.R33: 05 | 001 | 1303 | 1.355.000,00
+T47.R34: 05 | 012 | 1303 | 1.355.000,00
+T47.R35: 05 | 014 | 1303 | 1.355.000,00
+T47.R36: 05 | 016 | 1303 | 1.355.000,00
+T48.R1: VALOR DOS LOTES DE TERCEIROS PASSÍVEIS DE INDENIZAÇÃO POR CARACTERIZAÇÃO AMBIENTAL NA CIDADE DE FARROPILHA | R$ 16.240.000,00(-)
+T49.R1: Item | Descrição de compromissos à pagar em obras finais em execução em Loteamento | Valor
+T49.R2: 01 | Loteamento Colina do Retiro II, localizado na cidade de Veranópolis – RS.
+T49.R3: 01 | Conclusão da pavimentação das ruas do Sistema Viário + conclusão e instalação da elevatória para abastecimento de água, conforme as normas da CORSAN e projeto aprovado pela concessionária + limpeza de toda a área do Loteamento para entrega definitiva junto ao Município de Veranópolis + implantação do projeto de arborização + instalação da rede de iluminação pública, o que importam num custo estimado destes serviços em aproximadamente R$ 3.800.000,00 (Três milhões e oitocentos mil reais) – Para conclusão destes serviços estão em garantia hipotecária junto ao Município de Veranópolis, LOTES do próprio Loteamento, de propriedade da empresa e da Família Frainer. | Valor R$
+T49.R4: 01 | Conclusão da pavimentação das ruas do Sistema Viário + conclusão e instalação da elevatória para abastecimento de água, conforme as normas da CORSAN e projeto aprovado pela concessionária + limpeza de toda a área do Loteamento para entrega definitiva junto ao Município de Veranópolis + implantação do projeto de arborização + instalação da rede de iluminação pública, o que importam num custo estimado destes serviços em aproximadamente R$ 3.800.000,00 (Três milhões e oitocentos mil reais) – Para conclusão destes serviços estão em garantia hipotecária junto ao Município de Veranópolis, LOTES do próprio Loteamento, de propriedade da empresa e da Família Frainer. | 3.800.000,00 (-)
+T50.R1: Item 01 | Demais compromissos a pagar em obras, empréstimos, prestação de serviços, pagamento de honorários, acertos, multas ambientais, processos administrativos, etc., devidamente elencados nas OBSERVAÇÕES, nos itens “1” ao “24”.
+T50.R2: Valor R$ 16.127.652,00 (-)
+T51.R1: TOTAL LÍQUIDO PATRIMONIAL DA EMPRESA........ | R$ 100.874.027,60
+VALOR   REAL   DE  CADA   SÓCIO   CONFORME  A   COTA   DE    CAPITAL
+T52.R1: NOME DO SÓCIO | CPF/MF | % COTAS DE CAPITAL E VALOR R$
+T52.R2: IRINEU SIVIERO ANAIR DALVINA CESCA SIVIERO | 005.682.870-53 | 16,66% = R$ 16.812.337,93
+T52.R3: RAUL SIVIERO | 026.666.930-15 | 16,66% = R$ 16.812.337,93
+T52.R4: VALTER SIVIERO BENTA ELISA VELHO SIVIERO | 202.511.810-49 | 16,66% = R$ 16.812.337,93
+T52.R5: ELCIO SIVIERO | 114.987.900-97 | 16,66% = R$ 16.812.337,93
+T52.R6: ADÉLIA FRIZON SIVIERO JOSÉ VALÉRIO SIVIERO | 647.482.600-25 | 16,66% = R$ 16.812.337,93
+T52.R7: PEDRO SIVIERO | 227.128.100-82 | 16,66% = R$ 16.812.337,93
+T52.R8: TOTAL............................ | 100,00% = R$ 100.874.027,60
+OBSERVAÇÕES:
+Conforme INSTRUMENTO PARTICULAR DE COMPRA E VENDA DE QUOTAS DE CAPITAL, NA SOCIEDADE DE EMPRESAS DE RESPONSABILIDADE LIMITADA, datado de 28 de agosto de 2025, o Sócio ROVÍLIO SIVIERO, brasileiro, natural de Veranópolis – RS, Odontólogo, residente e domiciliado na Rua Carijós, nº 427, Bairro Vila Fátima, na cidade de Passo Fundo – RS, CEP.: 99.020-110, inscrito no CPF/MF sob nº 225.676.150-91 e portador da Carteira de Identidade nº 4017098015, emitida pela SSP – RS, casado pelo Regime de Comunhão Universal de Bens com Maristela Pretto Siviero, brasileira, professora, filha de Alberto José Pretto e de Iracema Antônia Pretto, inscrita no CPF/MF sob nº 260.949.670/20 e portadora da Carteira de Identidade nº 22.827.317-1, emitida pela SSP – SC, efetuaram a VENDA das quotas que lhes pertenciam à empresa, diluídas em partes iguais aos demais sócios remanescentes.
+As cotas de capital do sócio Rovílio Siviero, que correspondem ao percentual de 2,00% (Dois por cento) nas empresas – Siviero Empreendimentos Imobiliários Ltda., Abastecedora de Combustíveis Siviero Ltda., Transportadora Irmãos Siviero Ltda. e de 1,00% (Um por cento) nas empresas – Turismo Siviero Ltda. e Siviero Transportes Ltda., sobre o valor total do patrimônio da empresas, foram devidamente acertadas, anteriormente ao presente ato, sendo acertadas através do pagamento através de imóveis – lotes – e parte em dinheiro, no total de R$ 3.440.082,00 (Três milhões, quatrocentos e quarenta mil e oitenta e dois reais), da seguinte forma:
+03 (Três) lotes localizados no Condomínio Morada dos Ipês I, no Município de Passo Fundo:
+Lote nº 13 	– 	Quadra nº 02 	– 	R$ 500.000,00.			PAGO
+Lote nº 10 	– 	Quadra nº 02 	– 	R$ 587.510,00.			PAGO
+Lote nº 07 	– 	Quadra nº 04 	– 	R$ 432.072,00.			PAGO
+02 (Dois lotes localizados no Loteamento Nossa Senhora da Saúde, no Município de Guaporé:
+Lote nº 12 	– 	Quadra nº 237 	– 	R$ 75.000,00.			PAGO
+Lote nº 15 	– 	Quadra nº 252 	– 	R$ 60.000,00.			PAGO
+R$ 110.000,00 (Cento e dez mil reais), pagos em espécie.
+R$ 25.500,00 (Vinte e cinco mil reais), pagos em espécie.
+03 (Três) lotes localizados no Condomínio Morada dos Ipês II, no Município de Passo Fundo:
+Lote nº .... 	– 	Quadra nº .... 	– 	R$ 550.000,00.			À PAGAR
+Lote nº .... 	– 	Quadra nº .... 	– 	R$ 550.000,00.			À PAGAR
+Lote nº .... 	– 	Quadra nº .... 	– 	R$ 550.000,00.			À PAGAR
+R$ 1.650.000,00
+Existe em tramitação uma infração ambiental aplicada sobre a área de terras do LOTEAMENTO PERINI, de Farroupilha, em discussão de forma judicial, no valor aproximado de R$ 5.000.000,00 (Cinco milhões de reais).
+R$ 5.000.000,00
+Em trâmite, o Processo Judicial do Ministério Público de Farroupilha, que questionas uma FONTE DE ÁGUA na área de terras do LOTEAMENTO DALZÓCHIO, em discussão de forma judicial desde meados dos anos 2006, ainda sem acordo dentre MINISTÉRIO PÚBLICO x MUNICÍPIO DE FARROUPILHA x SIVIERO x FAMÍLIA DALZÓCHIO, no valor aproximado de R$ 2.200.000,00 (Dois milhões e duzentos mil reais).
+R$ 2.200.000,00
+No Loteamento Jardim Itália, de Farroupilha está em trâmite um Processo Judicial impetrado pelo Ministério Público referente ao trecho da canalização – área de APP.
+No Loteamento San Marino, de Farroupilha, tem pendente a construção da Estação de Tratamento de Esgoto – ETE, para atendimento ao acordado como o Município de Farroupilha. A empresa tem vigente este compromisso, que até esta data ainda está passível da elaboração do projeto, aprovação pelos órgãos competentes, execução da obra, doação de um lote para a instalação da ETE, dentre outros custos, ainda não estimados, em virtude do tamanho que deverá ser necessária sua construção e, posterior aceite também pelos órgãos competentes responsáveis pelo seu uso, manutenção e conservação.
+5.1) 	Valor do terreno: R$ 230.000,00
+5.2) 	Valor do custo aproximado para a construção da ETE: R$ 300.000,00
+TOTAL: R$ 530.000,00 (QUINHENTOS E TRINTA MIL REAIS).
+R$ 530.000,00
+Está em trâmite, basicamente com decisão já proferido pelo Ministério Público, com acato da Juíza da decisão, sobre uma área de AAP em 07 (sete) lotes no Loteamento Lago Negro. Com esta caracterização de APP, a empresa fez a indenização de 02 lotes para a Família Candiago e Terceiro, objeto de Dação em Pagamento.
+Carece o cumprimento do PRAD, sua execução e pagamento de todas as custas processuais e honorários, estimada a importância de aproximadamente R$ 80.000,00 (Oitenta mil reais).
+R$ 80.000,00
+Em fase final de cálculos de atualização de valores, pelo Ministério Público de Farroupilha, na área de terras da Família Acordi, há uma pendência a ser paga pela empresa, conforme acordo já firmado e já pago o valor principal da multa.
+Carece ainda para conclusão do Processo, o pagamento da atualização do valor pago e firmar um TAC junto ao Ministério Público para cumprimento de um PRAD.
+A multa que reportava um valor de aproximadamente R$ 1.000.000,00 foi reduzida para aproximadamente R$ 80.000,00 (já pagos) e é este valor quer deverá ser atualizado.
+A redução do valor foi justificada pelo mesmo critério adotado pelo Município de Farroupilha, donde com desconto pagou-se uma multa de aproximadamente R$ 70.000,00 (já quitada).
+Carece o cumprimento do PRAD, sua execução final e pagamento de todas as custas processuais e honorários, estimada a importância de aproximadamente R$ 100.000,00 (Cem mil reais).
+R$ 100.000,00
+É necessário transmitir todas as ESCRITURAS PÚBLICAS dos IMÓVEIS pertencentes aos SÓCIOS DA EMPRESA, onde implicará, conforme o caso da transmissão, na tributação de impostos no percentual de 5,93% (PIS-COFINS-IRPJ-CSLL), calculados sobre o valor declarado na escritura, que se houver a aplicação do adicional de 10,00%, totaliza-se um percentual de 7,00% (Sete por cento).
+Neste rol de custas, devem-se levar em consideração como custo da empresa, àquelas áreas rurais que estão adquiridas por contrato, e que por algum motivo particular de cada negócio, ainda não foram escrituradas em nome da empresa. É necessário, em algumas instruir processo de fracionamento ou desmembramento, levantamento topográfico georreferenciado, delimitar a área, etc. Carece num custo aproximado de R$ 250.000,00 (Duzentos e cinquenta mil reais).
+R$ 250.000,00
+Considerar, que a empresa ainda tem um passivo de imóveis vendidos, ou por contrato de compra e venda, ou como o compromisso de transmiti-los na forma de dação em pagamento, que ainda não foram transmitidas, incidindo neste caso a aplicação do percentual dos impostos devidos calculados sobre o valor declarado na Escritura de Compra e Venda.
+Sobre a venda – valor declarado na Escritura Pública de Compra e Venda – deve ser considerado um custo de 7,00% (Sete por cento) de impostos: PIS – COFINS – IRPJ – CSLL.
+Sobre a venda – valor do negócio da venda – deve ser considerado um custo de 6,00% (Seis por cento) de comissão.
+CELESTINO ROSSI - Arquiteto – A empresa deverá fazer um acerto pelos serviços prestados pelo Arquiteto Celestino Rossi, na elaboração de Projetos Urbanísticos e Complementares, retificação de áreas e registro, em Loteamentos nas cidades de Veranópolis, Farroupilha e Caxias do Sul, donde o acerto combinado é através de lotes para cada Loteamento, conforme está estabelecido nos acordos firmados dentre as partes. O valor dos honorários equivale a 03 (três) lotes urbanos, no valor global de R$ 600.000,00 (Seiscentos mil reais).
+R$ 600.000,00
+SOLAR SERRA PLACAS SOLARES – MÁRIO BORDIGNON – A empresa deverá pagar e fazer um acerto pelos serviços prestados e materiais utilizados na instalação e colocação das placas solares no HOTEL ARAÇÁ LTDA., em Capão da Canoa – RS, para atendimento à quitação do valor conforme orçamento, donde o acerto combinado além do valor pago, também a importância de R$ 150.000,00 (Cento e cinquenta mil reais), representados por 01 LOTE URBANO, a escolher em um dos Loteamentos, em Veranópolis, da empresa, para cumprimento ao estabelecido nos acordos firmados dentre as partes.
+R$ 150.000,00
+ALEXANDRE SUSIN – A empresa deverá fazer o pagamento do acerto final, conforme acordos celebrados, restando ainda a entrega de 06 lotes, para o pleno cumprimento dos acordos firmados e mais o acerto dos valores, que deverão ser pagos como forma de comissão pela intermediação dos contratos firmados com a empresa BURITI, no valor de aproximadamente R$ 1.200.000,00 (Hum milhão e duzentos mil reais).
+R$ 1.200.000,00
+LUIS CARLOS MERCALI – A empresa tem um valor de R$ 200.000,00 (Duzentos mil reais), tomados por empréstimo desde junho de 2020, aos juros de 1,00%, ao mês.
+R$ 200.000,00
+INES TREVISAN PICCOLI – A empresa tem um valor de R$ 350.000,00 (Trezentos e cinquenta mil reais), tomados por empréstimo desde dezembro de 2021, aos juros de 1,00%, ao mês.
+R$ 350.000,00
+SAMIR TREVISAN PICCOLI – A empresa tem um valor de R$ 1.150.000,00 (Hum milhão, cento e cinquenta mil reais), tomados por empréstimo desde dezembro de 2021, aos juros de 1,00%, ao mês.
+R$ 1.150.000,00
+LOTEAMENTO RESERVA FALAVIGNA - Flores da Cunha – Conclusão da pavimentação das ruas do Sistema Viário + conclusão das obras do parque + construção da galeria para escoamento pluvial, o que importam num custo estimado em aproximadamente R$ 2.000.000,00 (Dois milhões de reais) – Para conclusão destes serviços estão em garantia hipotecária junto ao Município de Flores da Cunha, LOTES do próprio Loteamento, de propriedade da empresa e da Família Falavigna. Para a construção da galeria são necessários o valor de aproximadamente R$ 1.200.000,00 (Hum milhão e duzentos mil reais) e para a conclusão dos demais serviços de urbanismo e infraestrutura no PARQUE, mais o valor aproximado de R$ 800.000,00 (Oitocentos mil reais).
+R$ 2.000.000,00
+BANCO CATERPILAR FINANCIAL – Uma Escavadeira Hidráulica, ano 2024, modelo 320, CATERPILLAR, adquirida com pagamento de forma parcelada, restando ainda em 31 de julho de 2025, a quantidade de 33 (Trinta e três) parcelas, no valor de R$ 10.534,91 (Dez mil, quinhentos e trinta e quatro reais e noventa e um centavos), cada, perfazendo um total ainda a ser quitado de R$ 347.652,03 (Trezentos e quarenta e sete mil, seiscentos e cinquenta e dois reais e três centavos), com vencimento da última parcela no dia 18 de abril de 2028.
+R$ 347.652,00
+PARANÁ EQUIPAMENTOS S/A – Um Trator de Esteira, ano 2021, modelo D6N XL, CATERPILLAR, adquirido com pagamento de forma parcelada, no valor total de R$ 450.000,00 (Quatrocentos e cinquenta mil reais), com entrada já paga no valor de R$ 130.000,00 (Cento e trinta mil reais), restando ainda em 31 de outubro de 2025, à pagar a quantidade de 12 (Doze) parcelas, no valor de R$ 26.666,67 (Vinte e seis mil, seiscentos e sessenta e seis reais e sessenta e sete centavos), cada, perfazendo um total ainda a ser quitado de R$ 320.000,00 (Trezentos e vinte mil reais), com vencimento da última parcela no dia 10 de outubro de 2026.
+R$ 320.000,00
+O valor real acima apontado não é líquido, à medida que:
+O valor patrimonial lançado sofrerá redução pela regularização dos imóveis, o que se estima numa redução de R$ ............000,00 (....................... MIL REAIS) do valor total avaliado da empresa, afora os ônus de eventual dissolução da empresa em relação a parte de algum(ns) sócio(s).
+Há que se ter em mente, que haverá ônus de eventual dissolução da empresa em relação a parte de algum(ns) sócio(s), não podendo serem considerados como líquidos os valores alcançados na avaliação patrimonial.
+Conforme consulta verbal com os profissionais, possíveis para serem contratados para realizar os serviços, estimam que os custos administrativos para a execução dos serviços de legalização das áreas ficam em torno de R$ .........000,00 (............... MIL REAIS) e com despesas extras em torno de R$ ..........000,00 (.......... MIL REAIS), totalizando aproximadamente um custo de R$ .....000,00 (............ MIL REAIS).
+Afora os custos com os Serviços Notariais competentes para lavratura das Escrituras Públicas: aproximadamente no valor de R$ ..........000,00 (............... MIL REAIS), cada uma.
+Afora os custos com os Serviços Registrais para registro das Escrituras Públicas: aproximadamente no valor de R$ .........000,00 (.............. MIL REAIS), cada uma.
+Perfazem todas as despesas, um TOTAL de aproximadamente R$ ..........000,00 (................. MIL REAIS), que deverão ser satisfeitas pela credora e proprietária das áreas de terras SIVIERO EMPREENDIMENTOS IMOBILIÁRIOS LTDA.
+O BALANÇO PATRIMONIAL E CONTÁBIL ESTÁ PRONTO E CONFERIDO, E SERÁ LANÇADO PELA ESCRITA CONTÁBIL NESSA DATA, QUE NÃO CORRESPONDE À REALIDADE FÁTICA DA EMPRESA.
+................................................................................................................................................................
+Veranópolis – RS, 31 de dezembro de 2024.
+Adélia Frizon Siviero
+Luciane Siviero 					Joel Siviero			Camila Zanetti
+Josiane Siviero					Pedro Paulo Zanatta Filho
+Araceli Siviero					Mário Henrique Bordignon
+Raul Siviero
+Graciele Siviero					Diego Fernandes Cardoso
+Giovani Siviero					Ana Paula da Cruz Cavalheiro
+Anair Dalvina Cesca Siviero
+Roberta Siviero					Jonas Freitas Bavaresco
+André Luiz Siviero				Sandra Regina Siviero
+Benta Elisa Velho Siviero
+Luís Artur Siviero				Flávia Mânica Siviero		Walter Siviero Júnior
+Vagner Siviero					Kátia Regina Colombo Siviero
+Élcio Siviero 					Pedro Siviero

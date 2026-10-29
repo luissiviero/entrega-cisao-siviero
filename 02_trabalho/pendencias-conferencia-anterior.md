@@ -1,0 +1,18 @@
+# Estudo à parte: pendências da conferência de 26/10/2026
+
+Origem: `C:\inventario-siviero\conferencia-discrepancias.md` (conferência das planilhas `ativos-avaliados-valter.xlsx` e `inventario-2025-avaliacoes.xlsx` contra as fontes). As pendências abaixo não bloqueiam o estudo principal; cada uma recebe o que falta para ser decidida. Participação é 1/6 em todos os casos (premissa P1), o que já resolve a pendência F3 daquela conferência.
+
+| # | Pendência | Fontes em conflito | Valor em jogo | O que falta para decidir | Situação |
+|---|---|---|---|---|---|
+| 1 | **Área da Fazenda São Crispin.** Estudo de Rafael usa 491,0 ha totais, 83,47 ha vendidos à Família Rigo e avalia 407,53 ha. O docx do Hotel Princesa dos Vales diz 686,75 ha totais, 190,00 ha vendidos à Família Rigo e 85,32 ha à Família Pellegrini, restando 411,43 ha. | Estudo 2 (p. 5) × docx "ÁREA DE TERRAS VENDIDAS" | R$ 44.828.300,00 (base 407,53 ha) | Matrículas da fazenda com as áreas registradas; contratos de venda Rigo e Pellegrini. Hipótese: 407,53 + 4,0 ha da matrícula 11.090 = 411,53 ha, a 0,10 ha dos 411,43 ha. | Aberta |
+| 2 | **Matrícula 00.760 duplicada** na lista das 10 matrículas da Fazenda São Crispin do estudo de Rafael (48,0 ha e 100,0 ha). | Estudo 2 (p. 5) | Área (491 ha somados com a duplicata) | Confirmar com Rafael qual é o número correto da segunda matrícula. | Aberta |
+| 3 | **Imóvel BR-470 (Oleoplan), item 04 da SEI no estudo de Rafael.** Declara R$ 10.631.378,60, mas as parcelas descritas somam R$ 13.631.378,60 (terreno 9.584.060,00 + pavilhões 3.113.322,00 + 30 % de obra 933.996,60). | Estudo 2 (PDF "Diretrizes"), item 04 da Empresa 10 × inventário 2025 doc 11, áreas urbanas item 04 | R$ 3.000.000,00 | **Esclarecida em 28/10/2026:** o inventário 2025 (doc 11) avalia o imóvel em R$ 13.631.378,60, igual à soma das parcelas. O R$ 10.631.378,60 é erro de transcrição de Rafael. Tratamento: adotar R$ 13.631.378,60 (valor do grupo) e registrar a divergência na planilha-mestre. | Esclarecida |
+| 4 | **Nota de R$ 1.135.000,00 da Transportadora** (acréscimo ao capital de bens, itens 03, 04 e 05), mas os três itens somam R$ 1.020.000,00. | Inventário 2025, doc 08 | R$ 115.000,00 | Pedir ao grupo a composição do acréscimo. | Aberta |
+| 5 | **Versão oficial da planilha 2025 no repositório.** `inventario-irmaos/inventario-2025-siviero.xlsx` (Ativos com 50 linhas) × `inventario-2025-avaliacoes-corrigido.xlsx` (Ativos com 152 linhas + aba de correções). | Repositório `C:\inventario-siviero` | — | A versão da raiz, corrigida, é a mais completa e recente; `inventario-irmaos/` é anterior. Decisão proposta: tratar `inventario-irmaos/` como obsoleta. | Proposta |
+| 6 | **Lotes 27 e 28 da Quadra 38 (Estacionamento do Bigode)** com a mesma matrícula 73.482 no estudo e no inventário do Hotel Araçá. | Estudo 2 × inventário doc 06 | — | Confirmar se é matrícula única para os dois lotes. | Aberta |
+| 7 | **Inventários que a conferência deu como ausentes** (01, 02, 05 e 11) hoje existem nas duas pastas. A planilha de avaliações 2025 não cobre essas 4 empresas. | Pasta `2025/inventário-2025` | — | Não é mais pendência de fonte: as 4 empresas entram na planilha-mestre (Fase 0.7). | Resolvida na Fase 0 |
+
+Atualizado em 28/10/2026.
+
+
+**Nota de 28/10/2026 (fechamento da Parte 3):** o tratamento do item 3 (Oleoplan) foi substituído por decisão do Luís no pacote 2. Valor adotado: R$ 10.631.378,60 (Rafael, C0), mantido após a revisão, ciente do risco de o outro lado alegar erro de soma (R$ 3.000.000). Ver `log-decisoes.md`. O texto acima registra a leitura anterior e não vale como posição.

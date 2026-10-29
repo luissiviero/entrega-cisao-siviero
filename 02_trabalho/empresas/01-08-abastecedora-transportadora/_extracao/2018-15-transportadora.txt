@@ -1,0 +1,52 @@
+Empresa   da  FAMÍLIA SIVIERO
+INVENTÁRIO  DE MÓVEIS E IMÓVEIS
+TRANSPORTADORA IRMÃOS SIVIERO LTDA.
+CNPJ/MF: 87.557.070/0001-23
+Avenida Pinheiro Machado, nº 710 - Sala nº 01 - Bairro Centro
+Fone: 0 54 3441 1226
+Veranópolis – RS = CEP.: 95.330-000
+QUADRO SOCIETÁRIO REAL,  DE  FATO  E DE DIREITO
+T1.R1: NOME DO SÓCIO | CPF/MF | VALOR E % COTAS CAPITAL
+T1.R2: IRINEU SIVIERO | 005.682.870-53 | R$ 1.818,00 = 18,18%
+T1.R3: RAUL SIVIERO | 026.666.930-15 | R$ 1.818,00 = 18,18%
+T1.R4: VALTER SIVIERO | 202.511.810-49 | R$ 1.818,00 = 18,18%
+T1.R5: ELCIO SIVIERO | 114.987.900-97 | R$ 1.818,00 = 18,18%
+T1.R6: ADÉLIA FRIZON SIVIERO | 647.482.600-25 | R$ 1.818,00 = 18,18%
+T1.R7: PEDRO SIVIERO | 227.128.100-82 | R$ 710,00 = 7,10%
+T1.R8: ROVILIO SIVIERO | 225.676.150-91 | R$ 200,00 = 2,00%
+T1.R9: TOTAL..................................................................... | R$ 10.000,00 = 100,00%
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+CONSTITUIÇÃO  DO  NOVO  QUADRO  SOCIETÁRIO  A CONTAR DE 01.12.2003
+NÃO REAL
+T2.R1: NOME DO SÓCIO | CPF/MF | % COTAS CAPITAL
+T2.R2: RAUL SIVIERO | 026.666.930-15 | R$ 95.000,00 = 95,00%
+T2.R3: LUCIANE SIVIERO | 568.315.870-20 | R$ 5.000,00 = 5,00%
+T2.R4: TOTAL........................................................................... | R$ 100.000,00 = 100,00%
+T3.R1: Item | Descrição do(s) bem(ns) | Valor
+T3.R2: 01 | Um veículo caminhão SCANIA = PLACA IKR 2054, ano 2002. Trabalha para a JBS – Thiago Binda. | R$ 140.000,00
+T3.R3: 02 | Uma carreta RANDON = PLACA IQB 0612, ano 2009. | R$ 30.000,00
+T3.R4: 03 | Um veículo caminhão SCANIA = PLACA IJZ 5399, ano 2001. Trabalha para a SEI – prancha. | R$ 140.000,00
+T3.R5: 04 | Uma carreta RANDON = PLACA IJZ 8207, ano 2001. | R$ 30.000,00
+T3.R6: 05 | Uma sala comercial, utilizada com o consultório da Fisioterapeuta Araceli Siviero, localizada na Avenida Dr. José Montaury, nº 1678, Sala nº 01, Bairro Palugana, no Edifício Dona Ângela Siviero, na cidade de Veranópolis – RS, com área de 52,91m², devidamente registrada no Ofício de Registros de Imóveis da Comarca de Veranópolis – RS, sob Matrícula nº 18.952. 02 CUB ao metro quadrado X R$ 1.407,45. | R$ 149.000,00
+T3.R7: 06 | Uma sala comercial, utilizada com o escritório das empresas, localizada na Avenida Pinheiro Machado, nº 710, Sala nº 01, Bairro Centro, no Edifício Luiz Siviero, na cidade de Veranópolis – RS, com área de 243,30m², devidamente registrada no Ofício de Registros de Imóveis da Comarca de Veranópolis – RS, sob Matrícula nº 7.393. 02 CUB ao metro quadrado X R$ 1.407,45. | R$ 685.000,00
+T3.R8: 07 | Móveis, materiais diversos (mesas, cadeiras, telefone, etc...), equipamentos de informática e outros equipamentos instalados no Escritório das empresas Siviero, na cidade de Veranópolis – RS, na Avenida Pinheiro Machado, nº 710 – Sala nº 01, Bairro Centro. | R$ 30.000,00
+T3.R9: 08 | Um apartamento residencial, localizado na Avenida Pinheiro Machado, nº 710, denominado de nº 401, Bairro Centro, no Edifício Luiz Siviero, na cidade de Veranópolis – RS, com área total de 168,91m², área privativa de 127,05m², devidamente registrado no Ofício de Registros de Imóveis da Comarca de Veranópolis – RS, sob Matrícula nº 7.400. | R$ 360.000,00
+T4.R1: Item | Descrição do(s) bem(ns) | Valor
+T4.R2: 09 | Um apartamento residencial, localizado na Avenida Pinheiro Machado, nº 710, denominado de nº 102, Bairro Centro, no Edifício Luiz Siviero, na cidade de Veranópolis – RS, com área total de 125,89m², área privativa de 84,03m², devidamente registrado no Ofício de Registros de Imóveis da Comarca de Veranópolis – RS, sob Matrícula nº 7.395. - Conforme acordo dentre as partes, este imóvel foi doado para a Senhora Geni Siviero Mattiuz, pelos motivos de conhecimento de todos – cuidados dispensados para a Nona Dona Ângela A. B. Siviero. | R$ 220.000,00
+T4.R3: TOTAL GERAL DA EMPRESA....................................... | R$ 1.784.000,00 (-) R$ 220.000,00 R$ 1.564.000,00
+VALOR    REAL    DE   CADA   SÓCIO   CONFORME   A   COTA   DE   CAPITAL
+T5.R1: NOME DO SÓCIO | CPF/MF | % COTAS DE CAPITAL E VALOR R$
+T5.R2: IRINEU SIVIERO | 005.682.870-53 | 16,333 = R$
+T5.R3: RAUL SIVIERO | 026.666.930-15 | 16,333 = R$
+T5.R4: VALTER SIVIERO | 202.511.810-49 | 16,333 = R$
+T5.R5: ELCIO SIVIERO | 114.987.900-97 | 16,333 = R$
+T5.R6: ADÉLIA FRIZON SIVIERO | 647.482.600-25 | 16,333 = R$
+T5.R7: PEDRO SIVIERO | 227.128.100-82 | 16,333 = R$
+T5.R8: ROVILIO SIVIERO | 225.676.150-91 | 2,00% = R$
+T5.R9: TOTAL....................................................................... | 100,00% = R$
+OBSERVAÇÃO: 		A empresa possui um PROCESSO JUDICIAL em tramitação para cobrança de um valor de aproximadamente R$ 150.000,00 (Cento e cinquenta mil reais), corrigidos, contra as empresas: JOVENI TRANSPORTES LTDA. x JBS x FRANGOSUL, referente aos meses de dezembro de 2011, janeiro, fevereiro, março e abril de 2012). O ingresso deu-se, faz-se de não aceitarmos a proposta de pagamento, em 76 parcelas, sem correção.
+...................................................................................................................................................................
+...................................................................................................................................................................
+Veranópolis – RS, 31 de dezembro de 2018.
+Adélia Frizon Siviero				Raul Siviero			                Irineu Siviero
+Élcio Siviero			Pedro Siviero		        Rovílio Siviero   	                Válter Siviero

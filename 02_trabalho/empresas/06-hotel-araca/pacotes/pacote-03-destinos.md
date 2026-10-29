@@ -1,0 +1,57 @@
+# Hotel Araçá (empresa 06) — Pacote 3: destino 2018 → 2025
+
+Data: 28/10/2026. Gerado por `_scripts/pacote_03.py` a partir de `planilha-mestre-06.xlsx` (md5 `a19d843afb`) e da busca `_extracoes/busca-destinos-06.xlsx` (md5 `9ee7434108`). Revisado por revisor independente (`_diario/revisao-pacote-03.md`) antes desta versão. Nada está aprovado; a linha dos dólares já foi gravada na mestre como "Pendente", sem decisão, e sai se você não aprovar.
+
+Regra (P3 e P4): o inventário de 2018 é referência de existência, não de valor. Todo bem de 2018 que não está em 2025 precisa de destino documentado; sem documento, é pendência, não duplicidade.
+
+## Busca feita
+
+- **Lido por texto:** os .docx, .xlsx, .md e as páginas com texto dos .pdf da pasta do Drive `Cisao_Siviero` e de `01_fontes` (61 arquivos distintos com algum achado), e o OCR revisado das respostas ao Dr. Pablo. Termos: as inscrições, matrículas e códigos dos cinco lotes, Busatto, casas de veraneio, "casa da esquina"/"casa ao lado", Rua da Divisa, Fiat Toro, esquina, consignado, Coletto, dólar/cofre, Capão da Canoa e Hotel Araçá (script `_scripts/busca_destinos_06.py`). Lote e quadra escritos por extenso: 0 achados.
+- **Lido pelo conector do Drive:** o doc 22 de 2018 (ata de 14/01/2019), que não está baixado no disco (1 erro de leitura). O mesmo texto está na convocação de 26/05/2017, que está no disco e foi lida (`G-SÓCIOS DAS EMPRESAS SIVIERO=ADÉLIA-IRINEU-RAUL-ÉLCIO-VÁLTE…`).
+- **Não lidos por mim:** PDFs escaneados fora do OCR (por exemplo, ACERTOS E ACORDOS, considerações de 2019, retiradas dos sócios de 2018, relatórios mensais), 3 imagens (.jpg/.png) e 4 .doc antigos (cessões de quotas e contrato de compromisso mútuo de 2003). O revisor leu como imagem a ata de 14/01/2019, o relatório do hotel de 2025 e as retiradas de 2018, e pelo conector dois dos .doc; nenhum traz destino dos cinco lotes.
+- **Resultado:** nenhuma escritura, venda ou permuta dos cinco lotes depois de 2018. Há uma possível entrega a sócio: o arquivo 18 (planilha de Válter "para acerto futuro") registra, no bloco de 10.06.2019, um "Lote Capão da Canoa", "lote na esquina próximo ao Hotel Araçá Ltda., com valor diferenciado aos demais lotes dados aos sócios" (p. 3, sem inscrição e sem valor). Os lotes de Adélia e Pedro (inscrições 360.0074.030 e .031, matrículas 77.833 e 74.857) só aparecem no inventário de 2018.
+
+## Os cinco lotes de 2018 sem par em 2025
+
+| # | Lote em 2018 | Nome no lugar do valor | Inventário 2015 | Versão na pasta "2018_desatualizado" | Evidências (planilha-mestre) | Proposta |
+|---|---|---|---|---|---|---|
+| D1 | 20: insc. 360.0019.004.000, 450,00 m², sem matrícula | VÁLTER SIVIERO | não | item 20 do Hotel, sem nome e sem valor | doc 6 de 2018 (relação de imóveis para IPTU de Válter e família): 'Valter Siviero; 360.0019.004.000; Capão da Canoa; R$ 500,00' / arquivo 18, p. 3 (planilha de Válter 'para acerto futuro', bloco de 10.06.2019): 'Lote Capão da Canoa Lote na esquina próximo ao Hotel Araçá Ltda., com valor diferenciado aos demais lotes dados aos sócios.' — sem inscrição / pode ser este lote, mas não está provado / risco de cruzar com o item 02 (lote 03/q19, lista de Rafael) / lote vizinho do item 02 de 2025 (inscrição 360.0019.003.000), que está na lista de Rafael | Pendente. Indício de bem do sócio: na lista de IPTU de Válter e família (doc 6); o arquivo 18 registra um "Lote Capão da Canoa" na esquina perto do Hotel entre os "lotes dados aos sócios" (2019), sem inscrição. Sem ato de transferência. |
+| D2 | 22: insc. 360.0057.002.000, 308,40 m², sem matrícula, com casa | RAUL SIVIERO | não | item 23 do Hotel, sem nome e sem valor | doc 25 de 2018, seção Hotel: 'CASA AO LADO: Raul Siviero', entre as '02 casas de veraneio dos Sócios' mantidas pelo Hotel / lote com casa / possível correspondência com as duas residências da Rua da Divisa citadas por Rafael (p. 24): a confirmar / lista de IPTU de 2018 do sócio (doc 1) tem imóvel em Capão da Canoa sem inscrição: 'Raul Siviero; Capão da Canoa; R$ 500,00' | Pendente. O doc 25 atribui a "CASA AO LADO" a Raul por acordo entre os sócios, com manutenção paga pelo Hotel; sem ato de transferência. Provável uma das duas casas citadas por Rafael (E2; G8; candidato 5 da Parte 6). |
+| D3 | 23: insc. 360.0057.001.000, 308,40 m², sem matrícula, com casa | ELCIO SIVIERO | não | item 22 do Hotel, sem nome e sem valor | nota de 2018: 'trocou este lote/casa por um lote no Loteamento Aditivo Medianeira' / valor '(Avaliar Lote e Casa)' / o total de 2018 ressalva '+ o valor da casa e lote – Élcio Siviero' / doc 25 de 2018 (seção Élcio): 'Lote 10 – Quadra 03 – Loteamento Aditivo Madianeira, que conforme contrato foi dado para o Paulo Busatto, pelo valor de R$ 70.000,00 (Trocado com o lote de Capão da Canoa – CASA).' (lote da SEI: candidato à Parte 6) / doc 25 de 2018, seção Hotel: 'CASA DA ESQUINA: Élcio Siviero (que pertence à empresa Siviero)', entre as '02 casas de veraneio dos Sócios' mantidas pelo Hotel / lote com casa / possível correspondência com as duas residências da Rua da Divisa citadas por Rafael (p. 24): a confirmar | Pendente, com leituras em conflito (abaixo). Provável a outra casa citada por Rafael (E2; G8; candidatos 2 e 5 da Parte 6). |
+| D4 | 24: insc. 360.0074.030.000, 300,00 m², 77.833 | ADÉLIA F. SIVIERO | não | não | matrícula 77.833 sequencial à 77.832 do item 02 de 2025 (lista de Rafael) / lista de IPTU de 2018 do sócio (doc 5) tem imóvel em Capão da Canoa sem inscrição: 'Jose Valerio Siviero; Capão da Canoa; R$ 500,00' | Pendente. Nenhum documento além do inventário 2018. |
+| D5 | 25: insc. 360.0074.031.000, 300,00 m², 74.857 | PEDRO SIVIERO | não | não | lista de IPTU de 2018 do sócio (doc 4) tem imóvel em Capão da Canoa sem inscrição: 'Pedro Siviero; Capão da Canoa; R$ 500,00' | Pendente. Nenhum documento além do inventário 2018. |
+
+Inventário de 2015: tem 19 itens, os mesmos 01 a 19 de 2018 (pela matrícula); nenhum dos cinco lotes. A versão da pasta "2018_desatualizado" se chama "… Dezembro de 2015", mas a data real é incerta: tem os lotes de Válter, Irineu, Élcio e Raul como itens comuns do Hotel, e a versão final de 2018 põe o nome do sócio no lugar do valor.
+
+**D3, as leituras possíveis da troca de Élcio:**
+1. **A casa é bem de empresa e falta em 2025.** O inventário 2018 manda "(Avaliar Lote e Casa)" e o total diz "+ o valor da casa e lote – Élcio Siviero"; o doc 25 diz "CASA DA ESQUINA: Élcio Siviero (que pertence à empresa Siviero)"; a divisão de lotes de 2015 lançava R$ 70.000,00 contra Élcio pelo lote dado a Paulo Busatto, e em 2018 esse valor fica em branco, com a nota "Trocado com o lote de Capão da Canoa – CASA". Nessa leitura, Élcio entregou a casa à empresa em troca do lote da SEI, e é isso que Rafael aponta na p. 24. Pelo C0, se a casa ficar na empresa, entra com o maior valor.
+2. **A casa é de Élcio.** Ele recebeu a casa de Busatto, e o lote da SEI foi o pagamento, lançado como capital pago pelas empresas a ele (doc 25, seção Élcio). Contra: o doc 25 diz que a casa "pertence à empresa Siviero".
+3. **Troca a favor do sócio, com a casa saindo da empresa.** Era a leitura da versão anterior deste pacote. Não se sustenta sem documento.
+Proposta: não escolher agora. Pergunta G7: qual é a "empresa Siviero" dona da casa e quem é o titular hoje.
+
+**Lotes que os sócios têm em Capão por conta própria.** As listas de IPTU de 2018 de Élcio (360.0059.005.000) e de Irineu (360.0058.001.000 e "Circo") trazem outros imóveis em Capão, perto da quadra 0057. São bens dos sócios, fora do Hotel, e não destino dos lotes acima. O doc 5 é a lista de José Valério, que figura com Adélia nos quadros societários.
+
+**Efeito no valor.** Nenhum agora (P3). Se algum desses lotes, ou as casas, for da empresa em 31/12/2024, tem de entrar no inventário 2025 com valor; pelo C0, um bem que fica na empresa leva o maior valor. Se for do sócio, o destino é a entrega ao sócio, que precisa ser documentada e lançada na conta dele (Parte 4).
+
+## Outros achados
+
+- **D6. Área construída do hotel.** Era 12.000,00 m² em 2018 e é 10.500,00 m² em 2025. A diferença de 1.500 m² não tem destino documentado (demolição, erro de medição ou área equivalente). Pergunta G3. Pendente.
+- **D7. Dólares do Hotel no cofre em Veranópolis.** O anexo "Planilha – resumo dos dólares" da convocação de 26/05/2017, repetido na ata de 14/01/2019 (doc 22 de 2018), registra U$ 37.698,00 "total no cofre em Veranópolis" em 25/05/2017. Não estão no inventário 2018 nem no de 2025. Por estarem num documento do conjunto de 2018, trato como bem existente em 2018 que precisa de destino (P4), sem valor por ora. O mesmo anexo registra saídas:
+  - U$ 9.000,00 "Pago Coletto–Gramado – 02 lotes" (15.05.2009). A lista de IPTU de Válter de 2018 (doc 6) traz lotes no Lago Negro, em Gramado: Siviero Empreend. Imobiliários Ltda. Valter Siviero; L:       Q: A definir; Gramado  Loteamento Lago Negro; R$ 1.000,00; Válter Materiais de Construção Ltda.; L:   18    Q:  06; Gramado  Loteamento Lago Negro; R$ 1.000,00; Válter Materiais de Construção Ltda.; L:   08    Q:  02; Gramado  Loteamento Lago Negro; R$ 1.000,00. Não está provado que sejam os mesmos.
+  - U$ 1.000,00 para Válter Siviero, "Viagem Cruzeiro" (23.02.2012), e U$ 700,00 para Luciane Siviero, "Viagem Peru" (09.09.2013).
+  Situação na mestre: "Não abordado", destino "Pendente (Parte 4)".
+- **D8. Proposta de divisão de 2017.** A convocação de 26/05/2017 (repetida em 2019) diz, para o sócio que ficar com o Hotel: "pode ser agregado a casa, EXCETO os lotes adquiridos adjacentes". Não diz qual casa. A exclusão dos "lotes adquiridos adjacentes" interessa à lista de Rafael, que escolheu cinco lotes vizinhos ao hotel. Só registro.
+
+## Perguntas e candidatos propostos
+
+- **G7 (refeita, junta os cinco lotes e as duas casas; a G8 fica só para a Fiat Toro):** de quem são hoje os lotes das inscrições 360.0019.004.000, 360.0057.001.000, 360.0057.002.000, 360.0074.030.000 e 360.0074.031.000 (matrículas 77.833 e 74.857)? Qual foi o destino de cada um desde 2018? O "Lote Capão da Canoa" do arquivo 18 (2019) é qual deles? As duas casas da esquina da Rua da Divisa com a Rua Três são os lotes 360.0057.001 e .002? Qual é a "empresa Siviero" dona da casa da esquina? Quem paga a manutenção das casas?
+- **G12 (nova):** qual foi o destino dos U$ 37.698,00 do Hotel guardados no cofre em Veranópolis em 25/05/2017? Os 2 lotes de Gramado pagos em 2009 com U$ 9.000,00 do Hotel estão em nome de quem?
+- **Candidato 6 da Parte 6:** dólares do Hotel usados para lotes em Gramado (2009) e entregues a Válter e Luciane (2012–2013): saídas do Hotel sem contrapartida registrada.
+- **Candidato 7 da Parte 6:** o lote de Capão "dado aos sócios" no arquivo 18 (2019), lançado na conta de Válter. Se for um dos lotes do Hotel que ainda estão no inventário 2025 (por exemplo o item 02, lote 03/q19, da lista de Rafael, vizinho do lote D1), o mesmo bem estaria entregue e escolhido duas vezes.
+
+## O que peço para aprovar
+
+1. Registrar D1 a D5 como **pendentes**, com as evidências acima na coluna "Destino 2018→2025" da mestre. D3 fica com as três leituras, sem escolher.
+2. Registrar D6 como pendente (G3).
+3. D7: manter a linha dos dólares na mestre, sem valor, com destino pendente (P4).
+4. Refazer a G7, mudar a G8 e acrescentar a G12; acrescentar os candidatos 6 e 7 da Parte 6.

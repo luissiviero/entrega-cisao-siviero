@@ -1,0 +1,70 @@
+Empresa   da  FAMÍLIA SIVIERO
+INVENTÁRIO  DE MÓVEIS E IMÓVEIS
+AGROPECUÁRIA  FAZENDA  SÃO  CRISPIN LTDA.
+Estrada Linha São Crispin, nº 3780 - Capela de São Sebastião - Distrito de Chimarrão
+CNPJ/MF: 23.869.428/0001-70
+Fone: 0 54 3441 1226
+95.310-000  -  André da Rocha - RS
+QUADRO SOCIETÁRIO REAL,  DE  FATO  E DE DIREITO
+T1.R1: NOME DO SÓCIO | CPF/MF | VALOR E % COTAS CAPITAL
+T1.R2: IRINEU SIVIERO | 005.682.870-53 | R$ 50.000,00 = 16,666%
+T1.R3: RAUL SIVIERO | 026.666.930-15 | R$ 50.000,00 = 16,666%
+T1.R4: VALTER SIVIERO | 202.511.810-49 | R$ 50.000,00 = 16,666%
+T1.R5: ELCIO SIVIERO | 114.987.900-97 | R$ 50.000,00 = 16,666%
+T1.R6: ADÉLIA FRIZON SIVIERO | 647.482.600-25 | R$ 50.000,00 = 16,666%
+T1.R7: PEDRO SIVIERO | 227.128.100-82 | R$ 50.000,00 = 16,666%
+T1.R8: TOTAL................................................................................ | R$ 300.000,00 = 100,00%
+CONSTITUIÇÃO  DO  NOVO  QUADRO  SOCIETÁRIO  A CONTAR DE 01.12.2015
+NÃO REAL
+T2.R1: NOME DO SÓCIO | CPF/MF | % COTAS CAPITAL
+T2.R2: MARCOS ANTÔNIO SIVIERO | 817.112.550-68 | R$ 150.000,00 = 50,00%
+T2.R3: PEDRO SIVIERO | 227.128.100-82 | R$ 150.000,00 = 50,00%
+T2.R4: TOTAL........................................................................... | R$ 300.000,00 = 100,00%
+T3.R1: Item | Descrição do(s) bem(ns) | Valor
+T3.R2: 01 | Uma área de terras rurais, denominada de FAZENDA SÃO CRISPIN, localizada na Capela de São Sebastião, no Distrito do Chimarrão, no Município de André da Rocha – RS, com área total de 491,0 hectares, áreas estas registradas sob Matrículas nº.: Matrícula nº 14.221 = 50,0 hectares. - Matrícula nº 13.615 = 37,2 hectares. Matrícula nº 13.650 = 49,0 hectares. - Matrícula nº 00.760 = 48,0 hectares. Matrícula nº 11.462 = 100,0 hectares. - Matrícula nº 05.435 = 25,0 hectares. Matrícula nº 09.959 = 6,8 hectares. - Matrícula nº 04.443 = 25,0 hectares. Matrícula nº 00.760 = 100,0 hectares. - Matrícula nº 12.473 = 50,0 hectares. Cadastrada no CCIR – Receita Federal sob nº 2.898.196-0 Área Dona Rita–parte produtiva=35,00% = 100,0 ha – R$ 44.000,00 = R$ 4.400.000,00 Área Dona Rita–parte não produtiva=65,00% = 186,0 ha – R$ 22.000,00 = R$ 4.092.000,00 Área Zancheta–parte produtiva=80,00% = 45,6 ha – R$ 44.000,00 = R$ 2.006.400,00 Área Zancheta–parte não produtiva=20,00% = 11,4 ha – R$ 22.000,00 = R$ 250.800,00 Área Jane/João Paulo–parte produtiva=100,00%=148,0 ha–R$ 44.000,00= R$ 6.512.000,00 | V E N D I D A Somente 83,47 ha desta área total Família Rigo R$ 17.261.200,00
+T3.R3: 01 | Uma área de terras rurais, denominada de FAZENDA SÃO CRISPIN, com área total de 106,53 hectares, DENTRO DE UM TODO MAIOR, localizada na Capela de São Sebastião, no Distrito do Chimarrão, no Município de André da Rocha – RS, adquirida do Senhor ALZIR CHIARADIA e AQUILES PIO FRANCESCHETTE, área esta registrada sob Matrícula nº.: 11.090.W Matrícula nº 11.090 = 106,53 hectares. Cadastrada no CCIR – Receita Federal sob nº ..... Adquirida por CONTRATO DE COMPRA E VENDA, datado de 05 de setembro de 2005. Área Alzir – parte produtiva = 35,00% = 37,275 ha – R$ 44.000,00 = R$ 1.640.100,00 Área Alzir – parte não produtiva = 65,00% = 69,225 ha – R$ 22.000,00 = R$ 1.522.950,00 | V E N D I D A Família Rigo R$ 3.163.050,00
+T3.R4: 01 | Uma área de terras rurais, denominada de FAZENDA SÃO CRISPIN, com área total de 4,9 hectares, localizada na Capela de São Sebastião, no Distrito do Chimarrão, no Município de André da Rocha – RS, adquirida do Senhor JOÃO ANASTÁCIO ANTÔNIO RODRIGUES, área esta registrada sob Matrícula nº.: 982. Matrícula nº 982 = 4,9 hectares. Cadastrada no CCIR – Receita Federal sob nº 6.213.278-4 Área Anastácio – parte não produtiva = 100,00% = 4,9 ha – R$ 22.000,00 = R$ 107.800,00 | V E N D I D A Família Pellegrini R$ 107.800,00
+T3.R5: 01 | Uma área de terras rurais, denominada de FRAÇÃO IDEAL, com área total de 10,0 hectares, DENTRO DE UM TODO MAIOR, localizada na Capela de São Sebastião, no Distrito do Chimarrão, no Município de André da Rocha – RS, adquirida do Senhor AITO ANTÔNIO DA SILVERIRA VIEIRA, área esta registrada sob Matrícula nº 11.661 = 10,0 hectares. Cadastrada no CCIR – Receita Federal sob nº........... Adquirida por CONTRATO DE COMPRA E VENDA, datado de 26 de setembro de 2007. Área Aito – parte não produtiva = 100,00% = 10,0 ha – R$ 22.000,00 = R$ 220.000,00 | V E N D I D A Família Pellegrini R$ 220.000,00
+T3.R6: 01 | Uma área de terras rurais, denominada de FAZENDA SÃO CRISPIN, com área total de 26,16 hectares, localizada na Capela de São Sebastião, no Distrito do Chimarrão, no Município de André da Rocha – RS, adquirida do Senhor ADEMAR RIBEIRO, área esta registrada sob Matrícula nº.: ............... Matrícula nº ................ = 26,16 hectares. Cadastrada no CCIR – Receita Federal sob nº .......................... Área Ademar–parte não produtiva = 100,00% = 26,16 ha – R$ 22.000,00 = R$ 575.520,00 | V E N D I D A Família Pellegrini R$ 575.520,00
+T3.R7: 01 | Uma área de terras rurais, denominada de FAZENDA TRÊS PORTEIRAS, com área total de 44,16 hectares, localizada na Capela de São Sebastião, no Distrito do Chimarrão, no Município de André da Rocha – RS, área esta registrada sob Matrícula nº.: Matrícula nº ......... = 44,1 hectares. Cadastrada no CCIR – Receita Federal sob nº 2.566.238-4 Área Garbin – parte não produtiva = 100,00% = 44,16 ha – R$ 22.000,00 = R$ 971.520,00 | V E N D I D A Família Pellegrini R$ 971.520,00
+T4.R1: Item | Descrição do(s) bem(ns) | Valor
+T4.R2:  | Uma área de terras rurais, denominada de FAZENDA SÃO CRISPIN, com área total de 4,0 hectares, DENTRO DE UM TODO MAIOR, localizada na Capela de São Sebastião, no Distrito do Chimarrão, no Município de André da Rocha – RS, adquirida do Senhor Dirceu Prestes e Lairton, área esta registrada sob Matrícula nº.: 11.090. Matrícula nº 11.090 = 4,0 hectares. Cadastrada no CCIR – Receita Federal sob nº ..... Adquirida por CONTRATO DE COMPRA E VENDA, em dezembro de 2015. Área Dirceu/Lairton–parte produtiva=100,00%=4,0 ha – R$ 44.000,00 = R$ 176.000,00 | R$ 176.000,00
+T4.R3:  | Benfeitorias existentes, como: cercas, terraplenagem de lavouras, construções, banheiras de gado, galpão, implementos agrícolas, roçadeira, moinho, etc. | R$ 300.000,00
+T4.R4:  | Valor total de todas as áreas da Fazenda São Crispin.... | R$ 22.775.090,00
+T4.R5: 02 | Uma área de terras rurais, denominada de PARTE DO LOTE RURAL Nº 24 e 24/E, com área total de 10,2 hectares, localizada na Linha Júlio de Castilhos, no Município de Cotiporã – RS, adquirida do Senhor CELITO PIEROZAN, área esta registrada sob Matrículas nº.: 2.424 e 2.425. Matrículas nº 2.424 e 2.425 = 10,2 hectares X R$ 40.000,00 Cadastrada no CCIR – Receita Federal sob nº 2.481.949-2 Vendido em 2018, a área total para o Senhor ANGELI, pelo valor de R$ 510.000,00 (Quinhentos e dez mil reais), de forma, À VISTA. | V E N D I D A Família ANGELI R$ 408.000,00
+T4.R6: 03 | Uma área de terras rurais, denominada de PARTE DO LOTE RURAL Nº 12, com área total de 13,0 hectares + 7,5 hectares, localizada na Linha Júlio de Castilhos, no Município de Veranópolis – RS, adquirida da FAMÍLIA SANGALI, área esta registrada sob Matrícula nº.: 3.062. Matrícula nº 3.062 = 20,5 hectares X 11.000,00 Cadastrada no CCIR – Receita Federal sob nº 2.481.950-6 | R$ 225.500,00
+T4.R7: 04 | Uma área de terras rurais, denominada de PARTE DO LOTE RURAL Nº 89, com área total de 27,8 hectares, localizada na Linha Barão do Triunfo, no Município de Fagundes Varela – RS, adquirida do Senhor SÉRGIO BALDISSERA, área esta registrada sob Matrícula nº.: 8.486. Matrícula nº 8.486 = 27,8 hectares X R$ 9.000,00 Cadastrada no CCIR – Receita Federal sob nº 2.481.951-4 | R$ 250.200,00
+T4.R8: 05 | Uma área de terras rurais, denominada de LOTE Nº 33, com área total de 15,1 hectares, localizada no Município de Cotiporã – RS, na Linha Júlio de Castilhos, adquirida do Senhor ARMELINDO CALZA, área esta registrada sob Matrícula nº.: 1.218. Matrícula nº 1.218 = 15,1 hectares X R$ 5.000,00 | R$ 75.500,00
+T4.R9: 06 | Uma área de terras rurais, denominada de PARTE DO LOTE RURAL Nº 52, com área total de 15,1 hectares, localizada na Linha Júlio de Castilhos, no Município de Cotiporã – RS, adquirida da Senhora GLORIA E GERALDO BASSANI, área esta registrada sob Matrícula nº.: 7.391 - Matrícula nº 7.391 = 15,1 hectares X R$ 15.000,00 Cadastrada no CCIR – Receita Federal sob nº 2.481.952-2 | R$ 226.500,00
+T5.R1: Item | Descrição do(s) bem(ns) | Valor
+T5.R2: 07 | Uma área de terras rurais, denominada de LOTES RURAIS Nº 63, 65, 66 e LETRA “N”, com área total de 69,8 hectares, localizada na Linha Júlio de Castilhos, Capela de São Brás, no Município de Cotiporã – RS, área esta registrada sob Matrículas nº.: 459, 460, 461 e 558. Matrículas nº 459, 460, 461 e 558 = 69,8 hectares. Cadastrada no CCIR – Receita Federal sob nº 2.898.227-4 | R$ NÃO DIVISÍVEL
+T5.R3: 08 | Uma área de terras rurais, denominada de Parte do lote Rural nº 63, da Linha Dr. Júlio de Castilhos, com área total de 4,5 hectares, DENTRO DE UM TODO MAIOR, localizada ao lado das terras na Capela de São Brás, no Município de Cotiporã – RS, adquirida do Senhor Tercílio Dal Más, área esta registrada sob Registro nº.: 15.922 = 4,5 hectares. Cadastrada no CCIR – Receita Federal sob nº ......... Adquirida por CONTRATO DE COMPRA E VENDA, datado de 25 setembro de 2008, pelo valor de R$ 50.000,00. | R$ NÃO DIVISÍVEL
+T5.R4: 09 | Um trator agrícola da marca VALTRA, modelo BM100, 4 x 4 – TURBO, ano 2010. | R$ 116.600,00
+T5.R5: 10 | Um veículo Mercedinha 709, com boiadaeira, marca MERCEDES BENZ, ano 1991, modelo 1991, placa JTB 8585. | R$ 35.000,00
+T5.R6: TOTAL GERAL DA EMPRESA....................................... | R$ 24.112.390,00
+686,75 ha	– 	ÁREA TOTAL DE TERRAS NA FAZENDA SÃO CRISPIN.
+(-)190,00 ha 	– 	VENDIDA PARA A FAMÍLIA RIGO.
+(-)  85,32 ha 	– 	VENDIDA PARA A FAMÍLIA PELLEGRINI.
+411,43 ha 	– 	TOTAL DE TERRAS NA FAZENDA SÃO CRISPIN.
+T6.R1: Vendido em 2018, uma área de terras de 190,0 hectares para a FAMILIA RIGO, ao valor de R$ 49.726,30, ao hectare, de forma parcelada = R$ 9.448.000,00. R$ 3.000.000,00 – À VISTA. 20.150 SACAS DE SOJA em MAIO DE 2019. O valor da saca de soja 20.150 SACAS DE SOJA em MAIO DE 2020. considerado foi de R$ 80,00 20.150 SACAS DE SOJA em MAIO DE 2021. à saca, conforme preço de 20.150 SACAS DE SOJA em MAIO DE 2022. cotação em Outubro/2018. | R$ 9.448.000,00
+T6.R2: Vendido em 2018, uma área de terras de 85,32 hectares para a FAMILIA PELLEGRINI, ao valor de R$ 2.100.000,00 (Dois milhões e cem mil reais), de forma parcelada e mais a quantidade de 41 (Quarenta e uma) cabeças de gado. R$ 100.000,00 – 41 cabeças de gado. R$ 2.000.000,00 – 85,32 ha, sendo valor de R$ 23.441,16, ao hectare. R$ 1.100.000,00 – À VISTA. R$ 1.000.000,00 – JUNHO/2019. | R$ 2.100.000,00
+T6.R3: Uma área de terras rurais, denominada de PARTE DO LOTE RURAL Nº 24 e 24/E, com área total de 10,2 hectares, localizada na Linha Júlio de Castilhos, no Município de Cotiporã – RS, adquirida do Senhor CELITO PIEROZAN, área esta registrada sob Matrículas nº.: 2.424 e 2.425. = Matrículas nº 2.424 e 2.425 = 10,2 hectares X R$ 40.000,00 = Cadastrada no CCIR – Receita Federal sob nº 2.481.949-2. Vendido em 2018, a área total para o Senhor ANGELI, pelo valor de R$ 510.000,00 (Quinhentos e dez mil reais), de forma, À VISTA. | R$ 510.000,00
+T6.R4: TOTAL RECEBIDO DAS ÁREAS VENDIDAS.................... | R$ 12.058.000,00
+T7.R1: TOTAL GERAL DA EMPRESA....................................... | R$ 24.112.390,00
+T7.R2: TOTAL RECEBIDO DAS ÁREAS VENDIDAS.................... | R$ 12.058.000,00
+T7.R3: TOTAL LÍQUIDO DA EMPRESA.................................... | R$ 12.054.390,00
+VALOR    REAL    DE   CADA   SÓCIO   CONFORME   A   COTA   DE   CAPITAL
+T8.R1: NOME DO SÓCIO | CPF/MF | % COTAS DE CAPITAL E VALOR R$
+T8.R2: IRINEU SIVIERO | 005.682.870-53 | 16,666% = R$
+T8.R3: RAUL SIVIERO | 026.666.930-15 | 16,666% = R$
+T8.R4: VALTER SIVIERO | 202.511.810-49 | 16,666% = R$
+T8.R5: ELCIO SIVIERO | 114.987.900-97 | 16,666% = R$
+T8.R6: ADÉLIA FRIZON SIVIERO | 647.482.600-25 | 16,666% = R$
+T8.R7: PEDRO SIVIERO | 227.128.100-82 | 16,666% = R$
+T8.R8: TOTAL................................................................ | 100,00% = R$
+OBSERVAÇÕES: 	É necessário transmitir todas as Escrituras Públicas das Propriedades Rurais, em nome da empresa. Atualmente, contratualmente, existe UM contrato de arrendamento de terras, de aproximadamente 100,0ha, para a FAMÍLIA LORENZETTI, que resulta numa quantidade anual de aproximadamente 1.000 (Hum mil) sacos de soja, pelo arrendamento das terras.
+................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................
+Veranópolis – RS, 31 de dezembro de 2018.
+Adélia Frizon Siviero				Raul Siviero			                Irineu Siviero
+Élcio Siviero					Pedro Siviero			                Válter Siviero

@@ -1,0 +1,1 @@
+{ "permissions": { "allow": [ "Bash(powershell.exe -NoProfile -File C:/entrega-cisao-siviero/03_entrega/apresentacao/_build/render.ps1 *)" ] } }
